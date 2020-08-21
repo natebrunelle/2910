@@ -75,7 +75,7 @@ pre { padding: 1ex; margin: 1ex 0ex; white-space: pre-wrap;  background: rgba(0,
 blockquote,.advice { border:1px solid rgba(0,0,0,0.125); padding:1ex; border-radius:1ex; background-color:rgba(0,0,0,0.04); margin:1em 4em; }
 blockquote q:before { font-size:200%; content:"“"; line-height:50%; vertical-align: -0.1em;}
 blockquote q:after { font-size:200%; content:"”"; line-height:50%; vertical-align: -0.1em; }
-blockquote,.advice div { text-align: right; }
+blockquote div,.advice div { text-align: right; }
 
 figure { max-width: 100%; display: table; margin: auto; padding: 1em; }
 figcaption { text-align: center; font-weight: bold; margin-top: 1ex; }
