@@ -58,7 +58,7 @@ You can report to
 We strongly recommend using JustReportIt, as it is much simpler to use.
 
 :::rule
-If you witness evidence of physical, sexual, or emotional abuse, report it at <JustReportIt.virginia.edu>
+If you witness evidence of physical, sexual, or emotional abuse, report it at <https://JustReportIt.virginia.edu>
 :::
 
 

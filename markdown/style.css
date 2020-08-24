@@ -162,6 +162,14 @@ table.TFL tr.then > td:nth-child(2) { border-top: thin solid black; }
 
 /* env.py inserted style */
 
+.rule {
+    margin: 1em 0em 1em 0em;
+    background: #fea;
+    border-left: #fd5 solid 0.5ex;
+    padding: 0.5em 1em;
+}
+
+
 .example {
     margin: 1em 0em 1em 0em;
     background: #e9fbe9;
