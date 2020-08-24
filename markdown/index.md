@@ -32,7 +32,7 @@ The 8^th^ is enrichment material and will be developed in the level of detail th
     :   review the [advice from previous TAs](advice.html) and [do something TBD]{style="color:red"}
     
     Quiz
-    :   *pending*
+    :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 2. Student Learning
 3. Diversity -- student-mind phenomena
