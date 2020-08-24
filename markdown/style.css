@@ -167,6 +167,7 @@ table.TFL tr.then > td:nth-child(2) { border-top: thin solid black; }
     background: #fea;
     border-left: #fd5 solid 0.5ex;
     padding: 0.5em 1em;
+    font-size: 150%;
 }
 
 
