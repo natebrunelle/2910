@@ -3,16 +3,24 @@
 <head>
     <title>Advice from Previous TAs</title>
     <style type="text/css">
-    html { 
+    html, div.votes { 
         font-size: 120%; 
         background: #630;
         color: #fdb;
         line-height: 1.33em;
     }
+    div.votes {
+        border-radius: 100%;
+        border: thin solid #f70;
+        padding: 0.5ex;
+        margin: auto;
+        display: table;
+    }
     span.votes {
         font-size: 70%;
         opacity: 0.7071;
     }
+    a,a:visited { color: inherit; }
     
     .advice { 
         max-width: 30em; display: table; margin: 1em auto;
@@ -56,21 +64,39 @@
                 d.innerHTML = '<a href="#'+x.id+'">'+x.innerHTML+'</a>';
                 stack[stack.length-1].appendChild(d);
             });
+            var d = document.createElement('a');
+            d.href="?vote=vote";
+            d.innerHTML = 'Click to adjust advice ranking';
+            document.querySelector(".toc").appendChild(d);
         }
         function keyVote(event) {
             var obj = document.querySelector('.advice.vote');
             if (!obj) return;
-            if (event.key == "ArrowUp") {
-                console.log("getvote.php?pro="+obj.getAttribute('advindex'));
+            if (event.key == "ArrowRight") {
                 fetch("getvote.php?pro="+obj.getAttribute('advindex'));
                 obj.remove();
                 event.preventDefault();
-            } else if (event.key == "ArrowDown") {
-                console.log("getvote.php?con="+obj.getAttribute('advindex'));
+            } else if (event.key == "ArrowLeft") {
                 fetch("getvote.php?con="+obj.getAttribute('advindex'));
                 obj.remove();
                 event.preventDefault();
             }
+        }
+        function swipeStart(event) {
+            window._startX = event.pageX;
+            window._startY = event.pageY;
+            event.preventDefault();
+        }
+        function swipeEnd(event) {
+            var obj = document.querySelector('.advice.vote');
+            if (!obj) return;
+            let dx = event.pageX - window._startX;
+            let dy = event.pageY - window._startY;
+            if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 10) {
+                fetch("getvote.php?"+(dx>0?"pro":"con")+"="+obj.getAttribute('advindex'));
+                obj.remove();
+            }
+            event.preventDefault();
         }
     </script>
 </head>
@@ -194,13 +220,17 @@ function showVotes() {
         echo "<div class='author'>$obj[author]</div>";
         echo "</div>";
     }
-    echo '<p class="vote">You’ve voted on all the advice! <a href="index.php">Return to the full listing</a></p>';
-    echo '<script>document.querySelector(".toc").innerHTML = `
+    ?>
+    <center class="vote">You’ve voted on all the advice!</center>
+    <script>document.querySelector(".toc").innerHTML = `
         <ul style="display:none;" id="TOC"></ul>
-        Type <kbd>↑</kbd> or swipe up to vote for;
-        type <kbd>↓</kbd> or swipe down to vote against.`
+        Type <kbd>→</kbd> or swipe right to increase ranking<br/>
+        type <kbd>←</kbd> or swipe left to decrease ranking<br/>
+        <a href="index.php">Click to return to the full listing</a>`;
         document.addEventListener("keydown", keyVote)
-    </script>';
+        document.addEventListener("mousedown", swipeStart)
+        document.addEventListener("mouseup", swipeEnd)
+    </script><?php
 }
 
 if ($_GET['vote'])
