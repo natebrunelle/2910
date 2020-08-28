@@ -120,7 +120,7 @@ Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 View, Review, Feedback | *pending* | *pending* | *pending*
 Sharing | *pending* | *pending* | *pending*
-The Steady Dedicated Course of a Lifetime | *pending* | *pending* | *pending*
+Course of a Lifetime | *pending* | *pending* | *pending*
 
 Assignment
 :   *pending*
