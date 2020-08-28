@@ -75,7 +75,13 @@ IB Mitigation | *pending* | *pending* | *pending*
 Microagressions | *pending* | *pending* | *pending*
 Equity redux | *pending* | *pending* | *pending*
 
-5. Responding to Students 
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Responding to Students 
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
@@ -83,6 +89,12 @@ Motivations | *pending* | *pending* | *pending*
 No | *pending* | *pending* | *pending*
 Make do | *pending* | *pending* | *pending*
 Distress | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
 
 ## Grading
 
@@ -96,6 +108,12 @@ Uncertainty | *pending* | *pending* | *pending*
 Rubrics and TAs | *pending* | *pending* | *pending*
 Regrades | *pending* | *pending* | *pending*
 
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
 ## Improving as a teacher
 
 Module | Writeup | Video | Audio
@@ -103,6 +121,12 @@ Module | Writeup | Video | Audio
 View, Review, Feedback | *pending* | *pending* | *pending*
 Sharing | *pending* | *pending* | *pending*
 The Steady Dedicated Course of a Lifetime | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
 
 ## Extra topics
 
