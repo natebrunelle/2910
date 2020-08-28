@@ -36,11 +36,74 @@ The 8^th^ is enrichment material and will be developed in the level of detail th
     :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 2. Student Learning
+
+    Module | Writeup | Video | Audio
+    ------ | ------- | ----- | -----
+    CLT Intro | *pending* | *pending* | *pending*
+    CLT and TAing | *pending* | *pending* | *pending*
+    Modality | *pending* | *pending* | *pending*
+    Analogy | *pending* | *pending* | *pending*
+    Socratic | *pending* | *pending* | *pending*
+    
+    Assignment
+    :   *pending*
+    
+    Quiz
+    :   *pending*
+
 3. Diversity -- student-mind phenomena
+
+    Module | Writeup | Video | Audio
+    ------ | ------- | ----- | -----
+    STT | *pending* | *pending* | *pending*
+    STT Mitigation | *pending* | *pending* | *pending*
+    Growth | *pending* | *pending* | *pending*
+    Belonging | *pending* | *pending* | *pending*
+    
+    Assignment
+    :   *pending*
+    
+    Quiz
+    :   *pending*
+
 4. Diversity -- TA-mind and external phenomena
+
+    Module | Writeup | Video | Audio
+    ------ | ------- | ----- | -----
+    IB | *pending* | *pending* | *pending*
+    IB Mitigation | *pending* | *pending* | *pending*
+    Microagressions | *pending* | *pending* | *pending*
+    Equity redux | *pending* | *pending* | *pending*
+
 5. Responding to Students 
+
+    Module | Writeup | Video | Audio
+    ------ | ------- | ----- | -----
+    Motivations | *pending* | *pending* | *pending*
+    No | *pending* | *pending* | *pending*
+    Make do | *pending* | *pending* | *pending*
+    Distress | *pending* | *pending* | *pending*
+
 6. Grading
+
+    Module | Writeup | Video | Audio
+    ------ | ------- | ----- | -----
+    Fundamental Postulate of Grading | *pending* | *pending* | *pending*
+    A "C+" means... | *pending* | *pending* | *pending*
+    Accurate vs Fair | *pending* | *pending* | *pending*
+    Combining parts | *pending* | *pending* | *pending*
+    Uncertainty | *pending* | *pending* | *pending*
+    Rubrics and TAs | *pending* | *pending* | *pending*
+    Regrades | *pending* | *pending* | *pending*
+
 7. Improving as a teacher
+
+    Module | Writeup | Video | Audio
+    ------ | ------- | ----- | -----
+    View, Review, Feedback | *pending* | *pending* | *pending*
+    Sharing | *pending* | *pending* | *pending*
+    The Steady Dedicated Course of a Lifetime | *pending* | *pending* | *pending*
+
 8. Extra topics (pick any; likely only a subset will be available this semester)
     - Becoming a professional teacher
     - Cheating and evaluation design
