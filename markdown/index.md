@@ -100,7 +100,7 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-Fundamental Postulate of Grading | *pending* | *pending* | *pending*
+Fundamental Postulate | *pending* | *pending* | *pending*
 A "C+" means... | *pending* | *pending* | *pending*
 Accurate vs Fair | *pending* | *pending* | *pending*
 Combining parts | *pending* | *pending* | *pending*
