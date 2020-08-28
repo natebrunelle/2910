@@ -19,103 +19,106 @@ This course is designed to take about 4 hours of your time per week for 8 weeks,
 The first seven topics are required, and the intent is to make them available via writeup, video, and podcast, instructor time permitting.
 The 8^th^ is enrichment material and will be developed in the level of detail that time allows.
 
-1. Ethics of TAing
-    
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    Being a TA | [HTML](taing.html) | *pending* | *pending*
-    FERPA | [HTML](ferpa.html) | *pending* | *pending*
-    Conflicts of Interest | [HTML](coi.html) | *pending* | *pending*
-    Equity | [HTML](equity.html) | *pending* | *pending*
-    
-    Assignment
-    :   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
-        including [ranking](https://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
-    
-    Quiz
-    :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+## Ethics of TAing
 
-2. Student Learning
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Being a TA | [HTML](taing.html) | *pending* | *pending*
+FERPA | [HTML](ferpa.html) | *pending* | *pending*
+Conflicts of Interest | [HTML](coi.html) | *pending* | *pending*
+Equity | [HTML](equity.html) | *pending* | *pending*
 
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    CLT Intro | *pending* | *pending* | *pending*
-    CLT and TAing | *pending* | *pending* | *pending*
-    Modality | *pending* | *pending* | *pending*
-    Analogy | *pending* | *pending* | *pending*
-    Socratic | *pending* | *pending* | *pending*
-    
-    Assignment
-    :   *pending*
-    
-    Quiz
-    :   *pending*
+Assignment
+:   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
+    including [ranking](https://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
 
-3. Diversity -- student-mind phenomena
+Quiz
+:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    STT | *pending* | *pending* | *pending*
-    STT Mitigation | *pending* | *pending* | *pending*
-    Growth | *pending* | *pending* | *pending*
-    Belonging | *pending* | *pending* | *pending*
-    
-    Assignment
-    :   *pending*
-    
-    Quiz
-    :   *pending*
+## Student Learning
 
-4. Diversity -- TA-mind and external phenomena
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+CLT Intro | *pending* | *pending* | *pending*
+CLT and TAing | *pending* | *pending* | *pending*
+Modality | *pending* | *pending* | *pending*
+Analogy | *pending* | *pending* | *pending*
+Socratic | *pending* | *pending* | *pending*
 
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    IB | *pending* | *pending* | *pending*
-    IB Mitigation | *pending* | *pending* | *pending*
-    Microagressions | *pending* | *pending* | *pending*
-    Equity redux | *pending* | *pending* | *pending*
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Diversity -- student-mind phenomena
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+STT | *pending* | *pending* | *pending*
+STT Mitigation | *pending* | *pending* | *pending*
+Growth | *pending* | *pending* | *pending*
+Belonging | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Diversity -- TA-mind and external phenomena
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+IB | *pending* | *pending* | *pending*
+IB Mitigation | *pending* | *pending* | *pending*
+Microagressions | *pending* | *pending* | *pending*
+Equity redux | *pending* | *pending* | *pending*
 
 5. Responding to Students 
 
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    Motivations | *pending* | *pending* | *pending*
-    No | *pending* | *pending* | *pending*
-    Make do | *pending* | *pending* | *pending*
-    Distress | *pending* | *pending* | *pending*
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Motivations | *pending* | *pending* | *pending*
+No | *pending* | *pending* | *pending*
+Make do | *pending* | *pending* | *pending*
+Distress | *pending* | *pending* | *pending*
 
-6. Grading
+## Grading
 
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    Fundamental Postulate of Grading | *pending* | *pending* | *pending*
-    A "C+" means... | *pending* | *pending* | *pending*
-    Accurate vs Fair | *pending* | *pending* | *pending*
-    Combining parts | *pending* | *pending* | *pending*
-    Uncertainty | *pending* | *pending* | *pending*
-    Rubrics and TAs | *pending* | *pending* | *pending*
-    Regrades | *pending* | *pending* | *pending*
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Fundamental Postulate of Grading | *pending* | *pending* | *pending*
+A "C+" means... | *pending* | *pending* | *pending*
+Accurate vs Fair | *pending* | *pending* | *pending*
+Combining parts | *pending* | *pending* | *pending*
+Uncertainty | *pending* | *pending* | *pending*
+Rubrics and TAs | *pending* | *pending* | *pending*
+Regrades | *pending* | *pending* | *pending*
 
-7. Improving as a teacher
+## Improving as a teacher
 
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    View, Review, Feedback | *pending* | *pending* | *pending*
-    Sharing | *pending* | *pending* | *pending*
-    The Steady Dedicated Course of a Lifetime | *pending* | *pending* | *pending*
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+View, Review, Feedback | *pending* | *pending* | *pending*
+Sharing | *pending* | *pending* | *pending*
+The Steady Dedicated Course of a Lifetime | *pending* | *pending* | *pending*
 
-8. Extra topics (pick any; likely only a subset will be available this semester)
-    - Becoming a professional teacher
-    - Cheating and evaluation design
-    - Planning and presenting a lecture
-    - What makes a course "good"?
-    - Faculty teaching philosophies
-    - What a university professor does (and how to become one)
-    - Current trends in CS Ed research
-    - Course (re)design workshop
-    - Curriculum redesign workshop
-    - Equity vs Equality
-    - Taxonomies and hierarchies of knowledge and understanding
+## Extra topics
+
+(pick any; likely only a subset will be available this semester)
+
+- Becoming a professional teacher
+- Cheating and evaluation design
+- Planning and presenting a lecture
+- What makes a course "good"?
+- Faculty teaching philosophies
+- What a university professor does (and how to become one)
+- Current trends in CS Ed research
+- Course (re)design workshop
+- Curriculum redesign workshop
+- Equity vs Equality
+- Taxonomies and hierarchies of knowledge and understanding
 
 # Grading
 
