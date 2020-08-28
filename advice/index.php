@@ -64,12 +64,15 @@
                 d.innerHTML = '<a href="#'+x.id+'">'+x.innerHTML+'</a>';
                 stack[stack.length-1].appendChild(d);
             });
+            <?php if (!isset($_GET['vote'])) { ?>
             var d = document.createElement('a');
-            d.href="?vote=vote";
+            d.href="?vote";
             d.innerHTML = 'Click to adjust advice ranking';
             document.querySelector(".toc").appendChild(d);
+            <?php } ?>
         }
         function keyVote(event) {
+            if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey || event.repeat) return;
             var obj = document.querySelector('.advice.vote');
             if (!obj) return;
             if (event.key == "ArrowRight") {
@@ -233,7 +236,7 @@ function showVotes() {
     </script><?php
 }
 
-if ($_GET['vote'])
+if (isset($_GET['vote']))
     showVotes();
 else
     showAll();
