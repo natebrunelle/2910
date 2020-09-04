@@ -27,7 +27,7 @@ Welcome | *this page* | [00-Intro.webm](media/00-Intro.webm) (2:47) | [00-Intro.
 Being a TA | [HTML](taing.html) | [01-TAing.webm](media/01-TAing.webm) (6:16) | [01-TAing.mp3](media/01-TAing.mp3) (from video)
 FERPA | [HTML](ferpa.html) | [02-FERPA.webm](media/02-FERPA.webm) (2:53) | [02-FERPA.mp3](media/02-FERPA.mp3) (from video)
 Conflicts of Interest | [HTML](coi.html) | [03-COI.webm](media/03-COI.webm) (11:00) | [03-COI.mp3](media/03-COI.mp3) (from video)
-Equity | [HTML](equity.html) | *pending* (9:01) | [04-Access.mp3](media/04-Access.mp3) (from video)
+Equity | [HTML](equity.html) | [04-Access.webm](media/04-Access.webm) (9:01) | [04-Access.mp3](media/04-Access.mp3) (from video)
 
 Assignment
 :   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
