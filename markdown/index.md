@@ -19,40 +19,132 @@ This course is designed to take about 4 hours of your time per week for 8 weeks,
 The first seven topics are required, and the intent is to make them available via writeup, video, and podcast, instructor time permitting.
 The 8^th^ is enrichment material and will be developed in the level of detail that time allows.
 
-1. Ethics of TAing
-    
-    Module | Writeup | Video | Audio
-    ------ | ------- | ----- | -----
-    Intro  | *this page* | [01-Intro.webm](media/01-Intro.webm) (2:47) | [01-Intro.mp3](media/01-Intro.mp3) (extracted from video)
-    Being a TA | [HTML](taing.html) | *pending* | *pending*
-    FERPA | [HTML](ferpa.html) | *pending* | *pending*
-    Conflicts of Interest | [HTML](coi.html) | *pending* | *pending*
-    Equity | [HTML](equity.html) | *pending* | *pending*
-    
-    Assignment
-    :   review the [advice from previous TAs](advice.html) and [do something TBD]{style="color:red"}
-    
-    Quiz
-    :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+## Ethics of TAing
 
-2. Student Learning
-3. Diversity -- student-mind phenomena
-4. Diversity -- TA-mind and external phenomena
-5. Responding to Students 
-6. Grading
-7. Improving as a teacher
-8. Extra topics (pick any; likely only a subset will be available this semester)
-    - Becoming a professional teacher
-    - Cheating and evaluation design
-    - Planning and presenting a lecture
-    - What makes a course "good"?
-    - Faculty teaching philosophies
-    - What a university professor does (and how to become one)
-    - Current trends in CS Ed research
-    - Course (re)design workshop
-    - Curriculum redesign workshop
-    - Equity vs Equality
-    - Taxonomies and hierarchies of knowledge and understanding
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Welcome | *this page* | [00-Intro.webm](media/00-Intro.webm) (2:47) | [00-Intro.mp3](media/00-Intro.mp3) (from video)
+Being a TA | [HTML](taing.html) | *pending* (6:16) | [01-TAing.mp3](media/01-TAing.mp3) (from video)
+FERPA | [HTML](ferpa.html) | *pending* (2:53) | [02-FERPA.mp3](media/02-FERPA.mp3) (from video)
+Conflicts of Interest | [HTML](coi.html) (11:00) | *pending* | [03-COI.mp3](media/03-COI.mp3) (from video)
+Equity | [HTML](equity.html) | *pending* (9:01) | [04-Access.mp3](media/04-Access.mp3) (from video)
+
+Assignment
+:   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
+    including [ranking](https://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
+
+Quiz
+:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
+## Student Learning
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+CLT Intro | *pending* | *pending* | *pending*
+CLT and TAing | *pending* | *pending* | *pending*
+Modality | *pending* | *pending* | *pending*
+Analogy | *pending* | *pending* | *pending*
+Socratic | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Diversity -- student-mind phenomena
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+STT | *pending* | *pending* | *pending*
+STT Mitigation | *pending* | *pending* | *pending*
+Growth | *pending* | *pending* | *pending*
+Belonging | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Diversity -- TA-mind and external phenomena
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+IB | *pending* | *pending* | *pending*
+IB Mitigation | *pending* | *pending* | *pending*
+Microagressions | *pending* | *pending* | *pending*
+Equity redux | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Responding to Students 
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Motivations | *pending* | *pending* | *pending*
+No | *pending* | *pending* | *pending*
+Make do | *pending* | *pending* | *pending*
+Distress | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Grading
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Fundamental Postulate | *pending* | *pending* | *pending*
+A "C+" means... | *pending* | *pending* | *pending*
+Accurate vs Fair | *pending* | *pending* | *pending*
+Combining parts | *pending* | *pending* | *pending*
+Uncertainty | *pending* | *pending* | *pending*
+Rubrics and TAs | *pending* | *pending* | *pending*
+Regrades | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Improving as a teacher
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+View, Review, Feedback | *pending* | *pending* | *pending*
+Sharing | *pending* | *pending* | *pending*
+Course of a Lifetime | *pending* | *pending* | *pending*
+
+Assignment
+:   *pending*
+
+Quiz
+:   *pending*
+
+## Extra topics
+
+(pick any; likely only a subset will be available this semester)
+
+- Becoming a professional teacher
+- Cheating and evaluation design
+- Planning and presenting a lecture
+- What makes a course "good"?
+- Faculty teaching philosophies
+- What a university professor does (and how to become one)
+- Current trends in CS Ed research
+- Course (re)design workshop
+- Curriculum redesign workshop
+- Equity vs Equality
+- Taxonomies and hierarchies of knowledge and understanding
+>>>>>>> 758e06355e08bc7637a3db9d93d66ac40e19d7d1
 
 # Grading
 
