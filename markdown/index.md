@@ -23,6 +23,7 @@ The 8^th^ is enrichment material and will be developed in the level of detail th
     
     Module | Writeup | Video | Audio
     ------ | ------- | ----- | -----
+    Intro  | *this page* | [01-Intro.webm](media/01-Intro.webm) (2:47) | [01-Intro.mp3](media/01-Intro.mp3) (extracted from video)
     Being a TA | [HTML](taing.html) | *pending* | *pending*
     FERPA | [HTML](ferpa.html) | *pending* | *pending*
     Conflicts of Interest | [HTML](coi.html) | *pending* | *pending*
