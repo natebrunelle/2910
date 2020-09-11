@@ -7,7 +7,7 @@ subtitle: A brief overview
 
 Consider looking at an illustration of a fish
 
-![Looking at a Fish](media/fish.svg)
+![ ](media/fish.svg)
 
 Most likely you are incapable of looking as such an illustration without thinking "fish".
 But when you consider what fish actually look like, with glistening scales and translucent flesh and so on, a pen sketch is pretty far from it;
