@@ -50,7 +50,7 @@ Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
     2. Once this week, after interacting with a student, summarize to them the main points you discussed.
     3. Pick an upcoming topic you know students will struggle with. Come up with, or collect from other TAs, two ways to explain that topic, one visual and one not.
-    4. Come up with an analogy for a topic in your course. Share it on this course's Discord's `#analogies` channel.
+    4. Come up with an analogy for a topic in your course. Share it on this course's Discord's `#analogies` channel. See Collab for the Discord join link.
     5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
 Quiz
