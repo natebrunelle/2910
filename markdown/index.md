@@ -40,11 +40,11 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-CLT Intro | [HTML](clt.html) | [11-CLT.webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | *pending*
-CLT and TAing | [HTML](clt-ta.html) | [12-CLT-TA.webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | *pending*
-Modality | *pending* | [13-Modality](media/13-Modality.webm) (2:17) | *pending*
-Analogy | *pending* | [14-Analogy](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf) | *pending*
-Socratic | *pending* | [15-Socratic](media/15-Socratic.webm) (1:56) | *pending*
+CLT Intro | [HTML](clt.html) | [11-CLT.webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | [11-CLT.mp3](media/11-CLT.mp3) (from video)
+CLT and TAing | [HTML](clt-ta.html) | [12-CLT-TA.webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | [12-CLT-TA.mp3](media/12-CLT-TA.mp3) (from video)
+Modality | *pending* | [13-Modality.webm](media/13-Modality.webm) (2:17) | [13-Modality.mp3](media/13-Modality.mp3) (from video)
+Analogy | *pending* | [14-Analogy.webm](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf) | [14-Analogy.mp3](media/14-Analogy.mp3) (from video)
+Socratic | *pending* | [15-Socratic.webm](media/15-Socratic.webm) (1:56) | [15-Socratic.mp3](media/15-Socratic.mp3) (from video)
 
 Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
