@@ -40,8 +40,8 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-CLT Intro | *pending* | *pending* | *pending*
-CLT and TAing | *pending* | *pending* | *pending*
+CLT Intro | *pending* | [11-CLT.webm](media/11-CLT.webm) (13:17) | *pending*
+CLT and TAing | *pending* | [12-CLT-TA.webm](media/12-CLT-TA.webm) (16:07) | *pending*
 Modality | *pending* | *pending* | *pending*
 Analogy | *pending* | *pending* | *pending*
 Socratic | *pending* | *pending* | *pending*
