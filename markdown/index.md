@@ -42,12 +42,16 @@ Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 CLT Intro | [HTML](clt.html) | [11-CLT.webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | *pending*
 CLT and TAing | [HTML](clt-ta.html) | [12-CLT-TA.webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | *pending*
-Modality | *pending* | *pending* | *pending*
-Analogy | *pending* | *pending* | *pending*
-Socratic | *pending* | *pending* | *pending*
+Modality | *pending* | [13-Modality](media/13-Modality.webm) (2:17) | *pending*
+Analogy | *pending* | [14-Analogy](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf) | *pending*
+Socratic | *pending* | [15-Socratic](media/15-Socratic.webm) (1:56) | *pending*
 
 Assignment
-:   *pending*
+:   1. Once this week, verify you know what a student is asking *twice* before answering.
+    2. Once this week, after interacting with a student, review this main points you dicussed.
+    3. Pick an upcoming topic you know students will struggle with. Come up with, or collect from other TAs, two ways to explain that topic, one visual and one not.
+    4. Come up with an analogy for a topic in your course. Share it on this course's Discord's `#analogies` channel.
+    5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
 Quiz
 :   *pending*
