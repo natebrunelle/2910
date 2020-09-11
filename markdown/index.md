@@ -56,6 +56,8 @@ Assignment
 Quiz
 :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
+Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it on Discord.
+
 ## Diversity -- student-mind phenomena
 
 Module | Writeup | Video | Audio
@@ -148,7 +150,7 @@ Quiz
 - Curriculum redesign workshop
 - Equity vs Equality
 - Taxonomies and hierarchies of knowledge and understanding
->>>>>>> 758e06355e08bc7637a3db9d93d66ac40e19d7d1
+
 
 # Grading
 
