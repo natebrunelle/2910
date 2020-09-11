@@ -54,7 +54,7 @@ Assignment
     5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
 Quiz
-:   *pending*
+:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Diversity -- student-mind phenomena
 
