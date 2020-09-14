@@ -44,10 +44,10 @@ The 8^th^ is enrichment material and will be developed in the level of detail th
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [00-Intro.mp3](media/00-Intro.mp3) (from video)
-Being a TA | [HTML](taing.html) | [01-TAing.webm](media/01-TAing.webm) (6:16) | [01-TAing.mp3](media/01-TAing.mp3) (from video)
-FERPA | [HTML](ferpa.html) | [02-FERPA.webm](media/02-FERPA.webm) (2:53) | [02-FERPA.mp3](media/02-FERPA.mp3) (from video)
-Conflicts of Interest | [HTML](coi.html) | [03-COI.webm](media/03-COI.webm) (11:00) | [03-COI.mp3](media/03-COI.mp3) (from video)
-Equity | [HTML](equity.html) | [04-Access.webm](media/04-Access.webm) (9:01) | [04-Access.mp3](media/04-Access.mp3) (from video)
+Being a TA | [HTML](taing.html) | [player](player.html#01-TAing.webm)/[webm](media/01-TAing.webm) (6:16) | [01-TAing.mp3](media/01-TAing.mp3) (from video)
+FERPA | [HTML](ferpa.html) | [player](player.html#02-FERPA.webm)/[webm](media/02-FERPA.webm) (2:53) | [02-FERPA.mp3](media/02-FERPA.mp3) (from video)
+Conflicts of Interest | [HTML](coi.html) | [player](player.html#03-COI.webm)/[webm](media/03-COI.webm) (11:00) | [03-COI.mp3](media/03-COI.mp3) (from video)
+Equity | [HTML](equity.html) | [player](player.html#04-Access.webm)/[webm](media/04-Access.webm) (9:01) | [04-Access.mp3](media/04-Access.mp3) (from video)
 
 Assignment
 :   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
@@ -60,11 +60,11 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-CLT Intro | [HTML](clt.html) | [11-CLT.webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | [11-CLT.mp3](media/11-CLT.mp3) (from video)
-CLT and TAing | [HTML](clt-ta.html) | [12-CLT-TA.webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | [12-CLT-TA.mp3](media/12-CLT-TA.mp3) (from video)
-Modality | [HTML](modality.html) | [13-Modality.webm](media/13-Modality.webm) (2:17) | [13-Modality.mp3](media/13-Modality.mp3) (from video)
-Analogy | [HTML](analogy.html) | [14-Analogy.webm](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf) | [14-Analogy.mp3](media/14-Analogy.mp3) (from video)
-Socratic | [HTML](socratic.html) | [15-Socratic.webm](media/15-Socratic.webm) (1:56) | [15-Socratic.mp3](media/15-Socratic.mp3) (from video)
+CLT Intro | [HTML](clt.html) | [player](player.html#11-CLT.webm)/[webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | [11-CLT.mp3](media/11-CLT.mp3) (from video)
+CLT and TAing | [HTML](clt-ta.html) | [player](player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | [12-CLT-TA.mp3](media/12-CLT-TA.mp3) (from video)
+Modality | [HTML](modality.html) | [player](player.html#13-Modality.webm)/[webm](media/13-Modality.webm) (2:17) | [13-Modality.mp3](media/13-Modality.mp3) (from video)
+Analogy | [HTML](analogy.html) | [player](player.html#14-Analogy.webm)/[webm](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf) | [14-Analogy.mp3](media/14-Analogy.mp3) (from video)
+Socratic | [HTML](socratic.html) | [player](player.html#15-Socratic.webm)/[webm](media/15-Socratic.webm) (1:56) | [15-Socratic.mp3](media/15-Socratic.mp3) (from video)
 
 Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
