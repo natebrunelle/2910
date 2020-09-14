@@ -16,7 +16,7 @@ This course is designed to take about 4 hours of your time per week for 8 weeks,
 
 # Enrollment
 
-You must be a TA for a course in the CS department to take this class (see [Grading] for why).
+You must be a TA for a course in the CS department to pass this class (see [Grading] for why non-TAs will always get Fs).
 With rare exceptions, you must take it during your first semester TAing for CS.
 
 SIS's handling of permission-request courses is a bit tricky.
