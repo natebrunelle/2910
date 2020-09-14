@@ -14,6 +14,26 @@ While some material may appear before then, there is no need to start work early
 
 This course is designed to take about 4 hours of your time per week for 8 weeks, for a total of 32 hours.
 
+# Enrollment
+
+You must be a TA for a course in the CS department to take this class (see [Grading] for why).
+With rare exceptions, you must take it during your first semester TAing for CS.
+
+SIS's handling of permission-request courses is a bit tricky.
+If you tried but failed to enroll, or if you were hired after the add deadline,
+please fill out [this form](https://forms.gle/WjU2johr3ELyGzhg7)
+
+:::aside
+Did you know UVA gives each student three IDs?
+
+- Student ID, a 9- or 10-digit number of their ID card
+- Computing ID, letters with one digit, often abbreviated `mst3k` because the authors of the computing ID documentation needed a demo ID and were fans of Mystery Science Theater 3000
+- SIS ID, also called employee ID, a row ID in the database table of students; currently (Fall 2020) in the 2,500,000--2,800,000 range and increasing every year
+
+Late add enrollments need the SIS ID, not one of the others.
+:::
+
+
 # Topics
 
 The first seven topics are required, and the intent is to make them available via writeup, video, and podcast, instructor time permitting.
