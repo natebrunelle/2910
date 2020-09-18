@@ -82,13 +82,14 @@ Note: we'll use Cognitive Load Theory to help explain several of the coming week
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-STT | *pending* | *pending* | *pending*
-STT Mitigation | *pending* | *pending* | *pending*
-Growth | *pending* | *pending* | *pending*
-Belonging | *pending* | *pending* | *pending*
+STT | [HTML](stt.html) | [player](player.html#21-STT.webm)/[webm](media/21-STT.webm) (12:33) | [mp3](media/23-Mindset.mp3) (from video)
+STT Mitigation | [HTML](stt2.html) | [player](player.html#22-STT2.webm)/[webm](media/22-STT2.webm) (17:16) | [mp3](media/23-Mindset.mp3) (from video)
+Mindset | *pending* | [player](player.html#23-Mindset.webm)/[webm](media/23-Mindest.webm) (13:07) | [mp3](media/23-Mindset.mp3) (from video)
 
 Assignment
-:   *pending*
+:   1. Once this week, teach using an example with people you never name or identify by pronoun
+    1. Once this week, get to know a student's name and a bit about them as an individual
+    1. Once this week, give a growth-mindset compliment to a student
 
 Quiz
 :   *pending*
@@ -97,10 +98,11 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-IB | *pending* | *pending* | *pending*
-IB Mitigation | *pending* | *pending* | *pending*
+IB              | *pending* | *pending* | *pending*
+IB Mitigation   | *pending* | *pending* | *pending*
 Microagressions | *pending* | *pending* | *pending*
-Equity redux | *pending* | *pending* | *pending*
+Spatial         | *pending* | *pending* | *pending*
+Equity redux    | *pending* | *pending* | *pending*
 
 Assignment
 :   *pending*
