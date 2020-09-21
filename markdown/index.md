@@ -84,7 +84,7 @@ Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 STT | [HTML](stt.html) | [player](player.html#21-STT.webm)/[webm](media/21-STT.webm) (12:33) | [mp3](media/21-STT.mp3) (from video)
 STT Mitigation | [HTML](stt2.html) | [player](player.html#22-STT2.webm)/[webm](media/22-STT2.webm) (17:16) | [mp3](media/22-STT2.mp3) (from video)
-Mindset | *pending* | [player](player.html#23-Mindset.webm)/[webm](media/23-Mindest.webm) (13:07) | [mp3](media/23-Mindset.mp3) (from video)
+Mindset | [HTML](mindset.html) | [player](player.html#23-Mindset.webm)/[webm](media/23-Mindest.webm) (13:07) | [mp3](media/23-Mindset.mp3) (from video)
 
 Assignment
 :   1. Once this week, teach using an example with people you never name or identify by pronoun
