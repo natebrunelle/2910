@@ -98,7 +98,7 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-IB              | *pending* | *pending* | *pending*
+IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03) | [mp3](media/31-IB.mp3) (from video)
 IB Mitigation   | *pending* | *pending* | *pending*
 Microagressions | *pending* | *pending* | *pending*
 Spatial         | *pending* | *pending* | *pending*
