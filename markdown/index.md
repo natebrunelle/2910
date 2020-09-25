@@ -99,8 +99,8 @@ Quiz
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03) | [mp3](media/31-IB.mp3) (from video)
-IB Mitigation   | *pending* | *pending* | *pending*
-Microagressions | *pending* | *pending* | *pending*
+IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:43) | [mp3](media/32-IB2.mp3) (from video)
+Microagressions | [HTML](micro.html) | *pending* | *pending*
 Spatial         | *pending* | *pending* | *pending*
 Equity redux    | *pending* | *pending* | *pending*
 
