@@ -99,13 +99,15 @@ Quiz
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03) | [mp3](media/31-IB.mp3) (from video)
-IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:43) | [mp3](media/32-IB2.mp3) (from video)
+IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:45) | [mp3](media/32-IB2.mp3) (from video)
 Microagressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54) | [mp3](media/33-Micro.mp3) (from video)
-Spatial         | *pending* | *pending* | *pending*
-Equity redux    | *pending* | *pending* | *pending*
+Spatial         | [HTML](spatial.html) | [player](player.html#34-Spatial.webm)/[webm](media/34-Spatial.webm) (9:45) | [mp3](media/34-Spatial.mp3) (from video)
 
 Assignment
-:   *pending*
+:   1. Take an implicit bias test, such as one from <https://implicit.harvard.edu/implicit/takeatest.html>
+    1. Ask a friend from a different culture than you if you use any words or phrases they find annoying or offensive.
+    1. Pick an upcoming topic in your class and figure out how to take the spatial analogy out of the students' head.
+        This may be tricky if you are not physically present, but can a picture do it? Can you open a bunch of windows and use them as props?
 
 Quiz
 :   *pending*
