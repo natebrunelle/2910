@@ -110,7 +110,8 @@ Assignment
         This may be tricky if you are not physically present, but can a picture do it? Can you open a bunch of windows and use them as props?
 
 Quiz
-:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSeBSZDRmtrum2CS5xGKcISfFjVtXjq7IozHWlzvIggLkJOsxw/viewform?usp=sf_link)
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSeBSZDRmtrum2CS5xGKcISfFjVtXjq7IozHWlzvIggLkJOsxw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
 
 ## Responding to Students 
 
