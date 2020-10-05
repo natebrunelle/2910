@@ -124,7 +124,10 @@ Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm
 Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12) | [mp3](media/45-Dunno.mp3) (from video)
 
 Assignment
-:   *pending*
+:   1. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated). Did it work better than when you tried it in week 2?
+    1. Once this week, get a student to act on something not directly part of their assignment: to draw, to write, to explain, to try something out, etc.
+    1. Pick one of the situations discussed this week that comes up the most often in your class, and try out one of the suggestions from this week's material that you don't usually use. Did it work?
+    1. If you could add one situation or one tip to this week, what would it be? Post the situation or tip in the #how-do-i-handle-this or the #tips-to-share channels on Discord.
 
 Quiz
 :   *pending*
