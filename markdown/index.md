@@ -19,6 +19,8 @@ This course is designed to take about 4 hours of your time per week for 8 weeks,
 You must be a TA for a course in the CS department to pass this class (see [Grading] for why non-TAs will always get Fs).
 With rare exceptions, you must take it during your first semester TAing for CS.
 
+<!--
+
 SIS's handling of permission-request courses is a bit tricky.
 If you tried but failed to enroll, or if you were hired after the add deadline,
 please fill out [this form](https://forms.gle/WjU2johr3ELyGzhg7)
@@ -33,6 +35,7 @@ Did you know UVA gives each student three IDs?
 Late add enrollments need the SIS ID, not one of the others.
 :::
 
+-->
 
 # Topics
 
