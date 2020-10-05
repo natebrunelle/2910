@@ -121,7 +121,7 @@ Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[
 Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34) | [mp3](media/42-Answer.mp3) (from video)
 Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48) | [mp3](media/43-Misc.mp3) (from video)
 Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm](media/44-Hard.webm) (5:59) | [mp3](media/44-Hard.mp3) (from video)
-Don't Know     | *pending*<!--[HTML](dunno.html)--> | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12) | [mp3](media/45-Dunno.mp3) (from video)
+Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12) | [mp3](media/45-Dunno.mp3) (from video)
 
 Assignment
 :   *pending*
