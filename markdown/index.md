@@ -206,4 +206,4 @@ Your assessments in this course run as follows:
 
 - 50% your supervisor's response to "on a scale from A to F, how effective was this TA?"
 
-
+You can see a summary of your grade so far at <https://kytos.cs.virginia.edu/cs2910/grade.php>
