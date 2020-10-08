@@ -133,13 +133,12 @@ Assignment
     1. If you could add one situation or one tip to this week, what would it be? Post the situation or tip in the `#how-do-i-handle-this` or the `#tips-to-share` channels on Discord.
 
 Quiz
-:   *pending*
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Grading
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-Fundamental Postulate | *pending* | *pending* | *pending*
 A "C+" means... | *pending* | *pending* | *pending*
 Accurate vs Fair | *pending* | *pending* | *pending*
 Combining parts | *pending* | *pending* | *pending*
