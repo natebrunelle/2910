@@ -180,7 +180,7 @@ A       Good!       mastered all topics             you'll do well
 B       OK          competent in all major topics   able to to well, though review recommended
 C       Caution     sufficient to function          it'll be challenging, but possible with review
 D       Danger!     minimal competence              you'll probably fail
-F       No way      insufficient                    you're definitely not ready
+F       No          insufficient                    you're definitely not ready
 
 # How do we combine repeated assessments?
 
