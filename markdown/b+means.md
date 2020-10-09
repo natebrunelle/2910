@@ -121,7 +121,7 @@ But definitions of grades are surprising hard to come by.
 
 The lore I was told by multiple senior faculty when I was staring in academia, and am repeating here without reliable sources because I have not found them, is this:
 
-Once upon a time grades were given in a fairly piecemeal way and were mostly consumed only internally to the generating institution. Then the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) and the prevelance of bell curves came into vogue, and a new "self-calibrating" grading system came along: 
+Once upon a time grades were given in a fairly piecemeal way and were mostly consumed only internally to the generating institution. Then the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) and the prevalence of bell curves came into vogue, and a new "self-calibrating" grading system came along: 
 
 - grade on whatever scale is handy
 
@@ -137,7 +137,7 @@ This model became known as "The Curve" and grading using it called "grading on T
 But it had (at least) three problems:
 
 - Real grades are not distributed on a perfect bell curve.
-    They are not independant variables, so the central limit theorem does not apply.
+    They are not independent variables, so the central limit theorem does not apply.
     In practice, they tend to be [fat-tailed ditributions](https://en.wikipedia.org/wiki/Fat-tailed_distribution), often with multiple peaks.
 
 - Not many people are two standard deviations from the mean.
@@ -149,7 +149,7 @@ But it had (at least) three problems:
 
 On the positive side, the wide-spread popularity of this grading system
 meant that it became possible for grades to be interpreted outside of the granting institution.
-That had a slow but dramatic impact on the overall percevied importance of grades.
+That had a slow but dramatic impact on the overall perceived importance of grades.
 
 ## The inflated curve
 
@@ -161,7 +161,7 @@ Clearly *we* are the exception: our students are above average!
 Result: grade inflation.
 Grades are still [based on relative performance](https://en.wikipedia.org/wiki/Relative_grading) but now the cut-offs between letters are flexible and can change, and generally move toward higher grades over time.
 More and more, universities are even allowing each course to pick their own curve
-so that a student who is reliably at the 80th percentile in ever class may get A+ in one class and B- in another.
+so that a student who is reliably at the 80th percentile in every class may get A+ in one class and B- in another.
 
 ## Our department's definition
 
