@@ -65,13 +65,35 @@ What that something is varies by assessment goal: typically participation or eng
 The simplest perfectly fair grading system is to give every student the same grade, which makes it entirely inaccurate.
 It is generally understood that a perfectly accurate grade is also perfectly fair, but that perfectly accurate grades are impossible to create.
 
-Highly accurate assessments often sacrifice some fairness, sometimes in biassed ways by assuming a particular interpretation of an ambiguous phrase or the like.
+Highly accurate assessments often sacrifice some fairness, sometimes in biased ways.
+Mathematically, it is uncommon for an approximation created to minimize cumulative error to also minimize correlations between error and individual.
+Conceptually, students whose culture and background lead them to misunderstand the assessments in some way are likely to be unfairly penalized when grading focuses more on accuracy than on fairness.
 
 ## When in doubt...
 
-Suppose I am 
+:::exercise
+Suppose you are grading a single short-answer question worth 10 points on an exam.
+Due to the students' choice of wording, you decide that
 
-## Combining in-topic
+- there's a 10% chance the student is just trying to bluff their way through and deserves 3/10  
+- there's a 50% chance the student got some but not all of the ideas and deserves 5/10
+- there's a 40% chance the student knew a lot but expressed it oddly and deserves 8/10
 
-## Combining cross-topic
+What grade will you give them?
 
+- <label><input type="radio" name="grade" value="3">3 -- they failed to prove to me they know more than this</label>
+- <label><input type="radio" name="grade" value="5">5 -- this is most likely to be their proper grade</label>
+- <label><input type="radio" name="grade" value="6">6 -- this is weighted average of the possibilities</label>
+- <label><input type="radio" name="grade" value="8">8 -- we failed to prove they know less than this</label>
+:::
+
+While the above scenario may be somewhat contrived (what does it even mean to say "there's a 40% chance" in this context?),
+the options are intended to illuminate very real disagreements on grading philosophy present among instructors in our department.
+We have
+
+- all-or-nothing graders (option 3: it's the students' job to show they know);
+- "they probably meant" graders (option 5)
+- "they probably meant, but maybe not so let's bump it a point or two" graders (option 6)
+- benefit-of-the-doubt graders (option 8: it's the instructors job to show they don't know)
+
+In more than a dozen years TAing for more than a dozen different instructors at three institutions, and in all of my co-teaching experiences since becoming faculty myself, I only once had a course where the instructor clearly indicated which model they wanted in that course's grading.
