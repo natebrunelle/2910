@@ -56,15 +56,20 @@ Even if an assessment is created with a clear purpose, there can still be disagr
 
 ## Fair vs Accurate
 
-A *fair* grading system ensures that two students with equivalent levels of understanding get the same grade
+A **fair** grading system ensures that two students with equivalent levels of understanding get the same grade
 and that no student with more knowledge gets a lower grade.
-The simplest perfectly fair grading system is to give every student the same grade.
 
-An *accurate* grading system ensures that students with "B+ level knowledge" earn B+s and so on.
-A perfectly accurate grading system is also perfectly fair,
-but 
+An **accurate** grading system ensures that each grade represents the graded students' actual quality of ... *something*.
+What that something is varies by assessment goal: typically participation or engagement for formative and motivational assessments, correctness or understanding for summative and guidance assessments.
+
+The simplest perfectly fair grading system is to give every student the same grade, which makes it entirely inaccurate.
+It is generally understood that a perfectly accurate grade is also perfectly fair, but that perfectly accurate grades are impossible to create.
+
+Highly accurate assessments often sacrifice some fairness, sometimes in biassed ways by assuming a particular interpretation of an ambiguous phrase or the like.
 
 ## When in doubt...
+
+Suppose I am 
 
 ## Combining in-topic
 
