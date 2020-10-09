@@ -16,18 +16,18 @@ TAs and instructors are grade producers; list five different grade consumers:
 - <input type="text"></input>
 - <input type="text"></input>
 
-We have a list TAs gave in previous semesters in a footnote^[
+We have a list TAs gave in previous semesters in a footnote[^1].
 
-- students
-- parents of students
-- course staff
-- the next course
-- grad school admissions
-- future employers
-- merit-based scholarships
-- "smart-person" clubs and awards
-- support systems looking for those in need of help
-].
+[^1]:
+    - students
+    - parents of students
+    - course staff
+    - the next course
+    - grad school admissions
+    - future employers
+    - merit-based scholarships
+    - "smart-person" clubs and awards
+    - support systems looking for those in need of help
 :::
 
 :::exercise
@@ -39,19 +39,18 @@ For each of the consumers listed above, why do they care about grades? What do t
 - <input type="text"></input>
 - <input type="text"></input>
 
-We have a list TAs gave in previous semesters in a footnote^[
+We have a list TAs gave in previous semesters in a footnote[^2].
 
-- students -- What should I focus on? Am I good enough? Should I be worried about the reactions of other people on this list?
-- parents of students -- Is my child being good? Is my tuition investment paying off?
-- course staff -- What are the students (mis)understanding? What topics need more attention in class?
-- the next course -- Are they ready to take this class or not?
-- grad school admissions -- Are they "good at school"? Will they succeed if we admit them?
-- future employers -- Do they know what we need them to know? This pool all look good; who's the best of them?
-- merit-based scholarships -- This pool all look good; who's the best of them?
-- "smart-person" clubs and awards -- This pool all look good; who's the best of them?
-- support systems looking for those in need of help -- Who's struggling? Who has seen a sudden drop in success?
-
-].
+[^2]:
+    - students -- What should I focus on? Am I good enough? Should I be worried about the reactions of other people on this list?
+    - parents of students -- Is my child being good? Is my tuition investment paying off?
+    - course staff -- What are the students (mis)understanding? What topics need more attention in class?
+    - the next course -- Are they ready to take this class or not?
+    - grad school admissions -- Are they "good at school"? Will they succeed if we admit them?
+    - future employers -- Do they know what we need them to know? This pool all look good; who's the best of them?
+    - merit-based scholarships -- This pool all look good; who's the best of them?
+    - "smart-person" clubs and awards -- This pool all look good; who's the best of them?
+    - support systems looking for those in need of help -- Who's struggling? Who has seen a sudden drop in success?
 :::
 
 Note that several grade consumers want some form of "who's the best" measure.
