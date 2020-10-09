@@ -177,7 +177,7 @@ As a rough summary:
 Letter  Word        Learning            Prediction for next course
 ------  ---------   ------------        -----------------------
 A       Good!       mastered all        you'll do well
-B       OK          competent in most   able to to well, though review recommended
+B       Okay        competent in most   able to to well, though review recommended
 C       Caution     sufficient          it'll be challenging, but possible with review
 D       Danger!     minimal             you'll probably fail
 F       No          insufficient        you're definitely not ready
