@@ -156,7 +156,7 @@ That had a slow but dramatic impact on the overall perceived importance of grade
 If you define "C" as "average student"
 and then tell a university that "most of your students are at or below average"
 that rubs most universities wrong.
-Clearly *we* are the exception: our students are above average!
+Clearly *we* are the exception: almost all of our students are well above average!
 
 Result: grade inflation.
 Grades are still [based on relative performance](https://en.wikipedia.org/wiki/Relative_grading) but now the cut-offs between letters are flexible and can change, and generally move toward higher grades over time.
