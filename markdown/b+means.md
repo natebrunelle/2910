@@ -117,7 +117,51 @@ A common question I hear instructors and TAs ask when trying to evaluate the qua
 That question presupposes a definition of the intended meaning of each letter grade.
 But definitions of grades are surprising hard to come by.
 
+## The Curve
 
+The lore I was told by multiple senior faculty when I was staring in academia, and am repeating here without reliable sources because I have not found them, is this:
+
+Once upon a time grades were given in a fairly piecemeal way and were mostly consumed only internally to the generating institution. Then the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) and the prevelance of bell curves came into vogue, and a new "self-calibrating" grading system came along: 
+
+- grade on whatever scale is handy
+
+- fit the resulting grades to a bell curve
+
+- announce grades in standard deviations of the curve:
+
+    - "C" = within 0.5 standard deviations of the mean
+    - "B" and "D" = 1 standard deviation from "C"
+    - "A" and "F" = 2 or more standard deviations from "C"
+
+This model became known as "The Curve" and grading using it called "grading on The Curve."
+But it had (at least) three problems:
+
+- Real grades are not distributed on a perfect bell curve.
+    They are not independant variables, so the central limit theorem does not apply.
+    In practice, they tend to be [fat-tailed ditributions](https://en.wikipedia.org/wiki/Fat-tailed_distribution), often with multiple peaks.
+
+- Not many people are two standard deviations from the mean.
+    People want to tell more people they are good,
+    and to deter more people from continuing by giving them bad grades.
+
+- Grading on a curve creates competition, including incentives for academic sabotage:
+    the worse other students do, the more likely your knowledge is to be graded highly.
+
+On the positive side, the wide-spread popularity of this grading system
+meant that it became possible for grades to be interpreted outside of the granting institution.
+That had a slow but dramatic impact on the overall percevied importance of grades.
+
+## The infalted curve
+
+If you define "C" as "average student"
+and then tell a university that "most of your students are at or below average"
+that rubs most unversities wrong.
+Clearly *we* are the exception: our students are above average!
+
+Result: grade inflation.
+Grades are still [based on relative performance](https://en.wikipedia.org/wiki/Relative_grading) but now the cut-offs between letters are flexible and can change, and generally move toward higher grades over time.
+
+## Our department's definition
 
 
 # How do we combine repeated assessments?
