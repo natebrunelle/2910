@@ -77,9 +77,9 @@ Many things contribute to student success in courses. For example,
 :::exercise
 If you could grade each of the four items above independently, how would you combine them to create an overall grade?
 
-- <input type="range" min="0" max="100" class="sum1" onchange="balance(this)"></input><span>0</span>% Understanding of material
-- <input type="range" min="0" max="100" class="sum1" onchange="balance(this)"></input><span>0</span>% Timeliness
-- <input type="range" min="0" max="100" class="sum1" onchange="balance(this)"></input><span>0</span>% Social skills
+- <input type="range" min="0" max="100" class="sum1" value="0" onchange="balance(this)"></input><span>0</span>% Understanding of material
+- <input type="range" min="0" max="100" class="sum1" value="0" onchange="balance(this)"></input><span>0</span>% Timeliness
+- <input type="range" min="0" max="100" class="sum1" value="0" onchange="balance(this)"></input><span>0</span>% Social skills
 - <input type="range" min="0" max="100" class="sum1" value="100" onchange="balance(this)"></input><span>100</span>% Luck
 
 <script>
