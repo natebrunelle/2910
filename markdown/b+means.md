@@ -103,7 +103,6 @@ function balance(element) {
     }
     document.querySelectorAll('.sum1').forEach(x => x.nextElementSibling.innerHTML = x.value);
 }
-balance(document.querySelector('.sum1'));
 </script>
 :::
 
