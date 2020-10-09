@@ -140,7 +140,7 @@ Quiz
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 A "B+" means... | [HTML](b+means.html) | *pending* | *pending*
-Assessments | [HTML](assessments.html) | *pending* | *pending*
+Assessments | [HTML](assessment.html) | *pending* | *pending*
 Practicalities | [HTML](grading.html) | *pending* | *pending*
 
 Assignment
