@@ -151,18 +151,36 @@ On the positive side, the wide-spread popularity of this grading system
 meant that it became possible for grades to be interpreted outside of the granting institution.
 That had a slow but dramatic impact on the overall percevied importance of grades.
 
-## The infalted curve
+## The inflated curve
 
 If you define "C" as "average student"
 and then tell a university that "most of your students are at or below average"
-that rubs most unversities wrong.
+that rubs most universities wrong.
 Clearly *we* are the exception: our students are above average!
 
 Result: grade inflation.
 Grades are still [based on relative performance](https://en.wikipedia.org/wiki/Relative_grading) but now the cut-offs between letters are flexible and can change, and generally move toward higher grades over time.
+More and more, universities are even allowing each course to pick their own curve
+so that a student who is reliably at the 80th percentile in ever class may get A+ in one class and B- in another.
 
 ## Our department's definition
 
+UVA does not have a definition of the goals of grades.
+The School of Engineering and Applied Sciences at UVA does not have a definition of the goals of grades.
+The College of Arts and Sciences does have a "standard grading scale" mapping points to letters, but does not define what a point is or how easily they should be given out.
+
+The CS department does have a definition of the intended meaning of each grade,
+created by a committee of our faculty and approved by a vote of our faculty:
+<http://ugrads.cs.virginia.edu/grading-guidelines.html>.
+As a rough summary:
+
+Letter  Word        Learning                        Prediction for next course
+------  ---------   ------------                    -----------------------
+A       Good!       mastered all topics             you'll do well
+B       OK          competent in all major topics   able to to well, though review recommended
+C       Caution     sufficient to function          it'll be challenging, but possible with review
+D       Danger!     minimal competence              you'll probably fail
+F       No way      insufficient                    you're definitely not ready
 
 # How do we combine repeated assessments?
 

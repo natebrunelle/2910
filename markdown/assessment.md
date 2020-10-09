@@ -2,15 +2,16 @@
 title: Why Grading is Hard
 ...
 
-In software engineering we discuss the task of "requirements elicitation":
+In software engineering we discuss the task of **requirements elicitation**:
 that is, trying to figure out what the client actually wants.
 Most people---even those who have written software themselves---find it far easier to look at a software product and say "that's not right"
 than to sit down with a developer and explain what they want.
 
 Although I am unaware of formal studies to back this up,
 my experience suggests this is also true of instructors and grading.
-Instructors can generally tell a TA their graded work was not the goal,
-but generally find it difficult to explain to the TA what the goal was.
+Instructors can generally tell a TA they graded wrong,
+but generally find it difficult to explain to the TA
+how they are supposed to grade so that future grades are right.
 
 At least in part, that difficulty is caused by instructors having a wide variety of goals they hope each assessment and grading system will achieve; goals that are often in conflict with one another.
 
