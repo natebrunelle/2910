@@ -139,15 +139,12 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-A "C+" means... | *pending* | *pending* | *pending*
-Accurate vs Fair | *pending* | *pending* | *pending*
-Combining parts | *pending* | *pending* | *pending*
-Uncertainty | *pending* | *pending* | *pending*
-Rubrics and TAs | *pending* | *pending* | *pending*
-Regrades | *pending* | *pending* | *pending*
+A "B+" means... | [HTML](b+means.html) | *pending* | *pending*
+Assessments | [HTML](assessments.html) | *pending* | *pending*
+Practicalities | [HTML](grading.html) | *pending* | *pending*
 
 Assignment
-:   *pending*
+:   None this week!
 
 Quiz
 :   *pending*
