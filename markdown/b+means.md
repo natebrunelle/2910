@@ -17,6 +17,7 @@ TAs and instructors are grade producers; list five different grade consumers:
 - <input type="text"></input>
 
 We have a list TAs gave in previous semesters in a footnote[^1].
+:::
 
 [^1]:
     - students
@@ -28,7 +29,6 @@ We have a list TAs gave in previous semesters in a footnote[^1].
     - merit-based scholarships
     - "smart-person" clubs and awards
     - support systems looking for those in need of help
-:::
 
 :::exercise
 For each of the consumers listed above, why do they care about grades? What do they hope grades tell them?
@@ -40,6 +40,7 @@ For each of the consumers listed above, why do they care about grades? What do t
 - <input type="text"></input>
 
 We have a list TAs gave in previous semesters in a footnote[^2].
+:::
 
 [^2]:
     - students -- What should I focus on? Am I good enough? Should I be worried about the reactions of other people on this list?
@@ -51,7 +52,6 @@ We have a list TAs gave in previous semesters in a footnote[^2].
     - merit-based scholarships -- This pool all look good; who's the best of them?
     - "smart-person" clubs and awards -- This pool all look good; who's the best of them?
     - support systems looking for those in need of help -- Who's struggling? Who has seen a sudden drop in success?
-:::
 
 Note that several grade consumers want some form of "who's the best" measure.
 "Best" is a broad topic, which is probably worth its own section.
