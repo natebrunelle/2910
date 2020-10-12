@@ -61,7 +61,7 @@ Make your own.
 I've never yet known an instructor or TA to be upset when another TA offers a rubric (or rubric refinement) for an assessment.
 Occasionally they may offer corrections to the proposed rubric, but that's great: you still end up with a rubric you can use.
 
-Rubric design is a complicated process, but a good first steps is
+Rubric design is a complicated process, but good first steps are
 
 - For each point available to the problem, write down a yes-no item goal for that point to be given on.
 - Review half a dozen submissions looking for mistakes your list does not include.
