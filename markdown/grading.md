@@ -37,7 +37,7 @@ If that happens look for what their approach is: are they going for all-or-nothi
 Whatever the instructor's rule, and no matter what you think about it,
 follow it.
 You're welcome to engage them on different rules for the next assessment after grading is over if you wish,
-but mid-grading it is almost always the case that  changing the rules is more problematic than consitently using a sub-optimal set of rules.
+but mid-grading it is almost always the case that  changing the rules is more problematic than consistently using a sub-optimal set of rules.
 
 # Rubrics
 
@@ -68,7 +68,7 @@ Rubric design is a complicated process, but good first steps are
 - Review half a dozen submissions looking for mistakes your list does not include.
 - Add rubric items for those no on the rubric, removing or merging others to keep it from getting to big.
 
-Rubrics needn't be presented as such; a note in the [grader sharing document](#share-your-work)
+Rubrics needn't be presented as such; a note in the [grader-shared document](#share-your-work)
 like "I'm giving 1 point for proof structure, 1 for sound deductions, 1 for good inductive structure, 1 for using the symbols correctly, and 1 for the overall proof being correct" will encode a rubric as a clarifying note.
 
 # Avoid Double-Jeopardy
