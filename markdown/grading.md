@@ -5,7 +5,7 @@ title: Practical Grading
 We've talked about inherent difficulties in grading
 including [unclear overall goals](b+means.html)
 and [conflicting in-assessment goals](assessments.html)
-which together help explain why you, as a TA
+which together help explain why you, as a TA,
 are likely to often be asked to grade difficult-to-grade assignments.
 This page is devoted to practical steps you can still take.
 
