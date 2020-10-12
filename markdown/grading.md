@@ -17,7 +17,7 @@ If there's not grader communication medium in your course, create one: a simple 
 
 This is hugely valuable to ensuring that students who made the same mistake get the same grade,
 that multiple graders make the same decisions,
-and that when regrade requests come in you'll not have forgetting your previous decisions and change the rules by mistake.
+and that when regrade requests come in you'll not forget your previous decisions and change the rules by mistake.
 
 # Ambiguity
 
