@@ -96,4 +96,4 @@ You are welcome to do more than that, but we generally discourage the following 
 - Don't say "good job" unless they actually did a good job.
 - Don't be mean ("you should drop the class", "did you even study?", etc).
 
-Additionally, if you think they are missing something important and need visit with a TA or instructor, ask the instructor how that message should be communicated to them.
+Additionally, if you think they are missing something important and need to visit with a TA or instructor, ask the instructor how that message should be communicated to them; feedback as part of grading may not always be the right medium for that kind of message.
