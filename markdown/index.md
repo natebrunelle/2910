@@ -139,8 +139,8 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-A "B+" means... | [HTML](b+means.html) | *pending* | *pending*
-Assessments | [HTML](assessment.html) | *pending* | *pending*
+A "B+" means... | [HTML](b+means.html) | [player](player.html#51-Means.webm)/[webm](media/51-Means.webm) (15:50) | [mp3](media/51-Means.mp3) (from video)
+Assessments | [HTML](assessment.html) | [player](player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:50) | [mp3](media/52-Req.mp3) (from video)
 Practicalities | [HTML](grading.html) | *pending* | *pending*
 
 Assignment
