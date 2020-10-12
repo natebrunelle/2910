@@ -36,7 +36,8 @@ If that happens look for what their approach is: are they going for all-or-nothi
 
 Whatever the instructor's rule, and no matter what you think about it,
 follow it.
-You're welcome to engage them on different rules for the next assessment after grading is over if you wish.
+You're welcome to engage them on different rules for the next assessment after grading is over if you wish,
+but mid-grading it is almost always the case that  changing the rules is more problematic than consitently using a sub-optimal set of rules.
 
 # Rubrics
 
