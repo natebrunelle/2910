@@ -141,7 +141,7 @@ Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 A "B+" means... | [HTML](b+means.html) | [player](player.html#51-Means.webm)/[webm](media/51-Means.webm) (15:19) | [mp3](media/51-Means.mp3) (from video)
 Assessments | [HTML](assessment.html) | [player](player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55) | [mp3](media/52-Req.mp3) (from video)
-Practicalities | [HTML](grading.html) | *pending* | *pending*
+Practicalities | [HTML](grading.html) | [player](player.html#53-Practive.webm)/[webm](media/53-Practice.webm) (12:09) | [mp3](media/53-Practice.mp3) (from video)
 
 Assignment
 :   None this week!
