@@ -152,6 +152,10 @@ Quiz
 
 ## Improving as a teacher
 
+:::aside
+The writeups and videos ended up less aligned than usual this week, and there were fewer of them. Not sure why, it just felt right I guess.
+:::
+
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
