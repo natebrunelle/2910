@@ -154,9 +154,9 @@ Quiz
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-View, Review, Feedback | *pending* | *pending* | *pending*
-Sharing | *pending* | *pending* | *pending*
+View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
 Course of a Lifetime | *pending* | *pending* | *pending*
+Sharing | *pending* | *pending* | *pending*
 
 Assignment
 :   *pending*
