@@ -16,7 +16,7 @@ This course is designed to take about 4 hours of your time per week for 8 weeks,
 
 # Enrollment
 
-You must be a TA for a course in the CS department to pass this class (see [Grading] for why non-TAs will always get Fs).
+You must be a TA for a course in the CS department to pass this class (see [2910 Grading] for why non-TAs will always get Fs).
 With rare exceptions, you must take it during your first semester TAing for CS.
 
 <!--
@@ -181,7 +181,7 @@ Quiz
 - Taxonomies and hierarchies of knowledge and understanding
 
 
-# Grading
+# 2910 Grading
 
 Your assessments in this course run as follows:
 
