@@ -165,6 +165,7 @@ Assignment
         a. How could you apply that in your teaching?
     1. Record or reflect on your own teaching. Identify something you should do more or less of.
     1. Ask someone who has seen you teach for feedback on what you could improve. This might mean inviting them to see you teach first, perhaps even in a role-play situation where they pretend to be a student.
+    1. Reflect on what you'll take from TAing into whatever you do next. Write down a personal goal related to this.
 
 Quiz
 :   *pending*
