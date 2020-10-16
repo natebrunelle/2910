@@ -122,7 +122,7 @@ Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[webm](media/41-Overview.webm) (6:50) | [mp3](media/41-Overview.mp3) (from video)
 Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf) | [mp3](media/42-Answer.mp3) (from video)
-Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48)<br/>[notes.txt](media/44-Misc.txt) | [mp3](media/43-Misc.mp3) (from video)
+Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48)<br/>[notes.txt](media/43-Misc.txt) | [mp3](media/43-Misc.mp3) (from video)
 Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm](media/44-Hard.webm) (5:59)<br/>[notes.txt](media/44-Hard.txt) | [mp3](media/44-Hard.mp3) (from video)
 Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12)<br/>[notes.txt](media/45-Dunno.txt) | [mp3](media/45-Dunno.mp3) (from video)
 
@@ -155,8 +155,7 @@ Quiz
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
-Course of a Lifetime | *pending* | *pending* | *pending*
-Sharing | *pending* | *pending* | *pending*
+Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (4:23) | [mp3](media/62-Takeaway.mp3) (from video)
 
 Assignment
 :   *pending*
