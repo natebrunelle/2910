@@ -187,18 +187,18 @@ Your assessments in this course run as follows:
 
 - 35% topical quizzes; 5% for each of the 7 required topics
     
-    These will be delivered online and be retakeable.
-    I have not yet written them, so I cannot yet provide more details.
+    These are be delivered online and be retakeable.
+    They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
 
 - 15% final paper
 
     The end of term paper will be due the last day of classes and should address **one** of the following topics:
         
-    1.  **Curriculum redesign.**  Propose a redrawing of lines between courses, including any changes to the required/elective category of each course for BACS, BSCS, and/or BSCpE; defend why that reorganization would improve the educational quality of our program. Include any risks you can think of: what might make the change fail?
+    1.  **Curriculum redesign.**  Propose a redrawing of lines between courses, including any changes to the required/elective category of each course for BACS, BSCS, BSCpE, and/or CS Minor; defend why that reorganization would improve the educational quality of our program. Include any risks you can think of: what might make the change fail?
 
     2.  **Course improvement.**  Propose specific changes to the content, assignments, and/or flow of the course you are TAing. Try to be clear on how this would change the workload of course staff and the expected benefits to the students. Include any risks you can think of: what might make the change fail?
 
-    3.  **What I wish I had known about TAing**… but nobody told me. Reflect on your TAing experience and note what you had to learn the hard way, what you still haven't learned, and what advice or training you wish you had received before you started.
+    3.  **What I wish I had known about TAing**… but nobody told me (or they did but I didn't understand in advance). Reflect on your TAing experience and note what you had to learn the hard way, what you still haven't learned, and what advice or training you wish you had received before you started.
     
     Grading of this paper is looking for thought and attention, not "correctness".
 
