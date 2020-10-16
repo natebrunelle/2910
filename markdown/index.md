@@ -147,7 +147,8 @@ Assignment
 :   None this week!
 
 Quiz
-:   *pending*
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
 
 ## Improving as a teacher
 
