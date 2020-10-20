@@ -153,13 +153,13 @@ Quiz
 ## Improving as a teacher
 
 :::aside
-The writeups and videos ended up less aligned than usual this week, and there were fewer of them. Not sure why, it just felt right I guess.
+The second video didn't record properly. I'll try to fix it as soon as I can.
 :::
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
-Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (4:23) | [mp3](media/62-Takeaway.mp3) (from video)
+Course of a Lifetime | [HTML](takeaways.html) | *error with recording* | *error with recording*
 
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
