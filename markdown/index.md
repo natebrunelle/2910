@@ -153,7 +153,7 @@ Quiz
 ## Improving as a teacher
 
 :::aside
-The video for this didn't record properly. I'll try to fix it as soon as I can.
+The second video didn't record properly. I'll try to fix it as soon as I can.
 :::
 
 Module | Writeup | Video | Audio
