@@ -63,7 +63,7 @@ that, in essence, is what learning (and teaching) is.
 As you develop your schemata, you become an expert.
 That changes the basic functionality of your thinking,
 meaning you no longer think the way you did as a novice.
-Your basic experience of the world is mutable.
+Your basic experience of the world is [mutable](clt.html#intrinsic-load-changes).
 
 # Lasting success is through the steady dedicated course of a lifetime
 
