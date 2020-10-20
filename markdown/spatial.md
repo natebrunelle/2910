@@ -28,11 +28,11 @@ Does this mean that the worse-performing group is cognitively inferior?
 Many factors contribute to success in academics, of which raw "cognitive muscle" is just one.
 Others include
 
-- Prior exposure: the less new a topic is, the more incomplete schemata the student can build off of and the easier it is to learn.
+- Prior exposure: the less new a topic is, the more schemata the student has to build off of and the easier it is to learn.
 
 - Prerequisites: a solid understanding of prerequisite courses' topics means less working memory needs to be given to those areas, leaving more for learning the new topics.
 
-- Hidden curriculum: schools are social structures, with social rules, social capital, etc, that all need to be learned. It values certain attitudes, means of expression, etc. The better these are learned and adopted, the easier school becomes.
+- Hidden curriculum: schools are social institutions, with social rules, social capital, etc, that all need to be learned. They value certain attitudes, means of expression, etc. The better these are learned and adopted, the easier school becomes.
 
 - Hidden prerequisites: sometimes instruction assumes some prerequisite knowledge that even the instructor doesn't realize is needed.
 
