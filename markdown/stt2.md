@@ -83,7 +83,7 @@ my recommendation is to express surprise:
 not surprise that the stereotype exists (don't pretend to not know)
 but surprise that a UVA student would think it worth bringing up.
 We are educated people, and in my experience most of us really do know better than to believe in stereotypes.
-Expressing this can help students realize that they are not being judges on their group membership and that the negative stereotype they've heard about in the world at large isn't a stereotype here..
+Expressing this can help students realize that they are not being judged on their group membership and that the negative stereotype they've heard about in the world at large isn't as much of a stereotype here.
 
 ## See individuals
 
