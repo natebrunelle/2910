@@ -28,11 +28,12 @@ and how you can [learn](clt-ta.html#listen-before-speaking) what people are [thi
 all focusing on how understanding this truth can help make you a better TA.
 
 But this truth goes far beyond what you'll do as a TA.
-The same understanding that helps you understand and help a stressed-out student hoping you'll tell them the answer instead of teaching them the topic
-will also help you understand and help a stressed-out client hoping you'll remove their problem instead of providing realistic digital tools and teaching them to use them.
+The same understanding that helps you understand and help a stressed-out student who is hoping that you'll tell them the answer instead of teaching them the topic
+will also help you understand and help a stressed-out client who is hoping that you'll remove their problem instead of providing realistic digital tools and teaching them to use them.
 It helps you understand people from cultures unlike your own,
 people who believe things you disagree with,
-and many other situations.
+people who are upset by something you find normal,
+and in many other situations.
 My hope is it will help you avoid the temptation to oversimplify
 and encourage you to continue to engage with others.
 
