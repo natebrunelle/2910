@@ -22,9 +22,9 @@ Be it formally to children, youth, young adults, or older adults, there are both
 Humans are complicated; each is different, but each is understandable.
 I've tried to teach you a sampling of this truth,
 explaining a bit about 
-how the brain works
-and how individual experiences of the same situation differ
-and how you can learn what people are thinking.
+[how the brain works](clt.html)
+and how [individual experiences of the same situation differ](clt-ta.html#listen-before-speaking)
+and how you can [learn what people are thinking](socratic.html),
 all focusing on how understanding this truth can help make you a better TA.
 
 But this truth goes far beyond what you'll do as a TA.
