@@ -111,6 +111,9 @@ That assertion went without challenge, and aligns with many of our intuitions, b
 Indeed, there is an argument that your grade should be the *maximum* of your understanding, time management, and social skills
 because if you are good at any of them you can provide value to a company,
 either as a developer or manager or marketer or assistant or trainer or ....
+Or perhaps it should be the *minimum* of your understanding, time management, and social skills
+because if you are bad at any of them then I don't want you as a co-worker.
+Or ...
 
 # What is a "B+ understanding"?
 
