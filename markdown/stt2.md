@@ -137,7 +137,7 @@ helping spark their interest, or build their confidence, or feel welcome, or ide
 
 ## Impostor syndrome
 
-Imposter syndrome is a near-universal phenomenon where full-qualified people, even world-renowned experts in their field, sometimes feel like they are imposters, like they are faking it, like they are in danger of being "found out" and rejected.
+Imposter syndrome is a near-universal phenomenon where fully-qualified people, even world-renowned experts in their field, sometimes feel like they are imposters, like they are faking it, like they are in danger of being "found out" and rejected.
 
 Sometimes imposter syndrome can cause students to identify less with their "computer scientist" and "successful student" identities, increasing their likelihood of relating to negative stereotypes.
 It can also increase their stress, compounding the impact of stereotype threat.
