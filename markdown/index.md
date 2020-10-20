@@ -197,7 +197,7 @@ Your assessments in this course run as follows:
 
 - 35% topical quizzes; 5% for each of the 7 required topics
     
-    These are be delivered online and be retakeable.
+    These are delivered online and are retakeable.
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
 
 - 15% final paper
