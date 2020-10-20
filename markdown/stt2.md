@@ -61,7 +61,7 @@ Ever.
 
 No really, don't.
 
-To understand why, imagine you are about to take a swimming test and the person administering says "I know you’ve heard people with small feet are bad at swimming, but it’s not true. We've done hundreds of studies and found that people with small feet are just as good at swimming as people with large feet."
+To understand why, imagine I am about to give you a swimming test and before you start to swim I say "I know you’ve heard people with small feet are bad at swimming, but it’s not true. We've done hundreds of studies and found that people with small feet are just as good at swimming as people with large feet."
 
 What have I communicated?
 
