@@ -113,7 +113,7 @@ and they say "oh, I don't see universities; to me you're just a student."
 How would you feel?
 
 Yeah, so, don't do that.
-To help mitigate awareness you shouldn't draw students attention to stereotyped characteristics,
+To help mitigate awareness you shouldn't draw students' attention to stereotyped characteristics,
 but don't deny they exist either.
 
 ## Positive identities
