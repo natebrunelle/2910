@@ -89,10 +89,10 @@ things I do now and should stop doing; habits to develop and habits to break.
 The more I understand teaching and myself, the more items get added to this list.
 But that's OK, that's even good,
 because I'm also always working on a few items from that list,
-getting better at (not) doing them,
+getting better at doing them,
 until I can remove them from the list and move forward.
 
-Any last success takes time, patience, and comfort with the idea that there is always more to do.
+Any lasting success takes time, patience, and comfort with the idea that there is always more to do.
 
 # There's always someone to mentor
 
