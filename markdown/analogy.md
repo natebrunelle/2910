@@ -40,6 +40,6 @@ A basic routine looks like
 
 1. Pick a topic $x$ you teach
 2. Pick $n$ objects or events $x_1, x_2, \dots, x_n$ which you see or have recently experienced and for each
-    a. say "$x$ is like $n_i$"
+    a. say "$x$ is like $x_i$"
     a. come up with an explanation of the similarity.
-    a. say "unlike $n_i$, $x$" and then explain a difference
+    a. say "unlike $x_i$, $x$" and then explain a difference

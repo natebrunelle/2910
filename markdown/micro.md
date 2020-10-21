@@ -58,5 +58,5 @@ Don't do this.
 In general (though not in every particular),
 microaggressions target those who are already struggling against multiple impediments,
 be they stereotype threat or implicit biases or code switching or the struggle of learning a new language and culture or ...
-If you have fewer impediments and can use some of your energy to remove one of these from them, it's a worthy load-sharing service to perform.
+If you have fewer of these impediments than others and can use some of your energy to remove one or more impediments from those with more, doing so is a worthy load-sharing service to perform.
 

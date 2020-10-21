@@ -22,17 +22,18 @@ Be it formally to children, youth, young adults, or older adults, there are both
 Humans are complicated; each is different, but each is understandable.
 I've tried to teach you a sampling of this truth,
 explaining a bit about 
-how the brain works
-and how individual experiences of the same situation differ
-and how you can learn what people are thinking.
+[how the brain works](clt.html)
+and how individual experiences of the same situation [differ](micro.html)
+and how you can [learn](clt-ta.html#listen-before-speaking) what people are [thinking](socratic.html),
 all focusing on how understanding this truth can help make you a better TA.
 
 But this truth goes far beyond what you'll do as a TA.
-The same understanding that helps you understand and help a stressed-out student hoping you'll tell them the answer instead of teaching them the topic
-will also help you understand and help a stressed-out client hoping you'll remove their problem instead of providing realistic digital tools and teaching them to use them.
+The same understanding that helps you understand and help a stressed-out student who is hoping that you'll tell them the answer instead of teaching them the topic
+will also help you understand and help a stressed-out client who is hoping that you'll remove their problem instead of providing realistic digital tools and teaching them to use them.
 It helps you understand people from cultures unlike your own,
 people who believe things you disagree with,
-and many other situations.
+people who are upset by something you find normal,
+and in many other situations.
 My hope is it will help you avoid the temptation to oversimplify
 and encourage you to continue to engage with others.
 
@@ -62,7 +63,7 @@ that, in essence, is what learning (and teaching) is.
 As you develop your schemata, you become an expert.
 That changes the basic functionality of your thinking,
 meaning you no longer think the way you did as a novice.
-Your basic experience of the world is mutable.
+Your basic experience of the world is [mutable](clt.html#intrinsic-load-changes).
 
 # Lasting success is through the steady dedicated course of a lifetime
 
@@ -89,10 +90,10 @@ things I do now and should stop doing; habits to develop and habits to break.
 The more I understand teaching and myself, the more items get added to this list.
 But that's OK, that's even good,
 because I'm also always working on a few items from that list,
-getting better at (not) doing them,
+getting better at doing them,
 until I can remove them from the list and move forward.
 
-Any last success takes time, patience, and comfort with the idea that there is always more to do.
+Any lasting success takes time, patience, and comfort with the idea that there is always more to do.
 
 # There's always someone to mentor
 

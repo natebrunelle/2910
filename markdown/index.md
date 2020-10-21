@@ -194,7 +194,7 @@ Your assessments in this course run as follows:
 
 - 35% topical quizzes; 5% for each of the 7 required topics
     
-    These are be delivered online and be retakeable.
+    These are delivered online and are retakeable.
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
 
 - 15% final paper
@@ -207,7 +207,15 @@ Your assessments in this course run as follows:
 
     3.  **What I wish I had known about TAing**… but nobody told me (or they did but I didn't understand in advance). Reflect on your TAing experience and note what you had to learn the hard way, what you still haven't learned, and what advice or training you wish you had received before you started.
     
+    To upload your paper for grading
+    
+    a. Export your paper as a PDF document (PDF only, please)
+    a. Visit Collab → [File Drop](https://collab.its.virginia.edu/portal/site/be63c7ff-14ea-43bc-a7b9-98fa63aca1eb/tool-reset/b6187a59-554c-498f-b423-fb85dc20c960)
+    a. To the right of your name you should see a drop-down button which may be labeled "⏷" or "Actions ⏷"; click that and pick "Upload Files"
+    
     Grading of this paper is looking for thought and attention, not "correctness".
+    
+    There's no particular length limit; I've given full credit to both ½-page and 15-page papers in the past. Say what you have to say, and then stop.
 
 - 50% your supervisor's response to "on a scale from A to F, how effective was this TA?"
 

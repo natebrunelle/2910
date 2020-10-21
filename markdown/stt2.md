@@ -61,7 +61,7 @@ Ever.
 
 No really, don't.
 
-To understand why, imagine you are about to take a swimming test and the person administering says "I know you’ve heard people with small feet are bad at swimming, but it’s not true. We've done hundreds of studies and found that people with small feet are just as good at swimming as people with large feet."
+To understand why, imagine I am about to give you a swimming test and before you start to swim I say "I know you’ve heard people with small feet are bad at swimming, but it’s not true. We've done hundreds of studies and found that people with small feet are just as good at swimming as people with large feet."
 
 What have I communicated?
 
@@ -83,7 +83,7 @@ my recommendation is to express surprise:
 not surprise that the stereotype exists (don't pretend to not know)
 but surprise that a UVA student would think it worth bringing up.
 We are educated people, and in my experience most of us really do know better than to believe in stereotypes.
-Expressing this can help students realize that they are not being judges on their group membership and that the negative stereotype they've heard about in the world at large isn't a stereotype here..
+Expressing this can help students realize that they are not being judged on their group membership and that the negative stereotype they've heard about in the world at large isn't as much of a stereotype here.
 
 ## See individuals
 
@@ -113,7 +113,7 @@ and they say "oh, I don't see universities; to me you're just a student."
 How would you feel?
 
 Yeah, so, don't do that.
-To help mitigate awareness you shouldn't draw students attention to stereotyped characteristics,
+To help mitigate awareness you shouldn't draw students' attention to stereotyped characteristics,
 but don't deny they exist either.
 
 ## Positive identities
@@ -137,7 +137,7 @@ helping spark their interest, or build their confidence, or feel welcome, or ide
 
 ## Impostor syndrome
 
-Imposter syndrome is a near-universal phenomenon where full-qualified people, even world-renowned experts in their field, sometimes feel like they are imposters, like they are faking it, like they are in danger of being "found out" and rejected.
+Imposter syndrome is a near-universal phenomenon where fully-qualified people, even world-renowned experts in their field, sometimes feel like they are imposters, like they are faking it, like they are in danger of being "found out" and rejected.
 
 Sometimes imposter syndrome can cause students to identify less with their "computer scientist" and "successful student" identities, increasing their likelihood of relating to negative stereotypes.
 It can also increase their stress, compounding the impact of stereotype threat.
