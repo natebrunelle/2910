@@ -152,14 +152,11 @@ Quiz
 
 ## Improving as a teacher
 
-:::aside
-The second video didn't record properly. I'll try to fix it as soon as I can.
-:::
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
-Course of a Lifetime | [HTML](takeaways.html) | *error with recording* | *error with recording*
+Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (8:15) | [mp3](media/62-Takeaway.mp3) (from video)
 
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
