@@ -169,7 +169,8 @@ Assignment
     1. Reflect on what you'll take from TAing into whatever you do next. Write down a personal goal related to this.
 
 Quiz
-:   *pending*
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSe5TWuLtxbAd-bmDU7D_DoVnT4sC-ENcpLxDkDBWKQ3TEgBYg/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
 
 ## Extra topics
 
