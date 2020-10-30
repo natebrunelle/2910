@@ -176,9 +176,13 @@ Quiz
 
 (pick any; likely only a subset will be available this semester)
 
+- Planning a lecture:
+    [Part 1](player.html#Lect-1.webm)
+    [Part 2](player.html#Lect-2.webm)
+    [Part 3](player.html#Lect-3.webm)
+    [Part 4](player.html#Lect-4.webm)
 - Becoming a professional teacher
 - Cheating and evaluation design
-- Planning and presenting a lecture
 - What makes a course "good"?
 - Faculty teaching philosophies
 - What a university professor does (and how to become one)
