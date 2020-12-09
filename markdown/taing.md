@@ -61,8 +61,9 @@ We strongly recommend using JustReportIt, as it is much simpler to use.
 If you witness evidence of physical, sexual, or emotional abuse, report it at <https://JustReportIt.virginia.edu>
 :::
 
-
 Note that this mandate supersedes any form of confidentiality you can enter into as a TA.
+
+The university also has a reference document explaining how to handle dozens of situations: [Helping Students in Distress or Crisis](reporting-cheatsheet.pdf).
 
 # Information and Power
 
