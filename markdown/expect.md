@@ -4,7 +4,7 @@ title: What to Expect as a TA
 
 Last semester about half of our TAs told me what they didn't expect about TAing. I've extracted a few of the common points and included them here for your benefit.
 
-# You wont know every answer
+# You won't know every answer
 
 Students will come with installation issues you've never seen on OSs you don't use.
 

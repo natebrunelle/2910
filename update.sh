@@ -4,7 +4,7 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$here/html/"
-remote="portal.cs.virginia.edu:/u/lat7h/public_html/2910/F2020/"
+remote="portal.cs.virginia.edu:/u/lat7h/public_html/2910/S2021/"
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
