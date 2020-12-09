@@ -57,7 +57,7 @@ If you are able, you are welcome to fill in these gaps in how your course is org
 
 ## Use your Camera
 
-Many TAs commented on the issolation of being invisible in a COVID-world without faces. Several commented on their hesitation to turn on their camera or to ask students to do the same, but also commented on how much their life improved once they did.
+Many TAs commented on the isolation of being invisible in a COVID-world without faces. Several commented on their hesitation to turn on their camera or to ask students to do the same, but also commented on how much their life improved once they did.
 
 Stressed students can sometimes treat the invisible TA as an unfeeling machine, but tend to treat you as more human if they can see you. It can also be worth your time to spend a minute talking about their life and yours, reminding them that your are a person and a fellow-student before you get under way with the help they came seeking.
 
