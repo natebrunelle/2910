@@ -193,7 +193,7 @@ Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
         a. What they did that you don't?
-        a. Why you think they chose to do that>
+        a. Why you think they chose to do that?
         a. Who was that choice helping the most?
         a. How could you apply that in your teaching?
     1. Record or reflect on your own teaching. Identify something you should do more or less of.
