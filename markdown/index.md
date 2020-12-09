@@ -38,6 +38,8 @@ will it take?   for a total of 32 hours. Your time investment may vary.
 You must be a TA for a course in the CS department to pass this class (see [Your Grade] for why non-TAs will always get Fs).
 With rare exceptions, you must take it during your first semester TAing for CS.
 
+If you have any difficulty, please contact the CS 2910 instructor at [tychonievich@virginia.edu](mailto:tychonievich@virginia.edu?subject=CS 2910 enrollment).
+
 <!--
 
 SIS's handling of permission-request courses is a bit tricky.
