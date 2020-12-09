@@ -11,7 +11,7 @@ Topic           Information
 Who may enroll  Any person employed as a Teaching Assistant (TA) in CS.
                 <p>If you TA for another department and your supervisor agrees,
                 you may also enroll, but email the CS 2910 instructor (CCing
-                your supervisor) before doing so.
+                your supervisor) before doing so.</p>
 
 How do I get    Each instructor may chose this themselves. This course does
 hired as a TA?  not help you gain a TA placement.
