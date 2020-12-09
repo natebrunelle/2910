@@ -10,7 +10,7 @@ Students will come with installation issues you've never seen on OSs you don't u
 
 Students will ask about how to debug strange errors you've never seen before.
 
-Students will express confusion about corner cases of course concepts that will confuse you too.
+Students will express confusion about corner cases of course concepts that you thought you understood until they showed you this part of them that you don't.
 
 Students will ask you to help them finish doing something they started in a way you'd never attempt and don't really understand.
 
@@ -47,7 +47,7 @@ The number-one attribute TAs reflect on needing to learn, and say made their tim
 
 # Your supervisor is flawed
 
-The standard path into becoming a university instructor does not include *any* instruction on how to design and teach classes. Faculty receive enough feedback on their lecturing that they tend to improve quickly there, but often get little if any feedback on other course-running skills, including course organization, communicating expectations and deadlines, designing assessments and rubrics, and supervising TAs. Welcome to TAing: the role where you get to see most of what faulty are worst at!
+The standard path into becoming a university instructor does not include *any* instruction on how to design and teach classes. Faculty receive enough feedback on their lecturing that they tend to improve quickly there, but often get little if any feedback on other course-running skills, including course organization, communicating expectations and deadlines, designing assessments and rubrics, and supervising TAs. Welcome to TAing: the role where you get to see most of what faculty are worst at!
 
 Exactly what this means for you will vary a lot by instructor, but expect to be asked to interpret unclear syllabi and assignment writueps; to grade using vague (or missing) rubrics; to help students learn topics that were introduced since you last took the course; and/or to deal with uncertain and changing deadlines for your own work. Sometimes under-informed faculty who don't see the feedback you do as a TA may even assert that their bad practices and flaws are best practices and strengths.
 
