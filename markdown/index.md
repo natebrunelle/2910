@@ -8,7 +8,7 @@ title: TA Practicum
 +---------------+------------------------------------------------------------+
 |               |                                                            |
 +===============+============================================================+
-|Who may enroll |Any person employed as a Teaching Assistant (TA) in CS.     |
+|Who may enroll?|Any person employed as a Teaching Assistant (TA) in CS.     |
 |               |<br/>If you TA but not in CS and your supervisor agrees,    |
 |               |you may also enroll, but email the CS 2910 instructor (CCing|
 |               |your supervisor) before doing so.                           |
