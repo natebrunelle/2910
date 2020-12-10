@@ -5,31 +5,30 @@ title: TA Practicum
 
 # Pre-course Information
 
----------------------------------------------------------------------------
---------------  -----------------------------------------------------------
-Who may enroll  Any person employed as a Teaching Assistant (TA) in CS.
-                <br/>If you TA for another department and your supervisor agrees,
-                you may also enroll, but email the CS 2910 instructor (CCing
-                your supervisor) before doing so.
-
-How do I get    Each instructor may chose this themselves. This course does
-hired as a TA?  not help you gain a TA placement.
-
-How does the    Online asynchronous. There are videos, writueps, retakable 
-course run?     quizzes, a Discord server, and a final paper. We will also
-                have *optional* synchronous meetings.
-
-Can I start     Yes, this is encouraged. Some modules may be updated during
-early?          the semester, but not in ways that invalidate those that
-                already exist.
-
-Can I start     Because TAs are often hired a few weeks into the semester,
-late?           we expect this to occur for some TAs. There is no grade 
-                penalty for late starts.
-
-How much time   It is designed to take about 4 hours per week for 8 weeks,
-will it take?   for a total of 32 hours. Your time investment may vary.
---------------  -----------------------------------------------------------
++===============+============================================================+
+|Who may enroll |Any person employed as a Teaching Assistant (TA) in CS.     |
+|               |<br/>If you TA but not in CS and your supervisor agrees,    |
+|               |you may also enroll, but email the CS 2910 instructor (CCing|
+|               |your supervisor) before doing so.                           |
++---------------+------------------------------------------------------------+
+|How do I get   |Each instructor may chose this themselves. This course does |
+|hired as a TA? |not help you gain a TA placement.                           |
++---------------+------------------------------------------------------------+
+|How does the   |Online asynchronous. There are videos, writueps, retakable  |
+|course run?    |quizzes, a Discord server, and a final paper. We will also  |
+|               |have *optional* synchronous meetings.                       |
++---------------+------------------------------------------------------------+
+|Can I start    |Yes, this is encouraged. Some modules may be updated during |
+|early?         |the semester, but not in ways that invalidate those that    |
+|               |already exist.                                              |
++---------------+------------------------------------------------------------+
+|Can I start    |Because TAs are often hired a few weeks into the semester,  |
+|late?          |we expect this to occur for some TAs. There is no grade     |
+|               |penalty for late starts.                                    |
++---------------+------------------------------------------------------------+
+|How much time  |It is designed to take about 4 hours per week for 8 weeks,  |
+|will it take?  |for a total of 32 hours. Your time investment may vary.     |
++---------------+------------------------------------------------------------+
 
 
 # Enrollment
