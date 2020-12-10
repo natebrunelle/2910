@@ -6,7 +6,6 @@ title: TA Practicum
 # Pre-course Information
 
 ---------------------------------------------------------------------------
-Topic           Information
 --------------  -----------------------------------------------------------
 Who may enroll  Any person employed as a Teaching Assistant (TA) in CS.
                 <br/>If you TA for another department and your supervisor agrees,
