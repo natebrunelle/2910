@@ -69,7 +69,7 @@ as well as several optional, ungraded enrichment modules.
 Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [mp3](media/00-Intro.mp3) (from video)
-Realistic expecations | [HTML](expect.html) | *pending* | *pending*
+Realistic expectations | [HTML](expect.html) | *pending* | *pending*
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
@@ -135,7 +135,7 @@ Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03) | [mp3](media/31-IB.mp3) (from video)
 IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:45) | [mp3](media/32-IB2.mp3) (from video)
-Microagressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54) | [mp3](media/33-Micro.mp3) (from video)
+Microaggressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54) | [mp3](media/33-Micro.mp3) (from video)
 Spatial         | [HTML](spatial.html) | [player](player.html#34-Spatial.webm)/[webm](media/34-Spatial.webm) (9:45) | [mp3](media/34-Spatial.mp3) (from video)
 
 Assignment
