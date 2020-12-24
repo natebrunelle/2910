@@ -49,7 +49,7 @@ The number-one attribute TAs reflect on needing to learn, and say made their tim
 
 The standard path into becoming a university instructor does not include *any* instruction on how to design and teach classes. Faculty receive enough feedback on their lecturing that they tend to improve quickly there, but often get little if any feedback on other course-running skills, including course organization, communicating expectations and deadlines, designing assessments and rubrics, and supervising TAs. Welcome to TAing: the role where you get to see most of what faculty are worst at!
 
-Exactly what this means for you will vary a lot by instructor, but expect to be asked to interpret unclear syllabi and assignment writueps; to grade using vague (or missing) rubrics; to help students learn topics that were introduced since you last took the course; and/or to deal with uncertain and changing deadlines for your own work. Sometimes under-informed faculty who don't see the feedback you do as a TA may even assert that their bad practices and flaws are best practices and strengths.
+Exactly what this means for you will vary a lot by instructor, but expect to be asked to interpret unclear syllabi and assignment writueps; to grade using vague (or missing) rubrics; to help students learn topics that were introduced since you last took the course; and/or to deal with uncertain and changing deadlines for your own work. Sometimes under-informed faculty who don't see the feedback you see as a TA may even assert that their bad practices and flaws are best practices and strengths.
 
 If you are able, you are welcome to fill in these gaps in how your course is organized; but know that it is always OK, and often desirable, to route questions related to them back to the instructor. People tend to improve if given constructive feedback, so letting the instructor know what questions keep coming to you (possibly with some suggestions on how to reduce that flood) can help the instructor improve and can simplify your experience as a TA.
 
@@ -59,7 +59,7 @@ If you are able, you are welcome to fill in these gaps in how your course is org
 
 Many TAs commented on the isolation of being invisible in a COVID-world without faces. Several commented on their hesitation to turn on their camera or to ask students to do the same, but also commented on how much their life improved once they did.
 
-Stressed students can sometimes treat the invisible TA as an unfeeling machine, but tend to treat you as more human if they can see you. It can also be worth your time to spend a minute talking about their life and yours, reminding them that your are a person and a fellow-student before you get under way with the help they came seeking.
+Stressed students can sometimes treat the invisible TA as an unfeeling machine, but tend to treat you as more human if they can see you. It can also be worth your time to spend a minute talking about their life and yours, reminding them that you are a person and a fellow-student before you get under way with the help they came seeking.
 
 Also take the initiative to get to know your fellow TAs. Many TAs in the COVID era commented that they wished they had gotten to know thier fellow TAs better. Don't expect the veteran TAs to initiate this: they know each other already from when they TAed in person together. Don't expect your supervisor to do it either (see [Your supervisor is flawed] above). Take the initiative to say hi, to share anecdotes (good and bad), to create opportunities to make friends with your fellow TAs.
 
