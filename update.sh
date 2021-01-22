@@ -12,18 +12,18 @@ else pd="$(which pandoc)"
 fi
 which python3 || module load python3
 
-if [ -d .git ]
-    then
-    if [ "$#" -lt 1 ] || [ "$1" != 'test' ]
-    then
-        git commit -a -m 'autocommit caused by update'
-        git pull
-        git push
-    elif [ "$1" = 'test' ]
-    then
-        shift
-    fi
-fi
+#if false && [ -d .git ]
+#    then
+#    if [ "$#" -lt 1 ] || [ "$1" != 'test' ]
+#    then
+#        git commit -a -m 'autocommit caused by update'
+#        git pull
+#        git push
+#    elif [ "$1" = 'test' ]
+#    then
+#        shift
+#    fi
+# fi
 
 if [ -n "$1" ]; then always=1; else always=; fi
 

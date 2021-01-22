@@ -99,9 +99,9 @@ Every person involved in a tutoring situation should be looking at their part of
 For the student, that is likely the code, problem, worksheet, etc.
 For the TA, that is almost always the student.
 
-I am continually surprised at the postive effect
+I am continually surprised at the positive effect
 of the moment is when a student turns their computer toward me so I can see their code and I continue to look at their face, not their code.
-It reminds me of me [true priorities](respond.html#priority-manipulation);
+It reminds me of my [true priorities](respond.html#priority-manipulation);
 it communicates to the student that I want to know more about them;
 and it helps me avoid leaping to conclusions and use the Socratic method and other effective teaching tools.
 

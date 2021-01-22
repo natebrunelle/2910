@@ -2,17 +2,35 @@
 title: TA Practicum
 ...
 
-This semester, the TA practicum will be offered as an online asynchronous course.
-This means there will be no scheduled meeting times; you'll be expected to learn the material at your own pace.
 
-There will be scheduled discussion times when you are invited to come, talk, and share ideas with the instructor and with other TAs.
-Although you may not know TAs from other courses yet, many TAs are students who study well, can explain things clearly, and want to give back to the university; we expect you'll find one another quite pleasant to get to know.
+# Pre-course Information
 
-Traditionally, TA hiring extends into the first few weeks of the semester.
-Thus, this course is designed to begin in the third week of the semester.
-While some material may appear before then, there is no need to start work early.
+---------------------------------------------------------------------------
+Topic           Information
+--------------  -----------------------------------------------------------
+Who may enroll  Any person employed as a Teaching Assistant (TA) in CS.
+                If you TA for another department and your supervisor agrees,
+                you may also enroll.
 
-This course is designed to take about 4 hours of your time per week for 8 weeks, for a total of 32 hours.
+How do I get    Each instructor may chose this themselves. This course does
+hired as a TA?  not help you gain a TA placement.
+
+How does the    Online asynchronous. There are videos, writueps, retakable 
+course run?     quizzes, a Discord server, and a final paper. We will also
+                have *optional* synchronous meetings.
+
+Can I start     Yes, this is encouraged. Some modules may be updated during
+early?          the semester, but not in ways that invalidate those that
+                already exist.
+
+Can I start     Because TAs are often hired a few weeks into the semester,
+late?           we expect this to occur for some TAs. There is no grade 
+                penalty for late starts.
+
+How much time   It is designed to take about 4 hours per week for 8 weeks,
+will it take?   for a total of 32 hours. Your time investment may vary.
+--------------  -----------------------------------------------------------
+
 
 # Enrollment
 
@@ -39,14 +57,26 @@ Late add enrollments need the SIS ID, not one of the others.
 
 # Topics
 
-The first seven topics are required, and the intent is to make them available via writeup, video, and podcast, instructor time permitting.
-The 8^th^ is enrichment material and will be developed in the level of detail that time allows.
+There are seven requred, graded modules, each with several topics.
+Each topic is accompanied by both a writeup and a video. The intent is that both video and writuep cover the same material so that you may choose either to learn the material.
+There is also an orientiation module to help you have a smooth start to TAing,
+as well as several optional, ungraded enrichment modules.
+
+## Orientation
+
+Module | Writeup | Video | Audio
+------ | ------- | ----- | -----
+Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [mp3](media/00-Intro.mp3) (from video)
+Realistic expecations | [HTML](expect.html) | *pending* | *pending*
+
+Assignment
+:   Schedule regular weekly times to participate in this class.
+
 
 ## Ethics of TAing
 
 Module | Writeup | Video | Audio
 ------ | ------- | ----- | -----
-Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [mp3](media/00-Intro.mp3) (from video)
 Being a TA | [HTML](taing.html) | [player](player.html#01-TAing.webm)/[webm](media/01-TAing.webm) (6:16) | [mp3](media/01-TAing.mp3) (from video)
 FERPA | [HTML](ferpa.html) | [player](player.html#02-FERPA.webm)/[webm](media/02-FERPA.webm) (2:53) | [mp3](media/02-FERPA.mp3) (from video)
 Conflicts of Interest | [HTML](coi.html) | [player](player.html#03-COI.webm)/[webm](media/03-COI.webm) (11:00) | [mp3](media/03-COI.mp3) (from video)
@@ -199,7 +229,7 @@ Quiz
 
 Your assessments in this course run as follows:
 
-- 35% topical quizzes; 5% for each of the 7 required topics
+- 35% module quizzes; 5% for each of the 7 required modules
     
     These are delivered online and are retakeable.
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
@@ -217,7 +247,7 @@ Your assessments in this course run as follows:
     To upload your paper for grading
     
     a. Export your paper as a PDF document (PDF only, please)
-    a. Visit Collab → [File Drop](https://collab.its.virginia.edu/portal/site/be63c7ff-14ea-43bc-a7b9-98fa63aca1eb/tool-reset/b6187a59-554c-498f-b423-fb85dc20c960)
+    a. Visit Collab → File Drop
     a. To the right of your name you should see a drop-down button which may be labeled "⏷" or "Actions ⏷"; click that and pick "Upload Files"
     
     Grading of this paper is looking for thought and attention, not "correctness".
