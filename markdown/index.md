@@ -5,37 +5,40 @@ title: TA Practicum
 
 # Pre-course Information
 
----------------------------------------------------------------------------
-Topic           Information
---------------  -----------------------------------------------------------
-Who may enroll  Any person employed as a Teaching Assistant (TA) in CS.
-                If you TA for another department and your supervisor agrees,
-                you may also enroll.
-
-How do I get    Each instructor may chose this themselves. This course does
-hired as a TA?  not help you gain a TA placement.
-
-How does the    Online asynchronous. There are videos, writueps, retakable 
-course run?     quizzes, a Discord server, and a final paper. We will also
-                have *optional* synchronous meetings.
-
-Can I start     Yes, this is encouraged. Some modules may be updated during
-early?          the semester, but not in ways that invalidate those that
-                already exist.
-
-Can I start     Because TAs are often hired a few weeks into the semester,
-late?           we expect this to occur for some TAs. There is no grade 
-                penalty for late starts.
-
-How much time   It is designed to take about 4 hours per week for 8 weeks,
-will it take?   for a total of 32 hours. Your time investment may vary.
---------------  -----------------------------------------------------------
++---------------+------------------------------------------------------------+
+|               |                                                            |
++===============+============================================================+
+|Who may enroll?|Any person employed as a Teaching Assistant (TA) in CS.     |
+|               |<br/>If you TA but not in CS and your supervisor agrees,    |
+|               |you may also enroll, but email the CS 2910 instructor (CCing|
+|               |your supervisor) before doing so.                           |
++---------------+------------------------------------------------------------+
+|How do I get   |Each instructor may chose this themselves. This course does |
+|hired as a TA? |not help you gain a TA placement.                           |
++---------------+------------------------------------------------------------+
+|How does the   |Online asynchronous. There are videos, writueps, retakable  |
+|course run?    |quizzes, a Discord server, and a final paper. We will also  |
+|               |have *optional* synchronous meetings.                       |
++---------------+------------------------------------------------------------+
+|Can I start    |Yes, this is encouraged. Some modules may be updated during |
+|early?         |the semester, but not in ways that invalidate those that    |
+|               |already exist.                                              |
++---------------+------------------------------------------------------------+
+|Can I start    |Because TAs are often hired a few weeks into the semester,  |
+|late?          |we expect this to occur for some TAs. There is no grade     |
+|               |penalty for late starts.                                    |
++---------------+------------------------------------------------------------+
+|How much time  |It is designed to take about 4 hours per week for 8 weeks,  |
+|will it take?  |for a total of 32 hours. Your time investment may vary.     |
++---------------+------------------------------------------------------------+
 
 
 # Enrollment
 
 You must be a TA for a course in the CS department to pass this class (see [Your Grade] for why non-TAs will always get Fs).
 With rare exceptions, you must take it during your first semester TAing for CS.
+
+If you have any difficulty, please contact the CS 2910 instructor at [tychonievich@virginia.edu](mailto:tychonievich@virginia.edu?subject=CS 2910 enrollment).
 
 <!--
 
@@ -62,12 +65,11 @@ Each topic is accompanied by both a writeup and a video. The intent is that both
 There is also an orientiation module to help you have a smooth start to TAing,
 as well as several optional, ungraded enrichment modules.
 
-## Orientation
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [mp3](media/00-Intro.mp3) (from video)
-Realistic expecations | [HTML](expect.html) | *pending* | *pending*
+Realistic expectations | [HTML](expect.html) | *pending* | *pending*
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
@@ -75,7 +77,7 @@ Assignment
 
 ## Ethics of TAing
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Being a TA | [HTML](taing.html) | [player](player.html#01-TAing.webm)/[webm](media/01-TAing.webm) (6:16) | [mp3](media/01-TAing.mp3) (from video)
 FERPA | [HTML](ferpa.html) | [player](player.html#02-FERPA.webm)/[webm](media/02-FERPA.webm) (2:53) | [mp3](media/02-FERPA.mp3) (from video)
@@ -91,7 +93,7 @@ Quiz
 
 ## Student Learning
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 CLT Intro | [HTML](clt.html) | [player](player.html#11-CLT.webm)/[webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | [mp3](media/11-CLT.mp3) (from video)
 CLT and TAing | [HTML](clt-ta.html) | [player](player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | [mp3](media/12-CLT-TA.mp3) (from video)
@@ -113,7 +115,7 @@ Note: we'll use Cognitive Load Theory to help explain several of the coming week
 
 ## Diversity -- student-mind phenomena
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 STT | [HTML](stt.html) | [player](player.html#21-STT.webm)/[webm](media/21-STT.webm) (12:33) | [mp3](media/21-STT.mp3) (from video)
 STT Mitigation | [HTML](stt2.html) | [player](player.html#22-STT2.webm)/[webm](media/22-STT2.webm) (17:16) | [mp3](media/22-STT2.mp3) (from video)
@@ -129,11 +131,11 @@ Quiz
 
 ## Diversity -- TA-mind and external phenomena
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03) | [mp3](media/31-IB.mp3) (from video)
 IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:45) | [mp3](media/32-IB2.mp3) (from video)
-Microagressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54) | [mp3](media/33-Micro.mp3) (from video)
+Microaggressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54) | [mp3](media/33-Micro.mp3) (from video)
 Spatial         | [HTML](spatial.html) | [player](player.html#34-Spatial.webm)/[webm](media/34-Spatial.webm) (9:45) | [mp3](media/34-Spatial.mp3) (from video)
 
 Assignment
@@ -148,7 +150,7 @@ Quiz
 
 ## Responding to Students 
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[webm](media/41-Overview.webm) (6:50) | [mp3](media/41-Overview.mp3) (from video)
 Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf) | [mp3](media/42-Answer.mp3) (from video)
@@ -167,7 +169,7 @@ Quiz
 
 ## Grading
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 A "B+" means... | [HTML](b+means.html) | [player](player.html#51-Means.webm)/[webm](media/51-Means.webm) (15:19) | [mp3](media/51-Means.mp3) (from video)
 Assessments | [HTML](assessment.html) | [player](player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55) | [mp3](media/52-Req.mp3) (from video)
@@ -183,7 +185,7 @@ Quiz
 ## Improving as a teacher
 
 
-Module | Writeup | Video | Audio
+Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
 Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (8:15) | [mp3](media/62-Takeaway.mp3) (from video)
@@ -191,7 +193,7 @@ Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
         a. What they did that you don't?
-        a. Why you think they chose to do that>
+        a. Why you think they chose to do that?
         a. Who was that choice helping the most?
         a. How could you apply that in your teaching?
     1. Record or reflect on your own teaching. Identify something you should do more or less of.
