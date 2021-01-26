@@ -4,7 +4,7 @@ here="$(dirname "$(readlink -m "$0")")/"
 self="$(readlink -m "$0")"
 cd "$here"
 target="$here/html/"
-remote="portal.cs.virginia.edu:/u/lat7h/public_html/2910/F2020/"
+remote="portal.cs.virginia.edu:/u/lat7h/public_html/2910/S2021/"
 
 if ls ~/.local/pandoc*/bin/pandoc
 then pd="$(ls  ~/.local/pandoc*/bin/pandoc | tail -1)"
@@ -12,18 +12,18 @@ else pd="$(which pandoc)"
 fi
 which python3 || module load python3
 
-#if false && [ -d .git ]
-#    then
-#    if [ "$#" -lt 1 ] || [ "$1" != 'test' ]
-#    then
-#        git commit -a -m 'autocommit caused by update'
-#        git pull
-#        git push
-#    elif [ "$1" = 'test' ]
-#    then
-#        shift
-#    fi
-# fi
+if [ -d .git ]
+   then
+   if [ "$#" -lt 1 ] || [ "$1" != 'test' ]
+   then
+       git commit -a -m 'autocommit caused by update'
+       git pull
+       git push
+   elif [ "$1" = 'test' ]
+   then
+       shift
+   fi
+fi
 
 if [ -n "$1" ]; then always=1; else always=; fi
 

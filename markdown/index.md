@@ -69,7 +69,8 @@ as well as several optional, ungraded enrichment modules.
 Topic | Writeup | Video | Audio
 ------ | ------- | ----- | -----
 Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [mp3](media/00-Intro.mp3) (from video)
-Realistic expectations | [HTML](expect.html) | *pending* | *pending*
+Realistic expectations | [HTML](expect.html) | [player](player.html#00-Before.webm)/[webm](media/00-Before.webm) (4:27) | [mp3](media/00-Before.mp3) (from video)
+Online TAing | [HTML](online.html) | [player](player.html#00-Online.webm)/[webm](media/00-Online.webm) (3:55) | [mp3](media/00-Online.mp3) (from video)
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
