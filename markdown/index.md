@@ -108,7 +108,7 @@ April 19, 20, and 22
 April 26, 27, and 29
 :   Extra topic selected by TA vote
 
-
+I'll also be on discord for office hours Monday, Tuesday, and Wednesday 3-4 and Friday 2:30--3:30, though I'm happy to make other arrangements if those times don't work for you.
 
 # Topics
 
