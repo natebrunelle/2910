@@ -73,6 +73,8 @@ Each week, our meetings will run in the following priority:
 Each meeting will last no more than 45 minutes.
 The module highlight schedule is as follows:
 
+<style>del { opacity: 30%; }</style>
+
 February 15, 16, and 18
 :   [Ethics of TAing]
 
