@@ -94,7 +94,7 @@ March 22, 23, and 25
 :   [Grading]
 
 March <del title="no class this day">29</del>, 30, and April 1
-:   [Improving as a TA]
+:   [Improving as a teacher]
 
 April 5, 6, and 8
 :   Extra topic selected by TA vote
