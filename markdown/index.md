@@ -58,6 +58,56 @@ Late add enrollments need the SIS ID, not one of the others.
 
 -->
 
+# Live Meetings
+
+Each week we hold three **optional** synchronous meetings:
+**Monday at 2pm**, **Tuesday at 4pm**, and **Thursday at 10am**.
+The zoom link for these is [in collab](https://collab.its.virginia.edu/portal/site/45cf3187-9c89-4ec5-a259-4f0dce511ec9/page-reset/418828c7-696e-4964-b396-85f3585f8770).
+
+Each week, our meetings will run in the following priority:
+
+1. I'll field questions about the learning material from the module highlighted for that week (see below).
+2. I'll field other questions from your TAing experience.
+3. I'll explain material and/or do activities with you.
+
+Each meeting will last no more than 45 minutes.
+The module highlight schedule is as follows:
+
+February 15, 16, and 18
+:   [Ethics of TAing]
+
+February 22, 23, and 25
+:   [Student Learning]
+
+March 1, 2, and 4
+:   [Diversity -- student-mind phenomena]
+
+March 8, <del>9</del>, and 11
+:   [Diversity -- TA-mind and external phenomena]
+
+March 15, 16, and 18
+:   [Responding to Students]
+
+March 22, 23, and 25
+:   [Grading]
+
+March <del>29</del>, 30, and April 1
+:   [Improving as a TA]
+
+April 5, 6, and 8
+:   Extra topic selected by TA vote
+
+April 12, 13, and <del>15</del>
+:   Extra topic selected by TA vote
+
+April 19, 20, and 22
+:   Extra topic selected by TA vote
+
+April 26, 27, and 29
+:   Extra topic selected by TA vote
+
+
+
 # Topics
 
 There are seven requred, graded modules, each with several topics.
@@ -74,6 +124,7 @@ Online TAing | [HTML](online.html) | [player](player.html#00-Online.webm)/[webm]
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
+
 
 
 ## Ethics of TAing
