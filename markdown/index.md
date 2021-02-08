@@ -82,7 +82,7 @@ February 22, 23, and 25
 March 1, 2, and 4
 :   [Diversity -- student-mind phenomena]
 
-March 8, <del>9</del>, and 11
+March 8, <del title="no class this day">9</del>, and 11
 :   [Diversity -- TA-mind and external phenomena]
 
 March 15, 16, and 18
@@ -91,13 +91,13 @@ March 15, 16, and 18
 March 22, 23, and 25
 :   [Grading]
 
-March <del>29</del>, 30, and April 1
+March <del title="no class this day">29</del>, 30, and April 1
 :   [Improving as a TA]
 
 April 5, 6, and 8
 :   Extra topic selected by TA vote
 
-April 12, 13, and <del>15</del>
+April 12, 13, and <del title="no class this day">15</del>
 :   Extra topic selected by TA vote
 
 April 19, 20, and 22
