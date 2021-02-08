@@ -58,7 +58,7 @@ Late add enrollments need the SIS ID, not one of the others.
 
 -->
 
-# Live Meetings
+# Synchronous Meetings
 
 Each week we hold three **optional** synchronous meetings:
 **Monday at 2pm**, **Tuesday at 4pm**, and **Thursday at 10am**.
