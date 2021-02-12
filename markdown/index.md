@@ -289,6 +289,7 @@ Your assessments in this course run as follows:
     
     These are delivered online and are retakeable.
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
+    There is no limit to the number of times you may retake each quiz.
 
 - 15% final paper
 
