@@ -61,8 +61,9 @@ Late add enrollments need the SIS ID, not one of the others.
 # Synchronous Meetings
 
 Each week we hold three **optional** synchronous meetings:
-**Monday at 2pm**, **Tuesday at 4pm**, and **Thursday at 10am**.
+**Monday at 2pm**, **Tuesday at 4pm**, <del>and **Thursday at 10am**</del>^[no one showed up to the first three weeks in this time, so I've canceled it].
 The zoom link for these is [in collab](https://collab.its.virginia.edu/portal/site/45cf3187-9c89-4ec5-a259-4f0dce511ec9/page-reset/418828c7-696e-4964-b396-85f3585f8770).
+If none of these times work for you but you'd like to meet synchronously, please contact me on discord or email suggesting times that would work.
 
 Each week, our meetings will run in the following priority:
 
