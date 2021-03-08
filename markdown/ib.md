@@ -68,7 +68,7 @@ Two primary causes can bias our subconscious processors, leading us to make unfa
 Consider how my subconscious estimates "is this student engaged?"
 
 One estimator of engagement is facial expressions.
-Engages students react quickly and correctly to what I say;
+Engaged students react quickly and correctly to what I say;
 disengaged students react less and less consistently.
 But how do I know what their expressions mean?
 I've learned by looking at a lot of faces.
