@@ -45,7 +45,7 @@ Early in the quest for a universal IQ test
 one proposal was a test consisting of depictions of shapes
 and requests to analyze various aspects of those shapes,
 such as what they'd look like rotated 90° or cut in half or unfolded.
-Further analysis revealed these tests were measuring a learned skill, not inherent intelligence^[As an aside, I have yet to see a test that does measure "inherent intelligence" and remains skeptical that such a thing even exists.];
+Further analysis revealed these tests were measuring a learned skill, not inherent intelligence^[As an aside, I have yet to see a test that does measure "inherent intelligence" and remain skeptical that such a thing even exists.];
 a skill that came to be known as "spatial reasoning".
 
 ## CS is Spatial?
