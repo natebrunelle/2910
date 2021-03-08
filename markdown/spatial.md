@@ -55,7 +55,7 @@ This is initially somewhat surprising.
 Everything computers do happens without any moving parts on a tiny piece of silicon. It's not like sculpture or mechanical engineering where spatial relationships are intrinsically important to the field.
 So why this correlation?
 
-Why's are hard to answer scientifically, but I offer as a partial explanation
+"Why"s are hard to answer scientifically, but I offer as a partial explanation
 the prevalence of spatial analogies in CS teaching and official CS vocabulary.
 For example,
 
