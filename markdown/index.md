@@ -263,22 +263,22 @@ Quiz
 
 (pick any; likely only a subset will be available this semester)
 
+- Becoming a professional teacher:
+    [K-12](player.html#Teacher-1.webm)
+    [adults](player.html#Teacher-2.webm)
+    [what professors do](player.html#Teacher-3.webm)
+- What makes a course "good"?
+- Equity vs Equality
 - Planning a lecture:
     [Part 1](player.html#Lect-1.webm)
     [Part 2](player.html#Lect-2.webm)
     [Part 3](player.html#Lect-3.webm)
     [Part 4](player.html#Lect-4.webm)
-- Becoming a professional teacher:
-    [K-12](player.html#Teacher-1.webm)
-    [adults](player.html#Teacher-2.webm)
-    [what professors do](player.html#Teacher-3.webm)
 - Cheating and evaluation design
-- What makes a course "good"?
 - Faculty teaching philosophies
 - Current trends in CS Ed research
 - Course (re)design workshop
 - Curriculum redesign workshop
-- Equity vs Equality
 - Taxonomies and hierarchies of knowledge and understanding
 
 
