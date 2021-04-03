@@ -98,16 +98,16 @@ March <del title="no class this day">29</del>, 30, and April 1
 :   [Improving as a teacher]
 
 April 5, 6, and 8
-:   Extra topic selected by TA vote
+:   [Becoming a professional teacher](#extra-topics)
 
 April 12, 13, and <del title="no class this day">15</del>
-:   Extra topic selected by TA vote
+:   [What makes a course "good"?](#extra-topics)
 
 April 19, 20, and 22
-:   Extra topic selected by TA vote
+:   [Equity vs Equality](#extra-topics)
 
 April 26, 27, and 29
-:   Extra topic selected by TA vote
+:   [Planning a Lecture](#extra-topics)
 
 I'll also be on discord for office hours Monday, Tuesday, and Wednesday 3-4 and Friday 2:30--3:30, though I'm happy to make other arrangements if those times don't work for you.
 
