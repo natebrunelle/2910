@@ -82,8 +82,8 @@ Many of those activities are either correlated with money (to afford the compone
 for example, playing with blocks and playing 1st-person video games in maze-like environments are both developers of spatial skills.
 Both suffer from both cost and cultural-appropriateness biases.
 
-Ergo, we expect to see demographical differentials in spatial reasoning coming into our classes,
-and hence demographical differentials in how easy the class is for our students.
+Ergo, we expect to see demographic differentials in spatial reasoning coming into our classes,
+and hence demographic differentials in how easy the class is for our students.
 
 ## Two ways around
 

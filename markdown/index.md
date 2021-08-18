@@ -3,42 +3,75 @@ title: TA Practicum
 ...
 
 
-# Pre-course Information
+This course is for teaching assistants in computer science courses.
+Each teaching assistant is required to take it their first semester TAing for a CS course.
+TAs in other departments may be admitted on a case-by-case basis.
+See [Your Grade] for why non-TAs cannot pass this course.
 
-+---------------+------------------------------------------------------------+
-|               |                                                            |
-+===============+============================================================+
-|Who may enroll?|Any person employed as a Teaching Assistant (TA) in CS.     |
-|               |<br/>If you TA but not in CS and your supervisor agrees,    |
-|               |you may also enroll, but email the CS 2910 instructor (CCing|
-|               |your supervisor) before doing so.                           |
-+---------------+------------------------------------------------------------+
-|How do I get   |Each instructor may chose this themselves. This course does |
-|hired as a TA? |not help you gain a TA placement.                           |
-+---------------+------------------------------------------------------------+
-|How does the   |Online asynchronous. There are videos, writueps, retakable  |
-|course run?    |quizzes, a Discord server, and a final paper. We will also  |
-|               |have *optional* synchronous meetings.                       |
-+---------------+------------------------------------------------------------+
-|Can I start    |Yes, this is encouraged. Some modules may be updated during |
-|early?         |the semester, but not in ways that invalidate those that    |
-|               |already exist.                                              |
-+---------------+------------------------------------------------------------+
-|Can I start    |Because TAs are often hired a few weeks into the semester,  |
-|late?          |we expect this to occur for some TAs. There is no grade     |
-|               |penalty for late starts.                                    |
-+---------------+------------------------------------------------------------+
-|How much time  |It is designed to take about 4 hours per week for 8 weeks,  |
-|will it take?  |for a total of 32 hours. Your time investment may vary.     |
-+---------------+------------------------------------------------------------+
+Many faculty hire their TAs during the first few weeks of class.
+Because of that, CS 2910 will not begin in earnest until the third week of the semester.
+
+I will begin granting SIS permissions around the time classes start.
+You'll need to accept those promptly or they will expire.
+If you have any difficulty, please contact me at [tychonievich@virginia.edu](mailto:tychonievich@virginia.edu?subject=CS 2910 enrollment).
 
 
-# Enrollment
+# Two ways to participate
 
-You must be a TA for a course in the CS department to pass this class (see [Your Grade] for why non-TAs will always get Fs).
-With rare exceptions, you must take it during your first semester TAing for CS.
+Each week we'll cover one topic.
+You can pick either
 
-If you have any difficulty, please contact the CS 2910 instructor at [tychonievich@virginia.edu](mailto:tychonievich@virginia.edu?subject=CS 2910 enrollment).
+- Learn the material from the videos and/or writeup and then take an online quiz, or
+- Attend a scheduled session and participate in the discussion.
+
+You are welcome to do both, but only one of the two is required.
+You may pick and choose between the two options each week.
+
+Meeting times
+:   TBD (I'll send a poll to let you pick times once I have a good list of TAs)
+
+
+Schedule:
+
+September 6--10
+:   [Orientation to this course]
+
+September 13--17
+:   [Ethics of TAing]
+
+September 20--24
+:   [Student Learning]
+
+September 27--October 1
+:   [Diversity -- student-mind phenomena]
+
+October 4--8
+:   [Diversity -- TA-mind and external phenomena]
+
+October 11--15
+:   (no sessions because of Fall reading days)
+
+October 18--22
+:   [Responding to Students]
+
+October 25--29
+:   [Grading]
+
+November 1--5
+:   [Improving as a teacher]
+
+November 8--12
+:   Topic selected by TA vote
+
+November 15--19
+:   Topic selected by TA vote
+
+November 22--28
+:   (no sessions because of Thanksgiving break)
+
+November 29--December 3
+:   Topic selected by TA vote
+
 
 <!--
 
@@ -58,59 +91,6 @@ Late add enrollments need the SIS ID, not one of the others.
 
 -->
 
-# Synchronous Meetings
-
-Each week we hold three **optional** synchronous meetings:
-**Monday at 2pm**, **Tuesday at 4pm**, <del>and **Thursday at 10am**</del>^[no one showed up to the first three weeks in this time, so I've canceled it].
-The zoom link for these is [in collab](https://collab.its.virginia.edu/portal/site/45cf3187-9c89-4ec5-a259-4f0dce511ec9/page-reset/418828c7-696e-4964-b396-85f3585f8770).
-If none of these times work for you but you'd like to meet synchronously, please contact me on discord or email suggesting times that would work.
-
-Each week, our meetings will run in the following priority:
-
-1. I'll field questions about the learning material from the module highlighted for that week (see below).
-2. I'll field other questions from your TAing experience.
-3. I'll explain material and/or do activities with you.
-
-Each meeting will last no more than 45 minutes.
-The module highlight schedule is as follows:
-
-<style>del { opacity: 30%; }</style>
-
-February 15, 16, and 18
-:   [Ethics of TAing]
-
-February 22, 23, and 25
-:   [Student Learning]
-
-March 1, 2, and 4
-:   [Diversity -- student-mind phenomena]
-
-March 8, <del title="no class this day">9</del>, and 11
-:   [Diversity -- TA-mind and external phenomena]
-
-March 15, 16, and 18
-:   [Responding to Students]
-
-March 22, 23, and 25
-:   [Grading]
-
-March <del title="no class this day">29</del>, 30, and April 1
-:   [Improving as a teacher]
-
-April 5, 6, and 8
-:   [Becoming a professional teacher](#extra-topics)
-
-April 12, 13, and <del title="no class this day">15</del>
-:   [What makes a course "good"?](#extra-topics)
-
-April 19, 20, and 22
-:   [Equity vs Equality](#extra-topics)
-
-April 26, 27, and 29
-:   [Planning a Lecture](#extra-topics)
-
-I'll also be on discord for office hours Monday, Tuesday, and Wednesday 3-4 and Friday 2:30--3:30, though I'm happy to make other arrangements if those times don't work for you.
-
 # Topics
 
 There are seven requred, graded modules, each with several topics.
@@ -118,26 +98,27 @@ Each topic is accompanied by both a writeup and a video. The intent is that both
 There is also an orientiation module to help you have a smooth start to TAing,
 as well as several optional, ungraded enrichment modules.
 
+## Orientation to this course
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47) | [mp3](media/00-Intro.mp3) (from video)
-Realistic expectations | [HTML](expect.html) | [player](player.html#00-Before.webm)/[webm](media/00-Before.webm) (4:27) | [mp3](media/00-Before.mp3) (from video)
-Online TAing | [HTML](online.html) | [player](player.html#00-Online.webm)/[webm](media/00-Online.webm) (3:55) | [mp3](media/00-Online.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47)
+Realistic expectations | [HTML](expect.html) | [player](player.html#00-Before.webm)/[webm](media/00-Before.webm) (4:27)
+Online TAing | [HTML](online.html) | [player](player.html#00-Online.webm)/[webm](media/00-Online.webm) (3:55)
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
 
-
+This week's content is not graded.
 
 ## Ethics of TAing
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-Being a TA | [HTML](taing.html) | [player](player.html#01-TAing.webm)/[webm](media/01-TAing.webm) (6:16) | [mp3](media/01-TAing.mp3) (from video)
-FERPA | [HTML](ferpa.html) | [player](player.html#02-FERPA.webm)/[webm](media/02-FERPA.webm) (2:53) | [mp3](media/02-FERPA.mp3) (from video)
-Conflicts of Interest | [HTML](coi.html) | [player](player.html#03-COI.webm)/[webm](media/03-COI.webm) (11:00) | [mp3](media/03-COI.mp3) (from video)
-Equity | [HTML](equity.html) | [player](player.html#04-Access.webm)/[webm](media/04-Access.webm) (9:01) | [mp3](media/04-Access.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+Being a TA | [HTML](taing.html) | [player](player.html#01-TAing.webm)/[webm](media/01-TAing.webm) (6:16)
+FERPA | [HTML](ferpa.html) | [player](player.html#02-FERPA.webm)/[webm](media/02-FERPA.webm) (2:53)
+Conflicts of Interest | [HTML](coi.html) | [player](player.html#03-COI.webm)/[webm](media/03-COI.webm) (11:00)
+Equity | [HTML](equity.html) | [player](player.html#04-Access.webm)/[webm](media/04-Access.webm) (9:01)
 
 Assignment
 :   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
@@ -148,13 +129,13 @@ Quiz
 
 ## Student Learning
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-CLT Intro | [HTML](clt.html) | [player](player.html#11-CLT.webm)/[webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf) | [mp3](media/11-CLT.mp3) (from video)
-CLT and TAing | [HTML](clt-ta.html) | [player](player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf) | [mp3](media/12-CLT-TA.mp3) (from video)
-Modality | [HTML](modality.html) | [player](player.html#13-Modality.webm)/[webm](media/13-Modality.webm) (2:17) | [mp3](media/13-Modality.mp3) (from video)
-Analogy | [HTML](analogy.html) | [player](player.html#14-Analogy.webm)/[webm](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf) | [mp3](media/14-Analogy.mp3) (from video)
-Socratic | [HTML](socratic.html) | [player](player.html#15-Socratic.webm)/[webm](media/15-Socratic.webm) (1:56) | [mp3](media/15-Socratic.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+CLT Intro | [HTML](clt.html) | [player](player.html#11-CLT.webm)/[webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf)
+CLT and TAing | [HTML](clt-ta.html) | [player](player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf)
+Modality | [HTML](modality.html) | [player](player.html#13-Modality.webm)/[webm](media/13-Modality.webm) (2:17)
+Analogy | [HTML](analogy.html) | [player](player.html#14-Analogy.webm)/[webm](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf)
+Socratic | [HTML](socratic.html) | [player](player.html#15-Socratic.webm)/[webm](media/15-Socratic.webm) (1:56)
 
 Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
@@ -170,11 +151,11 @@ Note: we'll use Cognitive Load Theory to help explain several of the coming week
 
 ## Diversity -- student-mind phenomena
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-STT | [HTML](stt.html) | [player](player.html#21-STT.webm)/[webm](media/21-STT.webm) (12:33) | [mp3](media/21-STT.mp3) (from video)
-STT Mitigation | [HTML](stt2.html) | [player](player.html#22-STT2.webm)/[webm](media/22-STT2.webm) (17:16) | [mp3](media/22-STT2.mp3) (from video)
-Mindset | [HTML](mindset.html) | [player](player.html#23-Mindset.webm)/[webm](media/23-Mindest.webm) (13:07) | [mp3](media/23-Mindset.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+STT | [HTML](stt.html) | [player](player.html#21-STT.webm)/[webm](media/21-STT.webm) (12:33)
+STT Mitigation | [HTML](stt2.html) | [player](player.html#22-STT2.webm)/[webm](media/22-STT2.webm) (17:16)
+Mindset | [HTML](mindset.html) | [player](player.html#23-Mindset.webm)/[webm](media/23-Mindest.webm) (13:07)
 
 Assignment
 :   1. Once this week, teach using an example with people you never name or identify by pronoun
@@ -186,12 +167,12 @@ Quiz
 
 ## Diversity -- TA-mind and external phenomena
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03) | [mp3](media/31-IB.mp3) (from video)
-IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:45) | [mp3](media/32-IB2.mp3) (from video)
-Microaggressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54) | [mp3](media/33-Micro.mp3) (from video)
-Spatial         | [HTML](spatial.html) | [player](player.html#34-Spatial.webm)/[webm](media/34-Spatial.webm) (9:45) | [mp3](media/34-Spatial.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03)
+IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:45)
+Microaggressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54)
+Spatial         | [HTML](spatial.html) | [player](player.html#34-Spatial.webm)/[webm](media/34-Spatial.webm) (9:45)
 
 Assignment
 :   1. Take an implicit bias test, such as one from <https://implicit.harvard.edu/implicit/takeatest.html>
@@ -205,13 +186,13 @@ Quiz
 
 ## Responding to Students 
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[webm](media/41-Overview.webm) (6:50) | [mp3](media/41-Overview.mp3) (from video)
-Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf) | [mp3](media/42-Answer.mp3) (from video)
-Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48)<br/>[notes.txt](media/43-Misc.txt) | [mp3](media/43-Misc.mp3) (from video)
-Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm](media/44-Hard.webm) (5:59)<br/>[notes.txt](media/44-Hard.txt) | [mp3](media/44-Hard.mp3) (from video)
-Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12)<br/>[notes.txt](media/45-Dunno.txt) | [mp3](media/45-Dunno.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[webm](media/41-Overview.webm) (6:50)
+Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf)
+Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48)<br/>[notes.txt](media/43-Misc.txt)
+Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm](media/44-Hard.webm) (5:59)<br/>[notes.txt](media/44-Hard.txt)
+Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12)<br/>[notes.txt](media/45-Dunno.txt)
 
 Assignment
 :   1. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated). Did it work better than when you tried it in week 2?
@@ -224,11 +205,11 @@ Quiz
 
 ## Grading
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-A "B+" means... | [HTML](b+means.html) | [player](player.html#51-Means.webm)/[webm](media/51-Means.webm) (15:19) | [mp3](media/51-Means.mp3) (from video)
-Assessments | [HTML](assessment.html) | [player](player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55) | [mp3](media/52-Req.mp3) (from video)
-Practicalities | [HTML](grading.html) | [player](player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09) | [mp3](media/53-Practice.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+A "B+" means... | [HTML](b+means.html) | [player](player.html#51-Means.webm)/[webm](media/51-Means.webm) (15:19)
+Assessments | [HTML](assessment.html) | [player](player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
+Practicalities | [HTML](grading.html) | [player](player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
 
 Assignment
 :   None this week!
@@ -240,10 +221,10 @@ Quiz
 ## Improving as a teacher
 
 
-Topic | Writeup | Video | Audio
------- | ------- | ----- | -----
-View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31) | [mp3](media/61-VRF.mp3) (from video)
-Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (8:15) | [mp3](media/62-Takeaway.mp3) (from video)
+Topic | Writeup | Video
+------ | ------- | -----
+View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31)
+Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (8:15)
 
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
@@ -286,9 +267,11 @@ Quiz
 
 Your assessments in this course run as follows:
 
-- 35% module quizzes; 5% for each of the 7 required modules
+- 35% modules; 5% for each of the 7 required modules
     
-    These are delivered online and are retakeable.
+    You can pass a module either by (a) participating in a live session or (b) taking a quiz.
+    
+    Quizzes are delivered online and are retakeable.
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
     There is no limit to the number of times you may retake each quiz.
 
