@@ -141,13 +141,12 @@ Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
     2. Once this week, after interacting with a student, summarize to them the main points you discussed.
     3. Pick an upcoming topic you know students will struggle with. Come up with, or collect from other TAs, two ways to explain that topic, one visual and one not.
-    4. Come up with an analogy for a topic in your course. Share it on this course's Discord's `#analogies` channel. See Collab for the Discord join link.
     5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
 Quiz
 :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
-Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it on Discord.
+Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it.
 
 ## Diversity -- student-mind phenomena
 
@@ -199,7 +198,6 @@ Assignment
 :   1. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated). Did it work better than when you tried it in week 2?
     1. Once this week, get a student to act on something not directly part of their assignment: to draw, to write, to explain, to try something out, etc.
     1. Pick one of the situations discussed this week that comes up the most often in your class, and try out one of the suggestions from this week's material that you don't usually use. Did it work?
-    1. If you could add one situation or one tip to this week, what would it be? Post the situation or tip in the `#how-do-i-handle-this` or the `#tips-to-share` channels on Discord.
 
 Quiz
 :   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
