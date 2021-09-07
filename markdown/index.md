@@ -190,6 +190,7 @@ Topic | Writeup | Video
 ------ | ------- | -----
 Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[webm](media/41-Overview.webm) (6:50)
 Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf)
+Debugging | [HTML](iulc.html) | [player](player.html#Debug.webm)/[webm](media/Debug.webm) (9:03)<br/>[notes.txt](media/Debug.txt)
 Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48)<br/>[notes.txt](media/43-Misc.txt)
 Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm](media/44-Hard.webm) (5:59)<br/>[notes.txt](media/44-Hard.txt)
 Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12)<br/>[notes.txt](media/45-Dunno.txt)
