@@ -28,8 +28,14 @@ You are welcome to do both, but only one of the two is required.
 You may pick and choose between the two options each week.
 
 Meeting times
-:   TBD (I'll send a poll to let you pick times once I have a good list of TAs)
+:   Mondays, 17:15–18:00, MEC 339
+    
+    Tuesdays, 14:15–15:00, Rice 011
 
+    Fridays, 13:00–13:15, MEC 213
+    
+    Each meeting in a given week will cover the same material.
+    Attending more than one in a single week is not encouraged.
 
 Schedule:
 
@@ -102,7 +108,7 @@ as well as several optional, ungraded enrichment modules.
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Welcome | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47)
+Welcome for async takers | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47)
 Realistic expectations | [HTML](expect.html) | [player](player.html#00-Before.webm)/[webm](media/00-Before.webm) (4:27)
 Online TAing | [HTML](online.html) | [player](player.html#00-Online.webm)/[webm](media/00-Online.webm) (3:55)
 
