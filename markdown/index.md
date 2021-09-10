@@ -32,7 +32,7 @@ Meeting times
     
     Tuesdays, 14:15–15:00, Rice 011
 
-    Fridays, 13:00–13:15, MEC 213
+    Fridays, 13:00–13:45, MEC 213
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is not encouraged.
