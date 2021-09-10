@@ -41,6 +41,8 @@ Schedule:
 
 September 6--10
 :   [Orientation to this course]
+    
+    No in-person meetings this week.
 
 September 13--17
 :   [Ethics of TAing]
