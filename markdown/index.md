@@ -37,6 +37,11 @@ Meeting times
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is not encouraged.
 
+Office Hours
+:   Fridays, 14:00–16:00, Rice 208
+    
+    Other times [by appointment](mailto:tychonievich@virginia.edu?subject=CS 2910 office hour request)
+
 Schedule:
 
 September 6--10
