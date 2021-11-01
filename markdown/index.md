@@ -74,7 +74,7 @@ November 1--5
 :   [Improving as a teacher]
 
 November 8--12
-:   Topic selected by TA vote
+:   (no sessions because of Professor's travel)
 
 November 15--19
 :   Topic selected by TA vote
