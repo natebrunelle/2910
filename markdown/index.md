@@ -32,7 +32,7 @@ Meeting times
     
     Tuesdays, 14:15–15:00, Rice 011
 
-    Fridays, 13:00–13:45, MEC 213
+    Fridays, 13:00–13:45, <del>MEC 213</del><ins>MEC 214</ins>
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is not encouraged.
@@ -77,7 +77,7 @@ November 8--12
 :   (no sessions because of instructor's travel)
 
 November 15--19
-:   Topic selected by TA vote
+:   What makes a course <q>good</q>?
 
 November 22--28
 :   (no sessions because of Thanksgiving break)
