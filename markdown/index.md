@@ -83,7 +83,14 @@ November 22--28
 :   (no sessions because of Thanksgiving break)
 
 November 29--December 3
-:   Topic selected by TA vote
+:   Monday
+    :   Planning a Lecture
+    
+    Tuesday
+    :   Current trends in CS Ed Research
+    
+    Friday
+    :   Taxonomies nad hierarchies of knowledge and understanding
 
 
 <!--
