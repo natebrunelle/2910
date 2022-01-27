@@ -13,7 +13,7 @@ Because of that, CS 2910 will not begin in earnest until the third week of the s
 
 I will begin granting SIS permissions around the time classes start.
 You'll need to accept those promptly or they will expire.
-If you have any difficulty, please contact me at [tychonievich@virginia.edu](mailto:tychonievich@virginia.edu?subject=CS 2910 enrollment).
+If you have any difficulty, please contact me at [njb2b@virginia.edu](mailto:njb2b@virginia.edu?subject=CS 2910 enrollment).
 
 
 # Two ways to participate
@@ -21,76 +21,67 @@ If you have any difficulty, please contact me at [tychonievich@virginia.edu](mai
 Each week we'll cover one topic.
 You can pick either
 
-- Learn the material from the videos and/or writeup and then take an online quiz, or
-- Attend a scheduled session and participate in the discussion.
+- Attend a scheduled session and participate in the discussion, or
+- Learn the material from the videos and/or writeup and then take an online quiz
+
 
 You are welcome to do both, but only one of the two is required.
 You may pick and choose between the two options each week.
+Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
 
 Meeting times
-:   Mondays, 17:15–18:00, MEC 339
-    
-    Tuesdays, 14:15–15:00, Rice 011
-
-    Fridays, 13:00–13:45, <del>MEC 213</del><ins>MEC 214</ins>
+:   TBD
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is not encouraged.
 
 Office Hours
-:   Fridays, 14:00–16:00, Rice 208
+:   TBD
     
-    Other times [by appointment](mailto:tychonievich@virginia.edu?subject=CS 2910 office hour request)
+    Other times [by appointment](mailto:njb2b@virginia.edu?subject=CS 2910 office hour request)
 
 Schedule:
 
-September 6--10
+January 24--27
 :   [Orientation to this course]
     
     No in-person meetings this week.
 
-September 13--17
+January 31--February 4
 :   [Ethics of TAing]
 
-September 20--24
+February 14--18
 :   [Student Learning]
 
-September 27--October 1
+February 21--25
 :   [Diversity -- student-mind phenomena]
 
-October 4--8
+February 28-- March 4
+:   (no sessions because of Instructor Travel)
+
+March 7--11
+:   (no sessions because of Spring Break)
+
+March 14--18
 :   [Diversity -- TA-mind and external phenomena]
 
-October 11--15
-:   (no sessions because of Fall reading days)
-
-October 18--22
+March 21--25
 :   [Responding to Students]
 
-October 25--29
+March 28--April 1
 :   [Grading]
 
-November 1--5
+April 4--8
 :   [Improving as a teacher]
 
-November 8--12
-:   (no sessions because of instructor's travel)
-
-November 15--19
+April 11--15
 :   What makes a course <q>good</q>?
 
-November 22--28
-:   (no sessions because of Thanksgiving break)
+April 18--22
+:   Special Topics
 
-November 29--December 3
-:   Monday
-    :   Planning a Lecture
-    
-    Tuesday
-    :   Current trends in CS Ed Research
-    
-    Friday
-    :   Taxonomies nad hierarchies of knowledge and understanding
+April 25--29
+:   Special Topics
 
 
 <!--
@@ -312,7 +303,7 @@ Your assessments in this course run as follows:
     
     Grading of this paper is looking for thought and attention, not "correctness".
     
-    There's no particular length limit; I've given full credit to both ½-page and 15-page papers in the past. Say what you have to say, and then stop.
+    There's no particular length limit; both ½-page and 15-page papers could earn full credit. Say what you have to say, and then stop.
 
 - 50% your supervisor's response to "on a scale from A to F, how effective was this TA?"
 
