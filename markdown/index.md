@@ -27,10 +27,13 @@ You can pick either
 
 You are welcome to do both, but only one of the two is required.
 You may pick and choose between the two options each week.
-Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
+Past students have generally had a much more positive experience in the course iwhen attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
 
 Meeting times
-:   TBD
+:   Wednesdays 2pm-2:50pm in MEC 213
+:   Thursdays 5pm-5:50pm in MEC 213
+:   Fridays 1pm-1:50pm in MEC 213
+:   Fridays 4pm-4:50pm in MEC 213
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is not encouraged.
