@@ -116,9 +116,9 @@ as well as several optional, ungraded enrichment modules.
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Welcome for async takers | *this page* | [player](player.html#00-Intro.webm)/[webm](media/00-Intro.webm) (2:47)
-Realistic expectations | [HTML](expect.html) | [player](player.html#00-Before.webm)/[webm](media/00-Before.webm) (4:27)
-Online TAing | [HTML](online.html) | [player](player.html#00-Online.webm)/[webm](media/00-Online.webm) (3:55)
+Welcome for async takers | *this page* | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Intro.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/00-Intro.webm) (2:47)
+Realistic expectations | [HTML](expect.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Before.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/00-Before.webm) (4:27)
+Online TAing | [HTML](online.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Online.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/00-Online.webm) (3:55)
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
@@ -129,10 +129,10 @@ This week's content is not graded.
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Being a TA | [HTML](taing.html) | [player](player.html#01-TAing.webm)/[webm](media/01-TAing.webm) (6:16)
-FERPA | [HTML](ferpa.html) | [player](player.html#02-FERPA.webm)/[webm](media/02-FERPA.webm) (2:53)
-Conflicts of Interest | [HTML](coi.html) | [player](player.html#03-COI.webm)/[webm](media/03-COI.webm) (11:00)
-Equity | [HTML](equity.html) | [player](player.html#04-Access.webm)/[webm](media/04-Access.webm) (9:01)
+Being a TA | [HTML](taing.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#01-TAing.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/01-TAing.webm) (6:16)
+FERPA | [HTML](ferpa.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#02-FERPA.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/02-FERPA.webm) (2:53)
+Conflicts of Interest | [HTML](coi.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#03-COI.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/03-COI.webm) (11:00)
+Equity | [HTML](equity.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#04-Access.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/04-Access.webm) (9:01)
 
 Assignment
 :   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
