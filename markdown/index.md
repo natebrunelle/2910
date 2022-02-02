@@ -145,11 +145,11 @@ Quiz
 
 Topic | Writeup | Video
 ------ | ------- | -----
-CLT Intro | [HTML](clt.html) | [player](player.html#11-CLT.webm)/[webm](media/11-CLT.webm) (13:17)<br/>[drawing.pdf](media/11-CLT.pdf)
-CLT and TAing | [HTML](clt-ta.html) | [player](player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](media/12-CLT-TA.pdf)
-Modality | [HTML](modality.html) | [player](player.html#13-Modality.webm)/[webm](media/13-Modality.webm) (2:17)
-Analogy | [HTML](analogy.html) | [player](player.html#14-Analogy.webm)/[webm](media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](media/14-Analogy.pdf)
-Socratic | [HTML](socratic.html) | [player](player.html#15-Socratic.webm)/[webm](media/15-Socratic.webm) (1:56)
+CLT Intro | [HTML](clt.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#11-CLT.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/11-CLT.webm) (13:17)<br/>[drawing.pdf](https://cs.virginia.edu/luther/2910/F2021/media/11-CLT.pdf)
+CLT and TAing | [HTML](clt-ta.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](https://cs.virginia.edu/luther/2910/F2021/media/12-CLT-TA.pdf)
+Modality | [HTML](modality.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#13-Modality.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/13-Modality.webm) (2:17)
+Analogy | [HTML](analogy.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#14-Analogy.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](https://cs.virginia.edu/luther/2910/F2021/media/14-Analogy.pdf)
+Socratic | [HTML](socratic.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#15-Socratic.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/15-Socratic.webm) (1:56)
 
 Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
@@ -166,9 +166,9 @@ Note: we'll use Cognitive Load Theory to help explain several of the coming week
 
 Topic | Writeup | Video
 ------ | ------- | -----
-STT | [HTML](stt.html) | [player](player.html#21-STT.webm)/[webm](media/21-STT.webm) (12:33)
-STT Mitigation | [HTML](stt2.html) | [player](player.html#22-STT2.webm)/[webm](media/22-STT2.webm) (17:16)
-Mindset | [HTML](mindset.html) | [player](player.html#23-Mindset.webm)/[webm](media/23-Mindest.webm) (13:07)
+STT | [HTML](stt.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#21-STT.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/21-STT.webm) (12:33)
+STT Mitigation | [HTML](stt2.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#22-STT2.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/22-STT2.webm) (17:16)
+Mindset | [HTML](mindset.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#23-Mindset.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/23-Mindest.webm) (13:07)
 
 Assignment
 :   1. Once this week, teach using an example with people you never name or identify by pronoun
@@ -182,10 +182,10 @@ Quiz
 
 Topic | Writeup | Video
 ------ | ------- | -----
-IB              | [HTML](ib.html) | [player](player.html#31-IB.webm)/[webm](media/31-IB.webm) (12:03)
-IB Mitigation   | [HTML](ib2.html) | [player](player.html#32-IB2.webm)/[webm](media/32-IB2.webm) (7:45)
-Microaggressions | [HTML](micro.html) | [player](player.html#33-Micro.webm)/[webm](media/33-Micro.webm) (4:54)
-Spatial         | [HTML](spatial.html) | [player](player.html#34-Spatial.webm)/[webm](media/34-Spatial.webm) (9:45)
+IB              | [HTML](ib.html) | [player](phttps://cs.virginia.edu/luther/2910/F2021/layer.html#31-IB.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/31-IB.webm) (12:03)
+IB Mitigation   | [HTML](ib2.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#32-IB2.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/32-IB2.webm) (7:45)
+Microaggressions | [HTML](micro.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#33-Micro.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/33-Micro.webm) (4:54)
+Spatial         | [HTML](spatial.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#34-Spatial.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/34-Spatial.webm) (9:45)
 
 Assignment
 :   1. Take an implicit bias test, such as one from <https://implicit.harvard.edu/implicit/takeatest.html>
@@ -201,12 +201,12 @@ Quiz
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Overview       | [HTML](respond.html) | [player](player.html#41-Overview.webm)/[webm](media/41-Overview.webm) (6:50)
-Answer-seekers | [HTML](answers.html) | [player](player.html#42-Answer.webm)/[webm](media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf)
-Debugging | [HTML](iulc.html) | [player](player.html#Debug.webm)/[webm](media/Debug.webm) (9:03)<br/>[notes.txt](media/Debug.txt)
-Miscellaneous  | [HTML](whatif.html)  | [player](player.html#43-Misc.webm)/[webm](media/43-Misc.webm) (4:48)<br/>[notes.txt](media/43-Misc.txt)
-Trouble        | [HTML](trouble.html) | [player](player.html#44-Hard.webm)/[webm](media/44-Hard.webm) (5:59)<br/>[notes.txt](media/44-Hard.txt)
-Don't Know     | [HTML](dunno.html) | [player](player.html#45-Dunno.webm)/[webm](media/45-Dunno.webm) (5:12)<br/>[notes.txt](media/45-Dunno.txt)
+Overview       | [HTML](respond.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#41-Overview.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/41-Overview.webm) (6:50)
+Answer-seekers | [HTML](answers.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#42-Answer.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf)
+Debugging | [HTML](iulc.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#Debug.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/Debug.webm) (9:03)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/Debug.txt)
+Miscellaneous  | [HTML](whatif.html)  | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#43-Misc.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/43-Misc.webm) (4:48)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/43-Misc.txt)
+Trouble        | [HTML](trouble.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#44-Hard.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/44-Hard.webm) (5:59)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/44-Hard.txt)
+Don't Know     | [HTML](dunno.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#45-Dunno.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/45-Dunno.webm) (5:12)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/45-Dunno.txt)
 
 Assignment
 :   1. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated). Did it work better than when you tried it in week 2?
@@ -220,9 +220,9 @@ Quiz
 
 Topic | Writeup | Video
 ------ | ------- | -----
-A "B+" means... | [HTML](b+means.html) | [player](player.html#51-Means.webm)/[webm](media/51-Means.webm) (15:19)
-Assessments | [HTML](assessment.html) | [player](player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
-Practicalities | [HTML](grading.html) | [player](player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
+A "B+" means... | [HTML](b+means.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#51-Means.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/51-Means.webm) (15:19)
+Assessments | [HTML](assessment.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
+Practicalities | [HTML](grading.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
 
 Assignment
 :   None this week!
@@ -236,8 +236,8 @@ Quiz
 
 Topic | Writeup | Video
 ------ | ------- | -----
-View, Review, Feedback | [HTML](vrf.html) | [player](player.html#61-VRF.webm)/[webm](media/61-VRF.webm) (9:31)
-Course of a Lifetime | [HTML](takeaways.html) | [player](player.html#62-Takeaway.webm)/[webm](media/62-Takeaway.webm) (8:15)
+View, Review, Feedback | [HTML](vrf.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#61-VRF.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/61-VRF.webm) (9:31)
+Course of a Lifetime | [HTML](takeaways.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#62-Takeaway.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/62-Takeaway.webm) (8:15)
 
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
