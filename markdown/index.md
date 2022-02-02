@@ -116,9 +116,9 @@ as well as several optional, ungraded enrichment modules.
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Welcome for async takers | *this page* | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Intro.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/00-Intro.webm) (2:47)
-Realistic expectations | [HTML](expect.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Before.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/00-Before.webm) (4:27)
-Online TAing | [HTML](online.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Online.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/00-Online.webm) (3:55)
+Welcome for async takers | *this page* | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#00-Intro.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/00-Intro.webm) (2:47)
+Realistic expectations | [HTML](expect.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#00-Before.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/00-Before.webm) (4:27)
+Online TAing | [HTML](online.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#00-Online.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/00-Online.webm) (3:55)
 
 Assignment
 :   Schedule regular weekly times to participate in this class.
@@ -129,27 +129,27 @@ This week's content is not graded.
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Being a TA | [HTML](taing.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#01-TAing.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/01-TAing.webm) (6:16)
-FERPA | [HTML](ferpa.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#02-FERPA.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/02-FERPA.webm) (2:53)
-Conflicts of Interest | [HTML](coi.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#03-COI.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/03-COI.webm) (11:00)
-Equity | [HTML](equity.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#04-Access.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/04-Access.webm) (9:01)
+Being a TA | [HTML](taing.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#01-TAing.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/01-TAing.webm) (6:16)
+FERPA | [HTML](ferpa.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#02-FERPA.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/02-FERPA.webm) (2:53)
+Conflicts of Interest | [HTML](coi.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#03-COI.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/03-COI.webm) (11:00)
+Equity | [HTML](equity.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#04-Access.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/04-Access.webm) (9:01)
 
 Assignment
-:   review the [advice from previous TAs](https://kytos.cs.virginia.edu/cs2910/),
-    including [ranking](https://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
+:   review the [advice from previous TAs](http://kytos.cs.virginia.edu/cs2910/),
+    including [ranking](http://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
 
 Quiz
-:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Student Learning
 
 Topic | Writeup | Video
 ------ | ------- | -----
-CLT Intro | [HTML](clt.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#11-CLT.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/11-CLT.webm) (13:17)<br/>[drawing.pdf](https://cs.virginia.edu/luther/2910/F2021/media/11-CLT.pdf)
-CLT and TAing | [HTML](clt-ta.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](https://cs.virginia.edu/luther/2910/F2021/media/12-CLT-TA.pdf)
-Modality | [HTML](modality.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#13-Modality.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/13-Modality.webm) (2:17)
-Analogy | [HTML](analogy.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#14-Analogy.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](https://cs.virginia.edu/luther/2910/F2021/media/14-Analogy.pdf)
-Socratic | [HTML](socratic.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#15-Socratic.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/15-Socratic.webm) (1:56)
+CLT Intro | [HTML](clt.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#11-CLT.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/11-CLT.webm) (13:17)<br/>[drawing.pdf](http://cs.virginia.edu/luther/2910/F2021/media/11-CLT.pdf)
+CLT and TAing | [HTML](clt-ta.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#12-CLT-TA.webm)/[webm](media/12-CLT-TA.webm) (16:07)<br/>[drawing.pdf](http://cs.virginia.edu/luther/2910/F2021/media/12-CLT-TA.pdf)
+Modality | [HTML](modality.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#13-Modality.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/13-Modality.webm) (2:17)
+Analogy | [HTML](analogy.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#14-Analogy.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/14-Analogy.webm) (3:48)<br/>[drawing.pdf](http://cs.virginia.edu/luther/2910/F2021/media/14-Analogy.pdf)
+Socratic | [HTML](socratic.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#15-Socratic.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/15-Socratic.webm) (1:56)
 
 Assignment
 :   1. Once this week, verify you know what a student is asking *twice* before answering.
@@ -158,7 +158,7 @@ Assignment
     5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
 Quiz
-:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it.
 
@@ -166,9 +166,9 @@ Note: we'll use Cognitive Load Theory to help explain several of the coming week
 
 Topic | Writeup | Video
 ------ | ------- | -----
-STT | [HTML](stt.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#21-STT.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/21-STT.webm) (12:33)
-STT Mitigation | [HTML](stt2.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#22-STT2.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/22-STT2.webm) (17:16)
-Mindset | [HTML](mindset.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#23-Mindset.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/23-Mindest.webm) (13:07)
+STT | [HTML](stt.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#21-STT.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/21-STT.webm) (12:33)
+STT Mitigation | [HTML](stt2.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#22-STT2.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/22-STT2.webm) (17:16)
+Mindset | [HTML](mindset.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#23-Mindset.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/23-Mindest.webm) (13:07)
 
 Assignment
 :   1. Once this week, teach using an example with people you never name or identify by pronoun
@@ -176,37 +176,37 @@ Assignment
     1. Once this week, give a growth-mindset compliment to a student
 
 Quiz
-:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdoo1dkbWKkV2nBr3CLHg91ST9xrSWJR9bnoPi3geXjW9WfeQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSdoo1dkbWKkV2nBr3CLHg91ST9xrSWJR9bnoPi3geXjW9WfeQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Diversity -- TA-mind and external phenomena
 
 Topic | Writeup | Video
 ------ | ------- | -----
-IB              | [HTML](ib.html) | [player](phttps://cs.virginia.edu/luther/2910/F2021/layer.html#31-IB.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/31-IB.webm) (12:03)
-IB Mitigation   | [HTML](ib2.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#32-IB2.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/32-IB2.webm) (7:45)
-Microaggressions | [HTML](micro.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#33-Micro.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/33-Micro.webm) (4:54)
-Spatial         | [HTML](spatial.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#34-Spatial.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/34-Spatial.webm) (9:45)
+IB              | [HTML](ib.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#31-IB.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/31-IB.webm) (12:03)
+IB Mitigation   | [HTML](ib2.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#32-IB2.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/32-IB2.webm) (7:45)
+Microaggressions | [HTML](micro.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#33-Micro.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/33-Micro.webm) (4:54)
+Spatial         | [HTML](spatial.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#34-Spatial.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/34-Spatial.webm) (9:45)
 
 Assignment
-:   1. Take an implicit bias test, such as one from <https://implicit.harvard.edu/implicit/takeatest.html>
+:   1. Take an implicit bias test, such as one from <http://implicit.harvard.edu/implicit/takeatest.html>
     1. Ask a friend from a different culture than you if you use any words or phrases they find annoying or offensive.
     1. Pick an upcoming topic in your class and figure out how to take the spatial analogy out of the students' head.
         This may be tricky if you are not physically present, but can a picture do it? Can you open a bunch of windows and use them as props?
 
 Quiz
-:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSeBSZDRmtrum2CS5xGKcISfFjVtXjq7IozHWlzvIggLkJOsxw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSeBSZDRmtrum2CS5xGKcISfFjVtXjq7IozHWlzvIggLkJOsxw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
 ## Responding to Students 
 
 Topic | Writeup | Video
 ------ | ------- | -----
-Overview       | [HTML](respond.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#41-Overview.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/41-Overview.webm) (6:50)
-Answer-seekers | [HTML](answers.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#42-Answer.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf)
-Debugging | [HTML](iulc.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#Debug.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/Debug.webm) (9:03)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/Debug.txt)
-Miscellaneous  | [HTML](whatif.html)  | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#43-Misc.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/43-Misc.webm) (4:48)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/43-Misc.txt)
-Trouble        | [HTML](trouble.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#44-Hard.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/44-Hard.webm) (5:59)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/44-Hard.txt)
-Don't Know     | [HTML](dunno.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#45-Dunno.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/45-Dunno.webm) (5:12)<br/>[notes.txt](https://cs.virginia.edu/luther/2910/F2021/media/45-Dunno.txt)
+Overview       | [HTML](respond.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#41-Overview.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/41-Overview.webm) (6:50)
+Answer-seekers | [HTML](answers.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#42-Answer.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/42-Answer.webm) (11:34)<br/>[notes.pdf](media/42-Answer.pdf)
+Debugging | [HTML](iulc.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#Debug.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/Debug.webm) (9:03)<br/>[notes.txt](http://cs.virginia.edu/luther/2910/F2021/media/Debug.txt)
+Miscellaneous  | [HTML](whatif.html)  | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#43-Misc.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/43-Misc.webm) (4:48)<br/>[notes.txt](http://cs.virginia.edu/luther/2910/F2021/media/43-Misc.txt)
+Trouble        | [HTML](trouble.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#44-Hard.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/44-Hard.webm) (5:59)<br/>[notes.txt](http://cs.virginia.edu/luther/2910/F2021/media/44-Hard.txt)
+Don't Know     | [HTML](dunno.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#45-Dunno.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/45-Dunno.webm) (5:12)<br/>[notes.txt](http://cs.virginia.edu/luther/2910/F2021/media/45-Dunno.txt)
 
 Assignment
 :   1. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated). Did it work better than when you tried it in week 2?
@@ -214,21 +214,21 @@ Assignment
     1. Pick one of the situations discussed this week that comes up the most often in your class, and try out one of the suggestions from this week's material that you don't usually use. Did it work?
 
 Quiz
-:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Grading
 
 Topic | Writeup | Video
 ------ | ------- | -----
-A "B+" means... | [HTML](b+means.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#51-Means.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/51-Means.webm) (15:19)
-Assessments | [HTML](assessment.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
-Practicalities | [HTML](grading.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
+A "B+" means... | [HTML](b+means.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#51-Means.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/51-Means.webm) (15:19)
+Assessments | [HTML](assessment.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
+Practicalities | [HTML](grading.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
 
 Assignment
 :   None this week!
 
 Quiz
-:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
 ## Improving as a teacher
@@ -236,8 +236,8 @@ Quiz
 
 Topic | Writeup | Video
 ------ | ------- | -----
-View, Review, Feedback | [HTML](vrf.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#61-VRF.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/61-VRF.webm) (9:31)
-Course of a Lifetime | [HTML](takeaways.html) | [player](https://cs.virginia.edu/luther/2910/F2021/player.html#62-Takeaway.webm)/[webm](https://cs.virginia.edu/luther/2910/F2021/media/62-Takeaway.webm) (8:15)
+View, Review, Feedback | [HTML](vrf.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#61-VRF.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/61-VRF.webm) (9:31)
+Course of a Lifetime | [HTML](takeaways.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#62-Takeaway.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/62-Takeaway.webm) (8:15)
 
 Assignment
 :   1. Observe someone else teaching. Write down your thoughts on
@@ -250,7 +250,7 @@ Assignment
     1. Reflect on what you'll take from TAing into whatever you do next. Write down a personal goal related to this.
 
 Quiz
-:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSe5TWuLtxbAd-bmDU7D_DoVnT4sC-ENcpLxDkDBWKQ3TEgBYg/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSe5TWuLtxbAd-bmDU7D_DoVnT4sC-ENcpLxDkDBWKQ3TEgBYg/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
 ## Extra topics
