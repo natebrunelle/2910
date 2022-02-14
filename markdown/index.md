@@ -53,11 +53,14 @@ January 24--27
 January 31--February 4
 :   [Ethics of TAing]
 
-February 14--18
+February 7--11
 :   [Student Learning]
 
-February 21--25
+February 14--18
 :   [Diversity -- student-mind phenomena]
+
+February 21--25
+:   [Diversity -- TA-mind and external phenomena]
 
 February 28-- March 4
 :   (no sessions because of Instructor Travel)
@@ -66,19 +69,19 @@ March 7--11
 :   (no sessions because of Spring Break)
 
 March 14--18
-:   [Diversity -- TA-mind and external phenomena]
-
-March 21--25
 :   [Responding to Students]
 
-March 28--April 1
+March 21--25
 :   [Grading]
 
-April 4--8
+March 28--April 1
 :   [Improving as a teacher]
 
-April 11--15
+April 4--8
 :   What makes a course <q>good</q>?
+
+April 11--15
+:   Special Topics
 
 April 18--22
 :   Special Topics
