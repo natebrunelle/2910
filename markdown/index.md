@@ -50,9 +50,11 @@ You will gain the most by attending these discussion session in-person. I unders
 
 September 19--23
 :   <span style="color:orange">**Looking Forward To Seeing Most Of You This Week!**</span>
-:   [Orientation to this course] ; [What You Hope To Gain Survey](https://forms.gle/wpWNtdU8XX14JRPD7) 
+:   [Orientation to this course] | [What You Hope To Gain Survey](https://forms.gle/wpWNtdU8XX14JRPD7) <span style="color:green">**(Required Topic)**</span>
     
-    Please do attend in-person this week (if your schedule permits)! Introduction, open-ended questions, what you hope to gain from this course
+    Please do attend in-person this week (if your schedule permits)! 
+    
+    Introduction, open-ended questions, what you hope to gain from this course
 
 September 26--30
 :   [Ethics of TAing] <span style="color:green">**(Required Topic)**</span>
