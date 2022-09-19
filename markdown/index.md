@@ -43,7 +43,7 @@ Meeting times
 
     However, you are most welcome to schedule an appointment with me if you wish to talk about the content of the course. Please [email me](mailto:basit@virginia.edu?subject=CS 2910 office hour request) with some days and times you are available so we can schedule an appointment to meet (either in person or on Zoom.) 
 
-Schedule:
+**Schedule:**
 
 September 19--23
 :   [Orientation to this course]
@@ -109,6 +109,7 @@ Late add enrollments need the SIS ID, not one of the others.
 :::
 
 -->
+
 
 # Topics
 
