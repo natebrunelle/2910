@@ -11,9 +11,8 @@ See [Your Grade] for why non-TAs cannot pass this course.
 Many faculty hire their TAs during the first few weeks of class.
 Because of that, CS 2910 will not begin in earnest until a few weeks into the semester.
 
-I will begin granting SIS permissions around the time classes start.
-You'll need to accept those promptly or they will expire.
-If you have any difficulty, please contact me at [njb2b@virginia.edu](mailto:njb2b@virginia.edu?subject=CS 2910 enrollment).
+You all have been granted SIS permissions to enroll in this course. I look forward to working with you this semester!
+If you have any questions or concerns about the course, please contact me at [basit@virginia.edu](mailto:basit@virginia.edu?subject=CS 2910 Question/Concern).
 
 
 # Two ways to participate
@@ -27,7 +26,7 @@ You can pick either
 
 You are welcome to do both, but only one of the two is required.
 You may pick and choose between the two options each week.
-Past students have generally had a much more positive experience in the course iwhen attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
+Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
 
 Meeting times
 :   Mondays 10:00-10:50am in RICE 032
@@ -40,9 +39,9 @@ Meeting times
     Attending more than one in a single week is not encouraged.
 
 Office Hours
-:   TBD
+:   There are no official office hours for this course
     
-    Other times [by appointment](mailto:njb2b@virginia.edu?subject=CS 2910 office hour request)
+    However, you are most welcome to schedule an appointment with me if you wish to talk about the content of the course. Please [email me](mailto:basit@virginia.edu?subject=CS 2910 office hour request) with some days and times you are available so we can schedule an appointment to meet (either in person or on Zoom.) 
 
 Schedule:
 
@@ -128,6 +127,8 @@ Assignment
 :   Schedule regular weekly times to participate in this class.
 
 This week's content is not graded.
+
+<!--
 
 ## Ethics of TAing
 
@@ -279,6 +280,7 @@ Quiz
 - Curriculum redesign workshop
 - Taxonomies and hierarchies of knowledge and understanding
 
+-->
 
 # Your Grade
 
@@ -286,10 +288,16 @@ Your assessments in this course run as follows:
 
 - 35% modules; 5% for each of the 7 required modules
     
-    You can pass a module either by (a) participating in a live session or (b) taking a quiz.
+    You can pass a module either by (a) participating in a live session or (b) taking a quiz. 
+    
+    **Expectation** I understand some percentage of the class might not be able to attend any of the scheduled times for the course, but the majority of you can. For those who can attend at least one of the scheduled times, attend in-person a minimum of 5 times, and take the quiz a maximum of 2 times.
+    
+    If you attend synchronously all 7 times (for the required modules), I'll waive the final essay provided that you contribute!
+    
+    If you attend all of the Guest Speakers, you will be given a bonus added onto your final course score!
     
     Quizzes are delivered online and are retakeable.
-    They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
+    They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that. (Note: the quiz location may change. You will be alerted via an announcement if this is the case.)
     There is no limit to the number of times you may retake each quiz.
 
 - 15% final paper
@@ -305,8 +313,7 @@ Your assessments in this course run as follows:
     To upload your paper for grading
     
     a. Export your paper as a PDF document (PDF only, please)
-    a. Visit Collab → File Drop
-    a. To the right of your name you should see a drop-down button which may be labeled "⏷" or "Actions ⏷"; click that and pick "Upload Files"
+    a. Visit Collab → Submit to Assignments
     
     Grading of this paper is looking for thought and attention, not "correctness".
     
@@ -314,4 +321,8 @@ Your assessments in this course run as follows:
 
 - 50% your supervisor's response to "on a scale from A to F, how effective was this TA?"
 
-You can see a summary of your grade so far at <https://kytos.cs.virginia.edu/cs2910/grade.php>
+You can see a summary of your grade so far at **LINK COMING SOON**
+
+<!-- 
+<https://kytos.cs.virginia.edu/cs2910/grade.php>
+-->
