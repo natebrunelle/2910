@@ -29,11 +29,11 @@ You may pick and choose between the two options each week.
 Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
 
 Meeting times
-- Mondays 10:00-10:50am in RICE 032
-- Wednesdays 2:30-3:20pm in OLS 001
-- Wednesdays 3:30-4:20pm in RICE 032
-- Fridays 2:30-3:20pm in RICE 032
-- Fridays 4:00pm-4:50pm in RICE 032
+:   Mondays 10:00-10:50am in RICE 032
+:   Wednesdays 2:30-3:20pm in OLS 001
+:   Wednesdays 3:30-4:20pm in RICE 032
+:   Fridays 2:30-3:20pm in RICE 032
+:   Fridays 4:00pm-4:50pm in RICE 032
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is **not** encouraged.
