@@ -36,59 +36,61 @@ Meeting times
 :   Fridays 4:00pm-4:50pm in RICE 032
     
     Each meeting in a given week will cover the same material.
-    Attending more than one in a single week is not encouraged.
+    Attending more than one in a single week is **not** encouraged.
 
 Office Hours
 :   There are no official office hours for this course
-    
+
     However, you are most welcome to schedule an appointment with me if you wish to talk about the content of the course. Please [email me](mailto:basit@virginia.edu?subject=CS 2910 office hour request) with some days and times you are available so we can schedule an appointment to meet (either in person or on Zoom.) 
 
 Schedule:
 
-January 24--27
+September 19--23
 :   [Orientation to this course]
     
-    No in-person meetings this week.
+    Introduction, open-ended questions, what you hope to gain from this course
 
-January 31--February 4
+September 26--30
 :   [Ethics of TAing]
 
-February 7--11
+3) October 3--7
 :   [Student Learning]
 
+4) October 10--14
+:   [Diversity]
+<!--
 February 14--18
 :   [Diversity -- student-mind phenomena]
 
 February 21--25
 :   [Diversity -- TA-mind and external phenomena]
+-->
 
-February 28-- March 4
-:   (no sessions because of Instructor Travel)
-
-March 7--11
-:   (no sessions because of Spring Break)
-
-March 14--18
-:   [Responding to Students]
-
-March 21--25
+5) October 10--14
 :   [Grading]
 
+6) October 24--38
+:   [Responding to Students]
+
+7) October 31--November 4
+:   Advanced Learning, Group OH, other scenarios
+
+8) November 7--1
+:   Guest Speaker
+
+9) November 14--18
+:   Guest Speaker
+
+10) November 21--25
+:   **Thanksgiving Break**, No classes
+
+11) November 28--December 2
+:   No classes, Final Essay due by the end of the week
+
+<!--
 March 28--April 1
 :   [Improving as a teacher]
-
-April 4--8
-:   What makes a course <q>good</q>?
-
-April 11--15
-:   Special Topics
-
-April 18--22
-:   Special Topics
-
-April 25--29
-:   Special Topics
-
+-->
 
 <!--
 
@@ -127,6 +129,8 @@ Assignment
 :   Schedule regular weekly times to participate in this class.
 
 This week's content is not graded.
+
+**Topic Details Coming Soon...!**
 
 <!--
 
@@ -292,9 +296,9 @@ Your assessments in this course run as follows:
     
     **Expectation** I understand some percentage of the class might not be able to attend any of the scheduled times for the course, but the majority of you can. For those who can attend at least one of the scheduled times, attend in-person a minimum of 5 times, and take the quiz a maximum of 2 times.
     
-    If you attend synchronously all 7 times (for the required modules), I'll waive the final essay provided that you contribute!
+    - If you attend synchronously all 7 times (for the required modules), I'll waive the final essay provided that you contribute!
     
-    If you attend all of the Guest Speakers, you will be given a bonus added onto your final course score!
+    - If you attend all of the Guest Speakers, you will be given a bonus added onto your final course score!
     
     Quizzes are delivered online and are retakeable.
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that. (Note: the quiz location may change. You will be alerted via an announcement if this is the case.)
