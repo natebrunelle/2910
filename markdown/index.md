@@ -3,6 +3,8 @@ title: CS Education Practicum a.k.a. TA Practicum (Fall 2022)
 ...
 
 
+Welcome to CS 2910 - CS Education Practicum!
+
 This course is for teaching assistants in computer science courses.
 Each teaching assistant is required to take it their first semester TAing for a CS course.
 TAs in other departments may be admitted on a case-by-case basis.
