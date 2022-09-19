@@ -58,6 +58,7 @@ October 3--7
 
 October 10--14
 :   [Diversity]
+
 <!--
 February 14--18
 :   [Diversity -- student-mind phenomena]
