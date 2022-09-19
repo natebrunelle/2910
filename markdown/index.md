@@ -89,7 +89,10 @@ November 21--25
 :   **Thanksgiving Break**, No classes
 
 November 28--December 2
-:   No classes, Final Essay due by the end of the week
+:   Lessons learned from the course, what you gained, reflect on what you said during Orientation <span style="color:green">**(Required Topic)**</span>
+
+December 5--9
+:   No classes, Last day of the semester is Dec. 6. <span style="color:red">Final Essay due by the end of the week</span>
 
 <!--
 March 28--April 1
