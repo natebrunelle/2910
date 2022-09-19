@@ -45,10 +45,13 @@ Meeting times
 
 **Schedule:**
 
+You will gain the most by attending these discussion session in-person. I understand, of course, that the meeting times provided above might not suit everybody's schedules.
+
+
 September 19--23
 :   [Orientation to this course]
     
-    Introduction, open-ended questions, what you hope to gain from this course
+    Please do attend in-person this week (if your schedule permits)! Introduction, open-ended questions, what you hope to gain from this course
 
 September 26--30
 :   [Ethics of TAing]
