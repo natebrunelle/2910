@@ -38,7 +38,7 @@ Meeting times
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is **not** encouraged.
 
-Office Hours
+**Office Hours**
 :   There are no official office hours for this course
 
     However, you are most welcome to schedule an appointment with me if you wish to talk about the content of the course. Please [email me](mailto:basit@virginia.edu?subject=CS 2910 office hour request) with some days and times you are available so we can schedule an appointment to meet (either in person or on Zoom.) 
@@ -53,10 +53,10 @@ September 19--23
 September 26--30
 :   [Ethics of TAing]
 
-3) October 3--7
+October 3--7
 :   [Student Learning]
 
-4) October 10--14
+October 10--14
 :   [Diversity]
 <!--
 February 14--18
@@ -66,25 +66,25 @@ February 21--25
 :   [Diversity -- TA-mind and external phenomena]
 -->
 
-5) October 10--14
+October 10--14
 :   [Grading]
 
-6) October 24--38
+October 24--38
 :   [Responding to Students]
 
-7) October 31--November 4
+October 31--November 4
 :   Advanced Learning, Group OH, other scenarios
 
-8) November 7--1
+November 7--1
 :   Guest Speaker
 
-9) November 14--18
+November 14--18
 :   Guest Speaker
 
-10) November 21--25
+November 21--25
 :   **Thanksgiving Break**, No classes
 
-11) November 28--December 2
+November 28--December 2
 :   No classes, Final Essay due by the end of the week
 
 <!--
