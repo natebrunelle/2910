@@ -80,7 +80,7 @@ October 24--38
 October 31--November 4
 :   Advanced Learning, Group OH, other scenarios
 
-November 7--1
+November 7--11
 :   Guest Speaker
 
 November 14--18
