@@ -1,5 +1,5 @@
 ---
-title: TA Practicum Test 1
+title: CS Education Practicum a.k.a. TA Practicum (Fall 2022)
 ...
 
 
@@ -9,7 +9,7 @@ TAs in other departments may be admitted on a case-by-case basis.
 See [Your Grade] for why non-TAs cannot pass this course.
 
 Many faculty hire their TAs during the first few weeks of class.
-Because of that, CS 2910 will not begin in earnest until the third week of the semester.
+Because of that, CS 2910 will not begin in earnest until a few weeks into the semester.
 
 I will begin granting SIS permissions around the time classes start.
 You'll need to accept those promptly or they will expire.
@@ -30,10 +30,11 @@ You may pick and choose between the two options each week.
 Past students have generally had a much more positive experience in the course iwhen attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
 
 Meeting times
-:   Wednesdays 2pm-2:50pm in MEC 213
-:   Thursdays 5pm-5:50pm in MEC 213
-:   Fridays 1pm-1:50pm in MEC 213
-:   Fridays 4pm-4:50pm in MEC 213
+:   Mondays 10:00-10:50am in RICE 032
+:   Wednesdays 2:30-3:20pm in OLS 001
+:   Wednesdays 3:30-4:20pm in RICE 032
+:   Fridays 2:30-3:20pm in RICE 032
+:   Fridays 4:00pm-4:50pm in RICE 032
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is not encouraged.
