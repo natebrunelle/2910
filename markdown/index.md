@@ -119,7 +119,7 @@ Each topic is usually accompanied by both a writeup and a video. The intent is t
 There is also an orientiation module to help you have a smooth start to TAing,
 as well as several optional, ungraded enrichment modules.
 
-Note that the videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
+**Note that the videos:** These videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
 
 ## Orientation to this course
 
@@ -133,6 +133,9 @@ Assignment
 :   Schedule regular weekly times to participate in this class.
 
 This week's content is not graded.
+
+In recent years TAing online was quite prevalent. Therefore, a topic on "Online TAing" is provided for you. In the event you are asked to TA online, in this semester or a future semester, I hope you find this material useful.
+
 
 **More Topics Will Show Up Here As The Semester Progresses...!**
 
