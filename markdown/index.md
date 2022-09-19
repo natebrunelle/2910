@@ -29,11 +29,11 @@ You may pick and choose between the two options each week.
 Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
 
 Meeting times
-:   Mondays 10:00-10:50am in RICE 032
-:   Wednesdays 2:30-3:20pm in OLS 001
-:   Wednesdays 3:30-4:20pm in RICE 032
-:   Fridays 2:30-3:20pm in RICE 032
-:   Fridays 4:00pm-4:50pm in RICE 032
+- Mondays 10:00-10:50am in RICE 032
+- Wednesdays 2:30-3:20pm in OLS 001
+- Wednesdays 3:30-4:20pm in RICE 032
+- Fridays 2:30-3:20pm in RICE 032
+- Fridays 4:00pm-4:50pm in RICE 032
     
     Each meeting in a given week will cover the same material.
     Attending more than one in a single week is **not** encouraged.
@@ -114,9 +114,11 @@ Late add enrollments need the SIS ID, not one of the others.
 # Topics
 
 There are seven requred, graded modules, each with several topics.
-Each topic is accompanied by both a writeup and a video. The intent is that both video and writuep cover the same material so that you may choose either to learn the material.
+Each topic is usually accompanied by both a writeup and a video. The intent is that both video and writuep cover the same material so that you may choose either to learn the material.
 There is also an orientiation module to help you have a smooth start to TAing,
 as well as several optional, ungraded enrichment modules.
+
+Note that the videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
 
 ## Orientation to this course
 
@@ -131,7 +133,7 @@ Assignment
 
 This week's content is not graded.
 
-**Topic Details Coming Soon...!**
+**More Topics Will Show Up Here As The Semester Progresses...!**
 
 <!--
 
