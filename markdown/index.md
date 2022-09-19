@@ -49,15 +49,15 @@ You will gain the most by attending these discussion session in-person. I unders
 
 
 September 19--23
-:   [Orientation to this course]
+:   [Orientation to this course] <span style="color:orange">**Looking Forward To Seeing Most Of You This Week!**</span>
     
     Please do attend in-person this week (if your schedule permits)! Introduction, open-ended questions, what you hope to gain from this course
 
 September 26--30
-:   [Ethics of TAing]
+:   [Ethics of TAing] <span style="color:green">**(Required Topic)**</span>
 
 October 3--7
-:   [Student Learning]
+:   [Student Learning] <span style="color:green">**(Required Topic)**</span>
 
 October 10--14
 :   [Diversity]
