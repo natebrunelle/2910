@@ -49,7 +49,8 @@ You will gain the most by attending these discussion session in-person. I unders
 
 
 September 19--23
-:   [Orientation to this course] <span style="color:orange">**Looking Forward To Seeing Most Of You This Week!**</span>
+    <span style="color:orange">**Looking Forward To Seeing Most Of You This Week!**</span>
+:   [Orientation to this course] ; [What You Hope To Gain Survey](https://forms.gle/wpWNtdU8XX14JRPD7) 
     
     Please do attend in-person this week (if your schedule permits)! Introduction, open-ended questions, what you hope to gain from this course
 
@@ -60,7 +61,7 @@ October 3--7
 :   [Student Learning] <span style="color:green">**(Required Topic)**</span>
 
 October 10--14
-:   [Diversity]
+:   [Diversity] <span style="color:green">**(Required Topic)**</span>
 
 <!--
 February 14--18
@@ -71,10 +72,10 @@ February 21--25
 -->
 
 October 10--14
-:   [Grading]
+:   [Grading] <span style="color:green">**(Required Topic)**</span>
 
 October 24--38
-:   [Responding to Students]
+:   [Responding to Students] <span style="color:green">**(Required Topic)**</span>
 
 October 31--November 4
 :   Advanced Learning, Group OH, other scenarios
