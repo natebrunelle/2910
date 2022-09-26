@@ -171,6 +171,7 @@ Quiz / Asynchronous participation
 :   Google Quiz -- (link coming soon!) log in with your @virginia.edu account. You can re-take it as often as you wish.
 <!--
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+-->
 
 <!--
 
