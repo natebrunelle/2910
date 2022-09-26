@@ -163,7 +163,7 @@ Assignment
 :   review the [advice from previous TAs](http://kytos.cs.virginia.edu/cs2910/),
     including [ranking](http://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
 
-Quiz
+Quiz (link coming soon)
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 <!--
@@ -304,7 +304,7 @@ Quiz
 
 -->
 
-**More Topics Will Show Up Here As The Semester Progresses...!**
+<span style="color:magenta">**More Topics Will Show Up Here As The Semester Progresses...!**</span>
 
 # Your Grade
 
