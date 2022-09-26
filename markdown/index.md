@@ -168,7 +168,8 @@ Assignment
     including [ranking](http://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
 
 Quiz / Asynchronous participation 
-:   Google Quiz -- (link coming soon!) log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   Google Quiz -- link coming soon!
+    log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 <!--
 
