@@ -61,6 +61,10 @@ September 19--23
 September 26--30
 :   [Ethics of TAing] <span style="color:green">**(Required Topic)**</span>
 
+    Being a TA, FERPA, Conflicts of Interest, and Equity. 
+    
+    Assignment: Review advice from previous TAs and rank some (see below for links/details). 
+
 October 3--7
 :   [Student Learning] <span style="color:green">**(Required Topic)**</span>
 
@@ -163,7 +167,9 @@ Assignment
 :   review the [advice from previous TAs](http://kytos.cs.virginia.edu/cs2910/),
     including [ranking](http://kytos.cs.virginia.edu/cs2910/?vote) at least 25 pieces of advice.
 
-Quiz (link coming soon)
+Quiz / Asynchronous participation 
+:   Google Quiz -- (link coming soon!) log in with your @virginia.edu account. You can re-take it as often as you wish.
+<!--
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 <!--
@@ -184,7 +190,7 @@ Assignment
     3. Pick an upcoming topic you know students will struggle with. Come up with, or collect from other TAs, two ways to explain that topic, one visual and one not.
     5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
-Quiz
+Quiz / Asynchronous participation
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it.
@@ -202,7 +208,7 @@ Assignment
     1. Once this week, get to know a student's name and a bit about them as an individual
     1. Once this week, give a growth-mindset compliment to a student
 
-Quiz
+Quiz / Asynchronous participation
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSdoo1dkbWKkV2nBr3CLHg91ST9xrSWJR9bnoPi3geXjW9WfeQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Diversity -- TA-mind and external phenomena
@@ -220,7 +226,7 @@ Assignment
     1. Pick an upcoming topic in your class and figure out how to take the spatial analogy out of the students' head.
         This may be tricky if you are not physically present, but can a picture do it? Can you open a bunch of windows and use them as props?
 
-Quiz
+Quiz / Asynchronous participation
 :   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSeBSZDRmtrum2CS5xGKcISfFjVtXjq7IozHWlzvIggLkJOsxw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
@@ -240,7 +246,7 @@ Assignment
     1. Once this week, get a student to act on something not directly part of their assignment: to draw, to write, to explain, to try something out, etc.
     1. Pick one of the situations discussed this week that comes up the most often in your class, and try out one of the suggestions from this week's material that you don't usually use. Did it work?
 
-Quiz
+Quiz / Asynchronous participation
 :   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 ## Grading
@@ -254,7 +260,7 @@ Practicalities | [HTML](grading.html) | [player](http://cs.virginia.edu/luther/2
 Assignment
 :   None this week!
 
-Quiz
+Quiz / Asynchronous participation
 :   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
@@ -276,7 +282,7 @@ Assignment
     1. Ask someone who has seen you teach for feedback on what you could improve. This might mean inviting them to see you teach first, perhaps even in a role-play situation where they pretend to be a student.
     1. Reflect on what you'll take from TAing into whatever you do next. Write down a personal goal related to this.
 
-Quiz
+Quiz / Asynchronous participation
 :   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSe5TWuLtxbAd-bmDU7D_DoVnT4sC-ENcpLxDkDBWKQ3TEgBYg/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
