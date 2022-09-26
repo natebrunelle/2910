@@ -79,7 +79,7 @@ February 21--25
 :   [Diversity -- TA-mind and external phenomena]
 -->
 
-October 10--14
+October 17--21
 :   [Grading] <span style="color:green">**(Required Topic)**</span>
 
 October 24--38
@@ -173,7 +173,7 @@ Quiz / Asynchronous participation
 
 <!--
 
-:   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+[Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
 ## Student Learning
