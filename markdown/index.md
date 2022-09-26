@@ -148,9 +148,7 @@ This week's content is not graded.
 In recent years TAing online was quite prevalent. Therefore, a topic on "Online TAing" is provided for you. In the event you are asked to TA online, in this semester or a future semester, I hope you find this material useful.
 
 
-**More Topics Will Show Up Here As The Semester Progresses...!**
 
-<!--
 
 ## Ethics of TAing
 
@@ -167,6 +165,8 @@ Assignment
 
 Quiz
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
+<!--
 
 ## Student Learning
 
@@ -303,6 +303,8 @@ Quiz
 - Taxonomies and hierarchies of knowledge and understanding
 
 -->
+
+**More Topics Will Show Up Here As The Semester Progresses...!**
 
 # Your Grade
 
