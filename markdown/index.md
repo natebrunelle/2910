@@ -45,7 +45,7 @@ Meeting times
 
     However, you are most welcome to schedule an appointment with me if you wish to talk about the content of the course. Please [email me](mailto:basit@virginia.edu?subject=CS 2910 office hour request) with some days and times you are available so we can schedule an appointment to meet (either in person or on Zoom.) 
 
-<span style="color:blue">**Schedule:**</span>.
+# <span style="color:blue">**Schedule:**</span>.
 
 You will gain the most by attending these discussion session in-person. I understand, of course, that the meeting times provided above might not suit everybody's schedules.
 
