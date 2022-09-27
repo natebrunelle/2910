@@ -3,6 +3,7 @@ title: CS Education Practicum a.k.a. TA Practicum (Fall 2022)
 ...
 
 
+# Welcome!
 Welcome to CS 2910 - CS Education Practicum!
 
 This course is for teaching assistants in computer science courses.
@@ -17,10 +18,12 @@ You all have been granted SIS permissions to enroll in this course. I look forwa
 If you have any questions or concerns about the course, please contact me at [basit@virginia.edu](mailto:basit@virginia.edu?subject=CS 2910 Question/Concern).
 
 
-# Two ways to participate
+# Participation
+
+## Two Ways To Participate
 
 Each week we'll cover one topic.
-You can pick either
+You can pick either:
 
 - Attend a scheduled session and participate in the discussion, or
 - Learn the material from the videos and/or writeup and then take an online quiz
@@ -29,6 +32,8 @@ You can pick either
 You are welcome to do both, but only one of the two is required.
 You may pick and choose between the two options each week.
 Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
+
+## Meeting Times & Office Hours
 
 Meeting times
 :   Mondays 10:00-10:50am in RICE 032
@@ -44,6 +49,17 @@ Meeting times
 :   There are no official office hours for this course
 
     However, you are most welcome to schedule an appointment with me if you wish to talk about the content of the course. Please [email me](mailto:basit@virginia.edu?subject=CS 2910 office hour request) with some days and times you are available so we can schedule an appointment to meet (either in person or on Zoom.) 
+
+## Expectations: In-Person vs. Fully Asynchronous
+
+**In-Person Expectations**
+
+Text
+
+**Fully Asynchronous Expectations**
+
+Text
+
 
 # <span style="color:navy">**Schedule:**</span>
 
