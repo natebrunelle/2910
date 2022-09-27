@@ -157,7 +157,7 @@ Each topic is usually accompanied by both a writeup and a video. The intent is t
 There is also an orientiation module to help you have a smooth start to TAing,
 as well as several optional, ungraded enrichment modules.
 
-<span style="color:red">**Note that the videos:**</span> These videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
+<span style="color:red">**Note about the videos:**</span> These videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
 
 ## Orientation to this course
 
