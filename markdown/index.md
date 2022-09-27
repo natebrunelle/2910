@@ -61,9 +61,9 @@ For those students whose schedules **cannot** accommodate ANY of the meetings ti
 **Fully Asynchronous Expectations**
 
 :   For those of you who are unable to attend ANY meeting times due to conflicts in your schedule, we ask that you participate **asynchronously** on a weekly basis. Each week we will cover an important topic, and expect that you will participate by:    
-    (i) reading the available writeups and watching the available videos in the Topics section (section 4), 
-    (ii) carrying out the assignment for that module, and 
-    (iii) taking the **module quiz**
+:   (i) reading the available writeups and watching the available videos in the Topics section (section 4), 
+:   (ii) carrying out the assignment for that module, and 
+:   (iii) taking the **module quiz**
     
     Quizzes are delivered online and are retakeable. They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
 
