@@ -54,13 +54,13 @@ For those students whose schedules **cannot** accommodate ANY of the meetings ti
 
 **In-Person Expectations**
 
-    As mentioned, past students generally have a much more positive experience in the course when attending live discussions. Engaging with the material helps you learn the content, and you have the opportunity to discuss with your TA-peers as well as ask any me any questions that you have. Therefore, I highly recommend that you select this option for the rest of the semester. As long as you attend in-person, you do not have to take the quiz. However, you are encouraged (although not required) to read the module writeups and watch the module videos.
+:   As mentioned, past students generally have a much more positive experience in the course when attending live discussions. Engaging with the material helps you learn the content, and you have the opportunity to discuss with your TA-peers as well as ask any me any questions that you have. Therefore, I highly recommend that you select this option for the rest of the semester. As long as you attend in-person, you do not have to take the quiz. However, you are encouraged (although not required) to read the module writeups and watch the module videos.
     
     While I hope you all will do your best to attend **in-person each week** I understand that things come up (e.g., you may have some travel constraints, illnesses, or one-off scheduling conflicts). In these circumstances please participate asynchronously for that week by following the three (3) steps for asynchronous participation. Please see the "Fully Asynchronous Expectations" section below for details.  
 
 **Fully Asynchronous Expectations**
 
-    For those of you who are unable to attend ANY meeting times due to conflicts in your schedule, we ask that you participate **asynchronously** on a weekly basis. Each week we will cover an important topic, and expect that you will participate by:    
+:   For those of you who are unable to attend ANY meeting times due to conflicts in your schedule, we ask that you participate **asynchronously** on a weekly basis. Each week we will cover an important topic, and expect that you will participate by:    
     (i) reading the available writeups and watching the available videos in the Topics section (section 4), 
     (ii) carrying out the assignment for that module, and 
     (iii) taking the **module quiz**
