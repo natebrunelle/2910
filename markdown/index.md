@@ -20,7 +20,7 @@ If you have any questions or concerns about the course, please contact me at [ba
 
 # Participation
 
-## Two Ways To Participate
+**Two Ways To Participate:**
 
 Each week we'll cover one topic.
 You can pick either:
@@ -32,8 +32,6 @@ You can pick either:
 You are welcome to do both, but only one of the two is required.
 You may pick and choose between the two options each week.
 Past students have generally had a much more positive experience in the course when attending live discussions, so I highly recommend that you select that option. The asynchronous option is intended mostly for students with travel constraints, illnesses, or scheduling challenges.
-
-## Meeting Times & Office Hours
 
 Meeting times
 :   Mondays 10:00-10:50am in RICE 032
@@ -52,13 +50,22 @@ Meeting times
 
 ## Expectations: In-Person vs. Fully Asynchronous
 
+For those students whose schedules **cannot** accommodate ANY of the meetings times this semester (see Section 2) - ***don't worry!*** You have the ability to fully participate **asynchronously**. Please see the "Fully Asynchronous Expectations" section below for details.  For all other students, we expect that you will participate **in-person throughout the semester**. Please see the "In-Person Expectations" section below for details. 
+
 **In-Person Expectations**
 
-Text
+    As mentioned, past students generally have a much more positive experience in the course when attending live discussions. Engaging with the material helps you learn the content, and you have the opportunity to discuss with your TA-peers as well as ask any me any questions that you have. Therefore, I highly recommend that you select this option for the rest of the semester. As long as you attend in-person, you do not have to take the quiz. However, you are encouraged (although not required) to read the module writeups and watch the module videos.
+    
+    While I hope you all will do your best to attend **in-person each week** I understand that things come up (e.g., you may have some travel constraints, illnesses, or one-off scheduling conflicts). In these circumstances please participate asynchronously for that week by following the three (3) steps for asynchronous participation. Please see the "Fully Asynchronous Expectations" section below for details.  
 
 **Fully Asynchronous Expectations**
 
-Text
+    For those of you who are unable to attend ANY meeting times due to conflicts in your schedule, we ask that you participate **asynchronously** on a weekly basis. Each week we will cover an important topic, and expect that you will participate by:    
+    (i) reading the available writeups and watching the available videos in the Topics section (section 4), 
+    (ii) carrying out the assignment for that module, and 
+    (iii) taking the **module quiz**
+    
+    Quizzes are delivered online and are retakeable. They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that.
 
 
 # <span style="color:navy">**Schedule:**</span>
@@ -150,7 +157,7 @@ Each topic is usually accompanied by both a writeup and a video. The intent is t
 There is also an orientiation module to help you have a smooth start to TAing,
 as well as several optional, ungraded enrichment modules.
 
-**Note that the videos:** These videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
+<span style="color:red">**Note that the videos:**</span> These videos are from a past semester and there might be some differences between how this course is taught this semester and how the course was taught that semester. All pertinent details are available here on this website. If in doubt about anything, please ask your instructor! 
 
 ## Orientation to this course
 
@@ -332,7 +339,9 @@ Your assessments in this course run as follows:
 
 - 35% modules; 5% for each of the 7 required modules
     
-    You can pass a module either by (a) participating in a live session or (b) taking a quiz. 
+    You can pass a module either by (a) participating in a live session or (b) reading the writeups, watching the videos, and taking a quiz. (See "Expectations: In-Person vs. Fully Asynchronous" for more details.)
+    
+    <span style="color:green">Note: ***everybody*** will be marked as passing the "Orientation" (September 19-23) required module!</span>
     
     **Expectation** I understand some percentage of the class might not be able to attend any of the scheduled times for the course, but the majority of you can. For those who can attend at least one of the scheduled times, attend in-person a minimum of 5 times, and take the quiz a maximum of 2 times.
     
@@ -341,7 +350,7 @@ Your assessments in this course run as follows:
     - If you attend all of the Guest Speakers, you will be given a bonus added onto your final course score!
     
     Quizzes are delivered online and are retakeable.
-    They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that. (Note: the quiz location may change. You will be alerted via an announcement if this is the case.)
+    They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that. (Note: if the quiz location changes, you will be alerted via an announcement.)
     There is no limit to the number of times you may retake each quiz.
 
 - 15% final paper
