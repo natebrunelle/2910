@@ -91,6 +91,10 @@ September 26--30
 October 3--7
 :   [Student Learning] <span style="color:green">**(Required Topic)**</span>
 
+    Cognitive Load Theory and various other aspects of Student Learning
+    
+    Assignment: There are several activities you should try. Please see [Student Learning] below.
+
 October 10--14
 :   [Diversity] <span style="color:green">**(Required Topic)**</span>
 
@@ -193,8 +197,6 @@ Assignment
 Quiz / Asynchronous participation 
 :   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfAqYcoh-rwFxmR0wcboSX1N2nKM8UzJRVsvu-bLRAXieyAbQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
-<!--
-
 ## Student Learning
 
 Topic | Writeup | Video
@@ -215,6 +217,8 @@ Quiz / Asynchronous participation
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it.
+
+<!--
 
 ## Diversity -- student-mind phenomena
 
