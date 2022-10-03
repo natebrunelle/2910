@@ -213,10 +213,10 @@ Assignment
     3. Pick an upcoming topic you know students will struggle with. Come up with, or collect from other TAs, two ways to explain that topic, one visual and one not.
     5. Once this week, try helping a student by only asking questions. See how long you can go (but stop before the student gets frustrated).
 
-Quiz / Asynchronous participation
-:   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+Quiz / Asynchronous participation 
+:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeYJoZ75qEIAGGaRF3zIGL4fJsb0LX9nvzSWTUlPSE5X87TYQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
-Note: we'll use Cognitive Load Theory to help explain several of the coming weeks' topics, so if it's not clear please ask me about it.
+Note: we'll use *Cognitive Load Theory* to help explain several of the coming weeks' topics, so if it's not clear please ask me about it. 
 
 <!--
 
