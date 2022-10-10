@@ -231,8 +231,8 @@ Assignment
     1. Once this week, get to know a student's name and a bit about them as an individual
     1. Once this week, give a growth-mindset compliment to a student
 
-Quiz / Asynchronous participation
-:   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSdoo1dkbWKkV2nBr3CLHg91ST9xrSWJR9bnoPi3geXjW9WfeQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+Quiz / Asynchronous participation 
+:   [Google Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdoo1dkbWKkV2nBr3CLHg91ST9xrSWJR9bnoPi3geXjW9WfeQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 <!--
 
