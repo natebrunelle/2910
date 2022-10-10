@@ -345,7 +345,7 @@ Quiz / Asynchronous participation
 
 Your assessments in this course run as follows:
 
-- 35% modules; 5% for each of the 7 required modules
+- <span style="color:blue">35% modules</span>; 5% for each of the 7 required modules
     
     You can pass a module either by (a) participating in a live session or (b) reading the writeups, watching the videos, and taking a quiz. (See "Expectations: In-Person vs. Fully Asynchronous" for more details.)
     
@@ -361,7 +361,7 @@ Your assessments in this course run as follows:
     They are administered by Google, which is a bit harsh when it comes to multiple-select (you get points only for a perfect answer), but hopefully the repeatability will help with that. (Note: if the quiz location changes, you will be alerted via an announcement.)
     There is no limit to the number of times you may retake each quiz.
 
-- 15% final paper
+- <span style="color:blue">15% final paper</span>
 
     The end of term paper will be due the last day of classes and should address **one** of the following topics:
         
@@ -380,7 +380,7 @@ Your assessments in this course run as follows:
     
     There's no particular length limit; both ½-page and 15-page papers could earn full credit. Say what you have to say, and then stop. Submit this by the last day of classes (Tuesday May 3).
 
-- 50% your supervisor's response to "on a scale from A to F, how effective was this TA?"
+- <span style="color:blue">50% your supervisor's response</span> to "on a scale from A to F, how effective was this TA?"
 
 <!-- 
 You can see a summary of your grade so far at **LINK COMING SOON**
