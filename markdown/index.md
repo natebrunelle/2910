@@ -218,8 +218,6 @@ Quiz / Asynchronous participation
 
 Note: we'll use *Cognitive Load Theory* to help explain several of the coming weeks' topics, so if it's not clear please ask me about it. 
 
-<!--
-
 ## Diversity -- student-mind phenomena
 
 Topic | Writeup | Video
@@ -235,6 +233,8 @@ Assignment
 
 Quiz / Asynchronous participation
 :   [Google Quiz](http://docs.google.com/forms/d/e/1FAIpQLSdoo1dkbWKkV2nBr3CLHg91ST9xrSWJR9bnoPi3geXjW9WfeQ/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
+<!--
 
 ## Diversity -- TA-mind and external phenomena
 
@@ -378,8 +378,8 @@ Your assessments in this course run as follows:
 
 - 50% your supervisor's response to "on a scale from A to F, how effective was this TA?"
 
+<!-- 
 You can see a summary of your grade so far at **LINK COMING SOON**
 
-<!-- 
 <https://kytos.cs.virginia.edu/cs2910/grade.php>
 -->
