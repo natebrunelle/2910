@@ -96,7 +96,11 @@ October 3--7
     Assignment: There are several activities you should try. Please see [Student Learning] below.
 
 October 10--14
-:   [Diversity] <span style="color:green">**(Required Topic)**</span>
+:   [Diversity -- student-mind phenomena] <span style="color:green">**(Required Topic)**</span>
+
+    Stereotype Threat, Stereotype Threat Mitigation, and Mindset
+    
+    Assignment: There are several activities you should try. Please see [Diversity -- student-mind phenomena] below. 
 
 <!--
 February 14--18
