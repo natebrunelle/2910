@@ -258,6 +258,26 @@ Assignment
 Quiz / Asynchronous participation
 :   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSeBSZDRmtrum2CS5xGKcISfFjVtXjq7IozHWlzvIggLkJOsxw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
+-->
+
+
+
+## Grading
+
+Topic | Writeup | Video
+------ | ------- | -----
+A "B+" means... | [HTML](b+means.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#51-Means.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/51-Means.webm) (15:19)
+Assessments | [HTML](assessment.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
+Practicalities | [HTML](grading.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
+
+Assignment
+:   None this week!
+
+Quiz / Asynchronous participation
+
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+
+<!--
 
 ## Responding to Students 
 
@@ -277,20 +297,6 @@ Assignment
 
 Quiz / Asynchronous participation
 :   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
-
-## Grading
-
-Topic | Writeup | Video
------- | ------- | -----
-A "B+" means... | [HTML](b+means.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#51-Means.webm)/[webm](http://cs.virginia.edu/luther/2910/F2021/media/51-Means.webm) (15:19)
-Assessments | [HTML](assessment.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#52-Req.webm)/[webm](media/52-Req.webm) (8:55)
-Practicalities | [HTML](grading.html) | [player](http://cs.virginia.edu/luther/2910/F2021/player.html#53-Practice.webm)/[webm](media/53-Practice.webm) (12:09)
-
-Assignment
-:   None this week!
-
-Quiz / Asynchronous participation
-:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
 
 ## Improving as a teacher
