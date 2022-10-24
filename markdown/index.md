@@ -116,6 +116,10 @@ October 17--21
 October 24--38
 :   [Responding to Students] <span style="color:green">**(Required Topic)**</span>
 
+    Different ways to respond and interact with students
+    
+    Assignment: There are several activities you should try. Plese see [Responding to Students] below. 
+
 October 31--November 4
 :   Advanced Learning, Group OH, other scenarios
 
@@ -277,8 +281,6 @@ Quiz / Asynchronous participation
 
 :   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSes1jSJx-RlnU8oAjZs0SZ2FJZ-YMCYFFTuGHjn-icNCNk7Hw/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
-<!--
-
 ## Responding to Students 
 
 Topic | Writeup | Video
@@ -296,8 +298,9 @@ Assignment
     1. Pick one of the situations discussed this week that comes up the most often in your class, and try out one of the suggestions from this week's material that you don't usually use. Did it work?
 
 Quiz / Asynchronous participation
-:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSfjCFKRlxXvcQCOhIRwE9DM1qTc9lJpxGT8sMl8vUMnsOHyWA/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSf9ZWNGKtUNQQiohNSI5Jpej7khSFot7iZW8AKSK_sgaoxA7w/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
+<!--
 
 ## Improving as a teacher
 
