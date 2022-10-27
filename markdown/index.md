@@ -121,7 +121,11 @@ October 24--38
     Assignment: There are several activities you should try. Plese see [Responding to Students] below. 
 
 October 31--November 4
-:   Advanced Learning, Group OH, other scenarios
+:   [Improving as a teacher]
+
+    Skills you learn as a TA can translate to learned behaviors and skills that can benefit you throughout your life!
+    
+    Assignment: There are several activities you should try. Plese see [Improving as a teacher] below.
 
 November 7--11
 :   Guest Speaker
@@ -300,10 +304,8 @@ Assignment
 Quiz / Asynchronous participation
 :   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLSf9ZWNGKtUNQQiohNSI5Jpej7khSFot7iZW8AKSK_sgaoxA7w/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
-<!--
 
 ## Improving as a teacher
-
 
 Topic | Writeup | Video
 ------ | ------- | -----
@@ -321,8 +323,9 @@ Assignment
     1. Reflect on what you'll take from TAing into whatever you do next. Write down a personal goal related to this.
 
 Quiz / Asynchronous participation
-:   [Google quiz](http://docs.google.com/forms/d/e/1FAIpQLSe5TWuLtxbAd-bmDU7D_DoVnT4sC-ENcpLxDkDBWKQ3TEgBYg/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
+:   [Google quiz](https://docs.google.com/forms/d/e/1FAIpQLScm85ocsR0mapjf2Y1RrcG_xQCzpi0YLQXr_oCGZPh2Wsi67A/viewform?usp=sf_link) -- log in with your @virginia.edu account. You can re-take it as often as you wish.
 
+<!--
 
 ## Extra topics
 
