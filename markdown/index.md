@@ -326,7 +326,7 @@ Quiz / Asynchronous participation
 
 ## Guest Speaker
 
-For these two weeks we will listen to our guest speakers talk about their time at UVa in the CS Department and talk about skills that they learned, internships they had, their jobs, and much more! They are all UVa Alumni and highly successful in their life post graduation. They will impart their words of wisdom and I am sure you will learn a lot from what they have to say! Below is a brief biography about each of the speakers:
+For these two weeks we will listen to our **guest speakers** talk about their time at UVa in the CS Department and talk about skills that they learned, internships they had, their jobs, and much more! They are all UVa Alumni and highly successful in their life post graduation. They will impart their words of wisdom and *I am sure you will learn a lot from what they have to say!* Below is a brief biography about each of the speakers:
 
 
 <span style="color:orange">**Felix Park, Facebook**</span>
