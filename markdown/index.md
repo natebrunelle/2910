@@ -329,15 +329,15 @@ Quiz / Asynchronous participation
 For these two weeks we will listen to our guest speakers talk about their time at UVa in the CS Department and talk about skills that they learned, internships they had, their jobs, and much more! They are all UVa Alumni and highly successful in their life post graduation. They will impart their words of wisdom and I am sure you will learn a lot from what they have to say! Below is a brief biography about each of the speakers:
 
 
-**Felix Park, Facebook**
+<span style="color:orange">**Felix Park, Facebook**</span>
 
 Felix has been working as a Software Engineer at Meta for the past 3 years. He graduated from the University of Virginia with a B.S. in Computer Science and a M.S. in Computer Science. As an undergraduate, he won the Louis T. Rader Award for Excellence in Teaching. As a graduate student, Felix also served as a Teaching Assistant for Computer Security.
 
-**Vincent Lin, Google**
+<span style="color:blue">**Vincent Lin, Google**</span>
 
 Vincent recently joined Google, and prior to that, he worked as a Software Engineer at Microsoft for 1.5 years. He graduated from the University of Virginia with a B.S. in Computer Science as a Rodman Scholar, then graduated from Columbia University with a M.S. in Computer Science. Vincent served as a TA for CS 4102, Algorithms, for two semesters during his time as an undergraduate.
 
-**Paul Lee, Yugabyte**
+<span style="color:orange">**Paul Lee, Yugabyte**</span>
 
 Paul is a software engineer at Yugabyte, and prior to that, he worked as a Software Engineer at Google for around 1 year. He graduated from the University of Virginia with a B.S. in Computer Science as a Rodman Scholar. As an undergraduate, he interned at Microsoft.
 
