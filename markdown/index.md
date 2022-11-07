@@ -341,6 +341,25 @@ Vincent recently joined Google, and prior to that, he worked as a Software Engin
 
 Paul is a software engineer at Yugabyte, and prior to that, he worked as a Software Engineer at Google for around 1 year. He graduated from the University of Virginia with a B.S. in Computer Science as a Rodman Scholar. As an undergraduate, he interned at Microsoft.
 
+
+Nov. 7-11 | Guest Speaker 
+------ | ------- 
+Mon 10am | Paul Lee
+Wed 2:30pm | Vincent Lin
+Wed 3:30pm | Felix Park
+Fri 2:30pm | Paul Lee
+Fri 4pm | Felix Park
+
+
+Nov. 14-18 | Guest Speaker 
+------ | ------- 
+Mon 10am | Felix Park
+Wed 2:30pm | Felix Park
+Wed 3:30pm | Paul Lee
+Fri 2:30pm | Vincent Lin
+Fri 4pm | Paul Lee
+
+
 <!--
 
 ## Extra topics
