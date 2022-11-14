@@ -353,7 +353,7 @@ Fri 4pm | Felix Park
 
 Nov. 14-18 | Guest Speaker 
 ------ | ------- 
-Mon 10am | Felix Park
+Mon 10am | Vincent Lin
 Wed 2:30pm | Felix Park
 Wed 3:30pm | Paul Lee
 Fri 2:30pm | Vincent Lin
