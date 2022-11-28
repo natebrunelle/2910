@@ -137,10 +137,14 @@ November 21--25
 :   **Thanksgiving Break**, No classes
 
 November 28--December 2
-:   Lessons learned from the course, what you gained, reflect on what you said during Orientation <span style="color:green">**(Required Topic)**</span>
+:   [Reflections]
+
+    Lessons learned from the course, what you gained, reflect on what you said during Orientation <span style="color:green">**(Required Topic)**</span>
+    
+    Assignment and Asynchronous Participation: Fill out the Survey!
 
 December 5--9
-:   No classes, Last day of the semester is Dec. 6. <span style="color:red">Final Essay due by the end of the week</span>
+:   No classes, Last day of the semester is Dec. 6. <span style="color:red">Final Essay due by the end of the week (submit on Collab > Assignments)</span>
 
 <!--
 March 28--April 1
@@ -360,6 +364,17 @@ Fri 2:30pm | Vincent Lin
 Fri 4pm | Paul Lee
 
 
+## Reflections
+
+:   We have made it to the end of the semester! Congratulations on nearly completing your first semester as a TA! 
+
+    I hope the experience was rewarding and all that you hoped for. Despite the challenges, I am sure you learned a lot and impacted the students you interacted with. We (all faculty) truly appreciate your valuable service. We simply cannot teach our courses without you! :-)
+
+    For this last week, I would like you to reflect on your semester and all of your experiences both in the class and as a Teaching Assistant. Towards that end, please fill this form out by answering the following questions. **Submit your answers by Monday, December 5, 2022.**
+
+Survey for all students including those participating asynchronously:
+:   [Google survey](https://forms.gle/z3EshCokvsiGXBat7) -- log in with your @virginia.edu account. This is not a quiz; just take it once! (Though you may edit your answers if you wish after submitting.) 
+
 <!--
 
 ## Extra topics
@@ -384,9 +399,10 @@ Fri 4pm | Paul Lee
 - Curriculum redesign workshop
 - Taxonomies and hierarchies of knowledge and understanding
 
--->
 
 <span style="color:magenta">**More Topics Will Show Up Here As The Semester Progresses...!**</span>
+
+-->
 
 # Your Grade
 
