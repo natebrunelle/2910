@@ -366,7 +366,7 @@ Fri 4pm | Paul Lee
 
 ## Reflections
 
-We have made it to the end of the semester! Congratulations on nearly completing your first semester as a TA! 
+We have made it to the end of the semester! **Congratulations** on nearly completing your first semester as a TA! 
 
 I hope the experience was rewarding and all that you hoped for. Despite the challenges, I am sure you learned a lot and impacted the students you interacted with. We (all faculty) truly appreciate your valuable service. We simply cannot teach our courses without you! :-)
 
