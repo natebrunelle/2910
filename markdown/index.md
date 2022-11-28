@@ -441,7 +441,7 @@ Your assessments in this course run as follows:
     
     Grading of this paper is looking for thought and attention, not "correctness".
     
-    There's no particular length limit; both ½-page and 15-page papers could earn full credit. Say what you have to say, and then stop. Submit this by the last day of classes (Tuesday May 3).
+    There's no particular length limit; both ½-page and 15-page papers could earn full credit. Say what you have to say, and then stop. Submit this by the last day of classes (Tuesday December 6, 2022).
 
 - <span style="color:blue">50% your supervisor's response</span> to "on a scale from A to F, how effective was this TA?"
 
